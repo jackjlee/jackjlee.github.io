@@ -1,6 +1,10 @@
 ---
 title: Writing
 permalink: /writing/
+layout: splash
+header:
+  image: /assets/images/splash-image-green.png
+  caption: "Image by [woong hoe](https://pixabay.com/users/ioa8320-498245/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=483206) from [Pixabay](https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=483206)"
 ---
 
 ## Stanford Medicine, Office of Communications

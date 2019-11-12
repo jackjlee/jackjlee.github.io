@@ -40,3 +40,15 @@ author:
       - label: "GitHub"
         icon: "fab fa-github"
         url: "https://github.com/jackjlee"
+
+footer:
+  links:
+      - label: "Email"
+        icon: "fas fa-envelope"
+        url: "mailto:jackjleescience@gmail.com"
+      - label: "Twitter"
+        icon: "fab fa-twitter"
+        url: "https://twitter.com/jackjlee"
+      - label: "GitHub"
+        icon: "fab fa-github"
+        url: "https://github.com/jackjlee"
