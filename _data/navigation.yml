@@ -1,0 +1,7 @@
+main:
+  - title: "Writing"
+    url: /writing/
+  - title: "Data Viz"
+    url: /dataviz
+  - title: "CV"
+    url: /cv/
