@@ -12,6 +12,10 @@ header:
 * Dec. 11, 2019: [Scientists use night vision to help save bats’ lives](https://blogs.agu.org/geospace/2019/12/11/scientists-use-night-vision-to-help-save-bats-lives/)  
 
 
+## Mongabay
+
+* Nov. 28, 2019: [Beneficial and harmful fungi are at the root of forest diversity](https://news.mongabay.com/2019/11/beneficial-and-harmful-fungi-are-at-the-root-of-forest-diversity/)  
+
 ## Science News
 
 * Dec. 10, 2019: [A newly found Atacama Desert soil community survives on sips of fog](https://www.sciencenews.org/article/new-atacama-desert-soil-fungi-lichen-community-survives-fog-sips)  
