@@ -3,8 +3,8 @@ title: About
 permalink: /about/
 layout: splash
 header:
-  image: /assets/images/splash-image-orange.png
-  caption: "Image by [S. Hermann & F. Richter](https://pixabay.com/users/pixel2013-2364555/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1721590) from [Pixabay](https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1721590)"
+  image: /assets/images/splash-image-powerpoint.png
+  caption: "[Image by Esa Riutta from Pixabay](https://pixabay.com/users/EsaRiutta-1582392/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1783010)"
 ---
 I have a confession: I love making PowerPoint presentations. When I started
 graduate school, I dreaded assembling figures and writing slides. My attitude

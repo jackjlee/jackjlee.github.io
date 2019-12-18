@@ -3,8 +3,9 @@ title: CV
 permalink: /cv/
 layout: splash
 header:
-  image: /assets/images/splash-image-yellow.png
-  caption: "Image by [Susanne Jutzeler, suju-foto](https://pixabay.com/users/suju-165106/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3792914) from [Pixabay](https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=3792914)"
+  image: /assets/images/splash-image-scope.png
+  caption: "[Image by Konstantin Kolosov from Pixabay](https://pixabay.com/users/kkolosov-2105326/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2030265)"
+
 ---
 
 ## Education
