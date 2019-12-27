@@ -20,6 +20,10 @@ header:
 
 * Dec. 10, 2019: [A newly found Atacama Desert soil community survives on sips of fog](https://www.sciencenews.org/article/new-atacama-desert-soil-fungi-lichen-community-survives-fog-sips)  
 
+## San Jose Mercury News
+
+* Dec. 26, 2019: [Solutions to traffic problems are taking off](https://www.mercurynews.com/2019/12/26/solutions-to-traffic-problems-are-taking-off/)  
+
 ## Stanford Medicine, Office of Communications
 
 ### Press Releases ###
