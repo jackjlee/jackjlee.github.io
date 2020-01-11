@@ -22,6 +22,9 @@ B.S. in Biology
 
 ## Professional Experience, Writing
 
+**Monterey Herald (Jan 2020 - Present)**  
+Reporting Intern  
+
 **Stanford Medical School Public Affairs (Oct 2019 - Dec 2019)**  
 Science Writing Intern  
 

@@ -15,7 +15,7 @@ header:
 
 * Dec. 11, 2019: [Scientists use night vision to help save bats’ lives](https://blogs.agu.org/geospace/2019/12/11/scientists-use-night-vision-to-help-save-bats-lives/)  
 
-## Good Time Santa Cruz
+## Good Times Santa Cruz
 
 * Jan. 01, 2020: [The Birds and the Bees of Santa Cruz](http://goodtimes.sc/cover-stories/birds-bees-santa-cruz/)
     * *Written with UCSC SciCom classmates*
