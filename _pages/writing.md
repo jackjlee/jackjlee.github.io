@@ -13,6 +13,8 @@ header:
 
 ## AGU GeoSpace
 
+* Jan. 14, 2020: [Microbes endure a variety of inhospitable conditions in California’s Mono Lake](https://blogs.agu.org/geospace/2020/01/14/microbes-endure-a-variety-of-inhospitable-conditions-in-californias-mono-lake/)  
+
 * Dec. 11, 2019: [Scientists use night vision to help save bats’ lives](https://blogs.agu.org/geospace/2019/12/11/scientists-use-night-vision-to-help-save-bats-lives/)  
 
 ## Good Times Santa Cruz
