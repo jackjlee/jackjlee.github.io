@@ -27,6 +27,10 @@ header:
 
 * Nov. 28, 2019: [Beneficial and harmful fungi are at the root of forest diversity](https://news.mongabay.com/2019/11/beneficial-and-harmful-fungi-are-at-the-root-of-forest-diversity/)  
 
+## Monterey Herald
+
+* Jan. 24, 2020: [New mobile clinic increases health care access in Monterey County](https://www.montereyherald.com/2020/01/24/new-mobile-clinic-increases-health-care-access-in-monterey-county/)  
+
 ## Science News
 
 * Dec. 10, 2019: [A newly found Atacama Desert soil community survives on sips of fog](https://www.sciencenews.org/article/new-atacama-desert-soil-fungi-lichen-community-survives-fog-sips)  
