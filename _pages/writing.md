@@ -29,11 +29,17 @@ header:
 
 ## Monterey Herald
 
+* Feb. 01, 2020: [AB5: A problem in translation](https://www.montereyherald.com/2020/02/01/ab5-a-problem-in-translation/)
 * Jan. 24, 2020: [New mobile clinic increases health care access in Monterey County](https://www.montereyherald.com/2020/01/24/new-mobile-clinic-increases-health-care-access-in-monterey-county/)  
 
 ## Science News
 
-* Dec. 10, 2019: [A newly found Atacama Desert soil community survives on sips of fog](https://www.sciencenews.org/article/new-atacama-desert-soil-fungi-lichen-community-survives-fog-sips)  
+* Dec. 10, 2019: [A newly found Atacama Desert soil community survives on sips of fog](https://www.sciencenews.org/article/new-atacama-desert-soil-fungi-lichen-community-survives-fog-sips)
+
+## Science News for Students
+
+* Jan. 27, 2020: [Newfound desert soil community lives on sips of fog](https://www.sciencenewsforstudents.org/article/newfound-desert-soil-community-lives-on-sips-of-fog)  
+    * *Adapted from Science News story*  
 
 ## San Jose Mercury News
 
