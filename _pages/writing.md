@@ -29,6 +29,7 @@ header:
 
 ## Monterey Herald
 
+* Feb. 06, 2020: [Electric scooters zip back to CSU Monterey Bay](https://www.montereyherald.com/2020/02/06/electric-scooters-zip-back-to-csu-monterey-bay/)
 * Feb. 01, 2020: [AB5: A problem in translation](https://www.montereyherald.com/2020/02/01/ab5-a-problem-in-translation/)
 * Jan. 24, 2020: [New mobile clinic increases health care access in Monterey County](https://www.montereyherald.com/2020/01/24/new-mobile-clinic-increases-health-care-access-in-monterey-county/)  
 
