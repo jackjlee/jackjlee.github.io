@@ -41,6 +41,12 @@ author:
         icon: "fab fa-github"
         url: "https://github.com/jackjlee"
 
+analytics:
+    provider: "google-gtag"
+    google:
+        tracking_id: "UA-156051601-1"
+        anonymize_ip: true
+
 footer:
   links:
       - label: "Email"
