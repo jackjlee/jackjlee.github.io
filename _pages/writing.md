@@ -28,6 +28,7 @@ header:
 * Nov. 28, 2019: [Beneficial and harmful fungi are at the root of forest diversity](https://news.mongabay.com/2019/11/beneficial-and-harmful-fungi-are-at-the-root-of-forest-diversity/)  
 
 ## Monterey Herald
+* March 15, 2020: [Looking at ALS through poetry](https://www.montereyherald.com/2020/03/15/looking-at-als-through-poetry/)
 * March 8, 2020: [Spreading the word: Observe, but don’t disturb](https://www.montereyherald.com/2020/03/08/spreading-the-word-observe-but-dont-disturb/)
 * Feb. 27, 2020: [A shortage of surgical masks](https://www.montereyherald.com/2020/02/27/a-shortage-of-surgical-masks/)
 * Feb. 21, 2020: [Hartnell participates in national signing day, celebrating technical education](https://www.montereyherald.com/2020/02/21/hartnell-participates-in-national-signing-day-celebrating-technical-education/)
