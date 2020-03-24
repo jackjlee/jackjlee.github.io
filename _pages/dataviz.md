@@ -8,6 +8,11 @@ header:
 ---
 
 ## COVID-19
+* Dashboard tracking COVID-19 cases Bay Area counties over time
+     - [Link to dashboard](covid19_bayarea.html)
+     - Made using R and flexdashboard
+     - Created on March 24, 2020
 * Dashboard tracking COVID-19 cases in Santa Clara County over time
      - [Link to dashboard](covid19_scc.html)
      - Made using R and flexdashboard
+     - Created on March 23, 2020
