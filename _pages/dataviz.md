@@ -16,3 +16,9 @@ header:
      - [Link to dashboard](covid19_scc.html)
      - Made using R and flexdashboard
      - Created on March 23, 2020
+
+## Diabetes
+* Dashboard showing % of adults with diabetes in CA counties
+     - [Link to dashboard](https://jackjlee.shinyapps.io/ca_counties_diabetes/)
+     - Made using R, flexdashboard and Shiny
+     - Created on March 19, 2020
