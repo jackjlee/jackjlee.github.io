@@ -8,6 +8,10 @@ header:
 ---
 
 ## COVID-19
+* Dashboard tracking COVID-19 testing Monterey County over time
+     - [Link to dashboard](covid19_mry.html)
+     - Made using R and flexdashboard
+     - Created on April 01, 2020
 * Dashboard tracking COVID-19 cases Bay Area counties over time
      - [Link to dashboard](covid19_bayarea.html)
      - Made using R and flexdashboard
