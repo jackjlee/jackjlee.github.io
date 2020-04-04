@@ -22,7 +22,10 @@ B.S. in Biology
 
 ## Professional Experience, Writing
 
-**Monterey Herald (Jan 2020 - Present)**  
+**The Mercury News (March 2020 - Present)**  
+Reporting Intern  
+
+**Monterey Herald (Jan 2020 - March 2020)**  
 Reporting Intern  
 
 **Stanford Medical School Public Affairs (Oct 2019 - Dec 2019)**  
