@@ -26,3 +26,11 @@ header:
      - [Link to dashboard](https://jackjlee.shinyapps.io/ca_counties_diabetes/)
      - Made using R, flexdashboard and Shiny
      - Created on March 19, 2020
+
+## Unemployment Initial Claims
+* Dashboard showing the reasons for claim increases (week ending March 21)
+  - [Link to Tableau dashboard](https://public.tableau.com/profile/jackjleescience#!/vizhome/ReasonsUnemploymentInitialClaims-March21/StateCommentsDash)
+  - Created on April 06, 2020
+* Map showing the number of initial claims by state (week ending March 21)
+  - [Link to Tableau dashboard](https://public.tableau.com/profile/jackjleescience#!/vizhome/MapofUnemploymentInitialClaims-March21/MapDash)
+  - Created on April 06, 2020
