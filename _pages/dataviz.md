@@ -7,7 +7,12 @@ header:
   caption: "[Image by Michael Schwarzenberger from Pixabay](https://pixabay.com/users/blickpixel-52945/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=453758)"
 ---
 
-## COVID-19
+## COVID-19 - Cities
+* Dashboard showing COVID-19 cases in Santa Clara County cities
+  - [Link to Tableau dashboard](https://public.tableau.com/profile/jackjleescience#!/vizhome/COVID-19casesinSantaClaraCountycities/COVID-19SCCCitiesDash)
+  - Created on April 12, 2020
+
+## COVID-19 - Counties
 * Dashboard tracking COVID-19 testing Monterey County over time
      - [Link to dashboard](covid19_mry.html)
      - Made using R and flexdashboard
