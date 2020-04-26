@@ -47,8 +47,8 @@ header:
 * Jan. 27, 2020: [Newfound desert soil community lives on sips of fog](https://www.sciencenewsforstudents.org/article/newfound-desert-soil-community-lives-on-sips-of-fog)  
     * *Adapted from Science News story*  
 
-## San Jose Mercury News
-
+## The Mercury News
+* April 25, 2020: [Coronavirus: In a race against time, vaccine testing expands](https://www.mercurynews.com/2020/04/25/coronavirus-in-a-race-against-time-vaccine-testing-expands/)
 * Dec. 26, 2019: [Solutions to traffic problems are taking off](https://www.mercurynews.com/2019/12/26/solutions-to-traffic-problems-are-taking-off/)  
 
 ## Stanford Medicine, Office of Communications
