@@ -9,8 +9,8 @@ header:
 
 ## COVID-19 - Cities
 * Dashboard showing COVID-19 cases in Santa Clara County cities
-  - [Link to Tableau dashboard](https://public.tableau.com/profile/jackjleescience#!/vizhome/COVID-19casesinSantaClaraCountycities/COVID-19SCCCitiesDash)
-  - Created on April 12, 2020
+    - [Link to Tableau dashboard](https://public.tableau.com/profile/jackjleescience#!/vizhome/COVID-19casesinSantaClaraCountycities/COVID-19SCCCitiesDash)
+    - Created on April 12, 2020
 
 ## COVID-19 - Counties
 * Dashboard tracking COVID-19 testing Monterey County over time
@@ -26,6 +26,12 @@ header:
      - Made using R and flexdashboard
      - Created on March 23, 2020
 
+## COVID-19 - CA Skilled Nursing Facilities
+* Table displaying information about CA SNFs with confirmed COVID-19 cases
+    - [Link to Tableau dashboard](https://public.tableau.com/profile/jackjleescience#!/vizhome/ConfirmedCOVID-19ofCASNFs-May1/SNFCOVID-19Dash)
+    - Uses data provided by the [California Department of Public Health](https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/SNFsCOVID_19.aspx) on May 01, 2020
+    - Created on May 02, 2020
+
 ## Diabetes
 * Dashboard showing % of adults with diabetes in CA counties
      - [Link to dashboard](https://jackjlee.shinyapps.io/ca_counties_diabetes/)
@@ -34,8 +40,8 @@ header:
 
 ## Unemployment Initial Claims
 * Dashboard showing the reasons for claim increases (week ending March 21)
-  - [Link to Tableau dashboard](https://public.tableau.com/profile/jackjleescience#!/vizhome/ReasonsUnemploymentInitialClaims-March21/StateCommentsDash)
-  - Created on April 06, 2020
+    - [Link to Tableau dashboard](https://public.tableau.com/profile/jackjleescience#!/vizhome/ReasonsUnemploymentInitialClaims-March21/StateCommentsDash)
+    - Created on April 06, 2020
 * Map showing the number of initial claims by state (week ending March 21)
-  - [Link to Tableau dashboard](https://public.tableau.com/profile/jackjleescience#!/vizhome/MapofUnemploymentInitialClaims-March21/MapDash)
-  - Created on April 06, 2020
+    - [Link to Tableau dashboard](https://public.tableau.com/profile/jackjleescience#!/vizhome/MapofUnemploymentInitialClaims-March21/MapDash)
+    - Created on April 06, 2020
