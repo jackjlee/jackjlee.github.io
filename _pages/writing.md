@@ -53,6 +53,9 @@ header:
 
 ## Stanford Medicine, Office of Communications
 
+### Stanford Medicine Magazine ###
+* April 07, 2020: [Unscrambled eggs](http://stanmed.stanford.edu/2020issue1/frog-eggs-reassemble-aid-synthetic-cell-development.html)
+
 ### Press Releases ###
 * Jan. 07, 2020: [Human body temperature has decreased in United States, study finds](http://med.stanford.edu/news/all-news/2020/01/human-body-temperature-has-decreased-in-united-states.html)
 * Dec. 12, 2019: [Alcohol, ‘Asian glow’ mutation may contribute to Alzheimer’s disease, study finds](http://med.stanford.edu/news/all-news/2019/12/alcohol-asian-glow-mutation-may-contribute-to-alzheimers.html)
