@@ -48,7 +48,11 @@ header:
     * *Adapted from Science News story*  
 
 ## The Mercury News
+* May 7, 2020: [Coronavirus tests: What are they? How can you get one?](https://www.mercurynews.com/2020/05/07/coronavirus-tests-what-are-they-how-can-you-get-one/)
+* May 6, 2020: [Coronavirus: Inside the Bay Area’s growing army of disease detectives](https://www.mercurynews.com/2020/05/06/coronavirus-inside-the-bay-areas-growing-army-of-disease-detectives/)
+    * *Shared byline with Lisa Krieger*
 * April 25, 2020: [Coronavirus: In a race against time, vaccine testing expands](https://www.mercurynews.com/2020/04/25/coronavirus-in-a-race-against-time-vaccine-testing-expands/)
+    * *Shared byline with Lisa Krieger*
 * Dec. 26, 2019: [Solutions to traffic problems are taking off](https://www.mercurynews.com/2019/12/26/solutions-to-traffic-problems-are-taking-off/)  
 
 ## Stanford Medicine, Office of Communications
