@@ -28,9 +28,18 @@ header:
 
 ## COVID-19 - CA Skilled Nursing Facilities
 * Table displaying information about CA SNFs with confirmed COVID-19 cases
-    - [Link to Tableau dashboard](https://public.tableau.com/profile/jackjleescience#!/vizhome/ConfirmedCOVID-19ofCASNFs-May1/SNFCOVID-19Dash)
-    - Uses data provided by the [California Department of Public Health](https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/SNFsCOVID_19.aspx) on May 01, 2020
-    - Created on May 02, 2020
+    - [Link to Tableau dashboard](https://public.tableau.com/profile/jackjleescience#!/vizhome/ConfirmedCOVID-19ofCASNFs-May18/SNFCOVID-19Dash)
+    - Uses data provided by the [California Department of Public Health](https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/SNFsCOVID_19.aspx) on May 18, 2020
+    - Created on May 18, 2020
+
+## COVID-19 - Zip Codes
+* Dashboard showing COVID-19 cases in Alameda County zip codes
+    - [Link to Tableau dashboard](https://public.tableau.com/profile/jackjleescience#!/vizhome/COVID-19CasesinAlamedaCountybyZipCode/AlamedaZipDash)
+    - Created on May 18, 2020
+* Dashboard showing COVID-19 deaths in San Francisco zip codes
+    - [Link to Tableau dashboard](https://public.tableau.com/profile/jackjleescience#!/vizhome/COVID-19deathsinSFbyzipcode/SFCOVID-19deathsbyzip)
+    - Uses data from April 21, 2020
+    - Created on April 27, 2020
 
 ## Diabetes
 * Dashboard showing % of adults with diabetes in CA counties
