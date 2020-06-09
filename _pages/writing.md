@@ -29,7 +29,7 @@ header:
 
 ## Monterey Herald
 * March 15, 2020: [Looking at ALS through poetry](https://www.montereyherald.com/2020/03/15/looking-at-als-through-poetry/)
-* March 8, 2020: [Spreading the word: Observe, but don’t disturb](https://www.montereyherald.com/2020/03/08/spreading-the-word-observe-but-dont-disturb/)
+* March 08, 2020: [Spreading the word: Observe, but don’t disturb](https://www.montereyherald.com/2020/03/08/spreading-the-word-observe-but-dont-disturb/)
 * Feb. 27, 2020: [A shortage of surgical masks](https://www.montereyherald.com/2020/02/27/a-shortage-of-surgical-masks/)
 * Feb. 21, 2020: [Hartnell participates in national signing day, celebrating technical education](https://www.montereyherald.com/2020/02/21/hartnell-participates-in-national-signing-day-celebrating-technical-education/)
 * Feb. 16, 2020: [Raccoons can be cute, but a fierce pest](https://www.montereyherald.com/2020/02/16/raccoons-can-be-cute-but-a-fierce-pest/)
@@ -48,8 +48,11 @@ header:
     * *Adapted from Science News story*  
 
 ## The Mercury News
-* May 7, 2020: [Coronavirus tests: What are they? How can you get one?](https://www.mercurynews.com/2020/05/07/coronavirus-tests-what-are-they-how-can-you-get-one/)
-* May 6, 2020: [Coronavirus: Inside the Bay Area’s growing army of disease detectives](https://www.mercurynews.com/2020/05/06/coronavirus-inside-the-bay-areas-growing-army-of-disease-detectives/)
+* June 05, 2020: [Coronavirus: Are kids as safe as we thought?](https://www.mercurynews.com/2020/06/05/coronavirus-are-kids-as-safe-as-we-thought/)
+    * *Shared byline with Lisa Krieger*
+* May 14, 2020: [Coronavirus: Who gave you COVID-19? It’s not who you think](https://www.mercurynews.com/2020/05/14/coronavirus-who-gave-you-covid-19-its-not-who-you-think/)
+* May 07, 2020: [Coronavirus tests: What are they? How can you get one?](https://www.mercurynews.com/2020/05/07/coronavirus-tests-what-are-they-how-can-you-get-one/)
+* May 06, 2020: [Coronavirus: Inside the Bay Area’s growing army of disease detectives](https://www.mercurynews.com/2020/05/06/coronavirus-inside-the-bay-areas-growing-army-of-disease-detectives/)
     * *Shared byline with Lisa Krieger*
 * April 25, 2020: [Coronavirus: In a race against time, vaccine testing expands](https://www.mercurynews.com/2020/04/25/coronavirus-in-a-race-against-time-vaccine-testing-expands/)
     * *Shared byline with Lisa Krieger*
