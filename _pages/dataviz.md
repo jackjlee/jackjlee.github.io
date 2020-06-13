@@ -11,6 +11,7 @@ header:
 * Dashboard showing COVID-19 cases in Alameda County cities
      - [Link to dashboard](covid19_ac_cities.html)
      - Made using R and flexdashboard
+     - Code available on [GitHub](https://github.com/jackjlee/covid19_ac_cities)
      - Created on June 13, 2020
 * Dashboard showing COVID-19 cases in Santa Clara County cities
     - [Link to Tableau dashboard](https://public.tableau.com/profile/jackjleescience#!/vizhome/COVID-19casesinSantaClaraCountycities/COVID-19SCCCitiesDash)
