@@ -22,7 +22,10 @@ B.S. in Biology
 
 ## Professional Experience, Writing
 
-**The Mercury News (March 2020 - Present)**  
+**Science News (June 2020 - Present)**  
+Science Writing Intern  
+
+**The Mercury News (March 2020 - June 2020)**  
 Reporting Intern  
 
 **Monterey Herald (Jan 2020 - March 2020)**  
