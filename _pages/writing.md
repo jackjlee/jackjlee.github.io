@@ -39,11 +39,12 @@ header:
 * Jan. 24, 2020: [New mobile clinic increases health care access in Monterey County](https://www.montereyherald.com/2020/01/24/new-mobile-clinic-increases-health-care-access-in-monterey-county/)  
 
 ## Science News
-
-* Dec. 10, 2019: [A newly found Atacama Desert soil community survives on sips of fog](https://www.sciencenews.org/article/new-atacama-desert-soil-fungi-lichen-community-survives-fog-sips)
+* July 02, 2020: [A sparrow song remix took over North America with astonishing speed](https://www.sciencenews.org/article/white-throated-sparrow-song-variation)
+* June 25, 2020: [Dolphins can learn from peers how to use shells as tools](https://www.sciencenews.org/article/dolphins-learn-shells-foraging-tools)
+* June 24, 2020: [A newly found Atacama Desert soil community survives on sips of fog](https://www.sciencenews.org/article/new-atacama-desert-soil-fungi-lichen-community-survives-fog-sips)
+* Dec. 10, 2019: [Fossil discoveries suggest the earliest dinosaurs laid soft-shelled eggs](https://www.sciencenews.org/article/fossil-discoveries-suggest-earliest-dinosaurs-laid-soft-shelled-eggs)
 
 ## Science News for Students
-
 * Jan. 27, 2020: [Newfound desert soil community lives on sips of fog](https://www.sciencenewsforstudents.org/article/newfound-desert-soil-community-lives-on-sips-of-fog)  
     * *Adapted from Science News story*  
 
