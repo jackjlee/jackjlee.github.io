@@ -8,23 +8,22 @@ header:
 ---
 
 ## AGU Eos
-
 * Jan. 08, 2020: [Rolling Rocks Reveal Recent Moonquakes](https://eos.org/articles/rolling-rocks-reveal-recent-moonquakes)  
 
 ## AGU GeoSpace
-
 * Jan. 14, 2020: [Microbes endure a variety of inhospitable conditions in California’s Mono Lake](https://blogs.agu.org/geospace/2020/01/14/microbes-endure-a-variety-of-inhospitable-conditions-in-californias-mono-lake/)  
-
 * Dec. 11, 2019: [Scientists use night vision to help save bats’ lives](https://blogs.agu.org/geospace/2019/12/11/scientists-use-night-vision-to-help-save-bats-lives/)  
 
-## Good Times Santa Cruz
+## ASBMB Today
+* July 15, 2020: [From the journals: MCP](https://www.asbmb.org/asbmb-today/science/071520/from-the-journals-mcp)  
+* March 03, 2020: [From the journals: JLR](https://www.asbmb.org/asbmb-today/science/030320/from-the-journals-jlr)  
 
+## Good Times Santa Cruz
 * Jan. 01, 2020: [The Birds and the Bees of Santa Cruz](http://goodtimes.sc/cover-stories/birds-bees-santa-cruz/)
     * *Written with UCSC SciCom classmates*
     * *Answered "Are there any negative environmental consequences from flying drones in Santa Cruz’s natural spaces?"*
 
 ## Mongabay
-
 * Nov. 28, 2019: [Beneficial and harmful fungi are at the root of forest diversity](https://news.mongabay.com/2019/11/beneficial-and-harmful-fungi-are-at-the-root-of-forest-diversity/)  
 
 ## Monterey Herald
@@ -39,6 +38,7 @@ header:
 * Jan. 24, 2020: [New mobile clinic increases health care access in Monterey County](https://www.montereyherald.com/2020/01/24/new-mobile-clinic-increases-health-care-access-in-monterey-county/)  
 
 ## Science News
+* July 13, 2020: [A bacterial toxin enables the first mitochondrial gene editor](https://www.sciencenews.org/article/mitochondria-gene-editing-bacterial-toxin-crispr)
 * July 02, 2020: [A sparrow song remix took over North America with astonishing speed](https://www.sciencenews.org/article/white-throated-sparrow-song-variation)
 * June 25, 2020: [Dolphins can learn from peers how to use shells as tools](https://www.sciencenews.org/article/dolphins-learn-shells-foraging-tools)
 * June 24, 2020: [A newly found Atacama Desert soil community survives on sips of fog](https://www.sciencenews.org/article/new-atacama-desert-soil-fungi-lichen-community-survives-fog-sips)
