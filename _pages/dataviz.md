@@ -18,14 +18,19 @@ header:
     - Created on April 12, 2020
 
 ## COVID-19 - Counties
+* Version 2 of dashboard tracking COVID-19 cases Bay Area counties over time
+     - [Link to dashboard](covid19_bayarea.html)
+     - Made using R and flexdashboard
+     - Created on August 2, 2020
 * Dashboard tracking COVID-19 testing Monterey County over time
      - [Link to dashboard](covid19_mry.html)
      - Made using R and flexdashboard
      - Created on April 01, 2020
 * Dashboard tracking COVID-19 cases Bay Area counties over time
-     - [Link to dashboard](covid19_bayarea.html)
+     - [Link to dashboard](covid19_bayarea_old.html)
      - Made using R and flexdashboard
      - Created on March 24, 2020
+     - Archived on August 2, 2020 (replaced with V2)
 * Dashboard tracking COVID-19 cases in Santa Clara County over time
      - [Link to dashboard](covid19_scc.html)
      - Made using R and flexdashboard
