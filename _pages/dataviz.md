@@ -42,6 +42,11 @@ header:
     - Uses data provided by the [California Department of Public Health](https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/SNFsCOVID_19.aspx) on May 18, 2020
     - Created on May 18, 2020
 
+## COVID-19 - Testing
+* Dashboard showing median wait times to get COVID-19 test results
+    - [Link to Tableau dashboard](https://public.tableau.com/profile/jackjleescience#!/vizhome/WaitingforCOVID-19testresultintheU_S_/COVID-19wait)
+    - Created on August 08, 2020
+
 ## COVID-19 - Zip Codes
 * Dashboard showing COVID-19 cases in Alameda County zip codes
     - [Link to Tableau dashboard](https://public.tableau.com/profile/jackjleescience#!/vizhome/COVID-19CasesinAlamedaCountybyZipCode/AlamedaZipDash)
