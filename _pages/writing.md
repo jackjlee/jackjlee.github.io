@@ -38,7 +38,7 @@ header:
 * Jan. 24, 2020: [New mobile clinic increases health care access in Monterey County](https://www.montereyherald.com/2020/01/24/new-mobile-clinic-increases-health-care-access-in-monterey-county/)  
 
 ## Science News
-* August 14, 2020: [Hurricanes have names. Some climate experts say heat waves should, too](https://www.sciencenews.org/article/hurricanes-names-heat-waves-climate-health)
+* Aug. 14, 2020: [Hurricanes have names. Some climate experts say heat waves should, too](https://www.sciencenews.org/article/hurricanes-names-heat-waves-climate-health)
 * July 31, 2020: [Human sperm don’t swim the way that anyone had thought](https://www.sciencenews.org/article/human-sperm-tail-swim-biophysics)
 * July 29, 2020: [A South American mouse is the world’s highest-dwelling mammal](https://www.sciencenews.org/article/south-american-mouse-world-highest-dwelling-mammal)
 * July 20, 2020: [Coronavirus-infected cells sprout filaments that may spread the virus](https://www.sciencenews.org/article/covid-19-coronavirus-infected-cells-sprout-filaments-spread-virus)
@@ -49,6 +49,10 @@ header:
 * Dec. 10, 2019: [A newly found Atacama Desert soil community survives on sips of fog](https://www.sciencenews.org/article/new-atacama-desert-soil-fungi-lichen-community-survives-fog-sips)
 
 ## Science News for Students
+* Aug. 06, 2020: [Dolphins can learn from their peers how to use shells as tools](https://www.sciencenewsforstudents.org/article/dolphins-learn-from-peers-shells-foraging-tools)  
+    * *Adapted from Science News story*  
+* Aug. 03, 2020: [Early dinosaurs may have laid soft-shelled eggs](https://www.sciencenewsforstudents.org/article/early-dinosaurs-soft-shelled-eggs-fossil)  
+    * *Adapted from Science News story*  
 * Jan. 27, 2020: [Newfound desert soil community lives on sips of fog](https://www.sciencenewsforstudents.org/article/newfound-desert-soil-community-lives-on-sips-of-fog)  
     * *Adapted from Science News story*  
 
