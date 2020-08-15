@@ -38,13 +38,14 @@ header:
 * Jan. 24, 2020: [New mobile clinic increases health care access in Monterey County](https://www.montereyherald.com/2020/01/24/new-mobile-clinic-increases-health-care-access-in-monterey-county/)  
 
 ## Science News
+* August 14, 2020: [Hurricanes have names. Some climate experts say heat waves should, too](https://www.sciencenews.org/article/hurricanes-names-heat-waves-climate-health)
 * July 31, 2020: [Human sperm don’t swim the way that anyone had thought](https://www.sciencenews.org/article/human-sperm-tail-swim-biophysics)
 * July 29, 2020: [A South American mouse is the world’s highest-dwelling mammal](https://www.sciencenews.org/article/south-american-mouse-world-highest-dwelling-mammal)
 * July 20, 2020: [Coronavirus-infected cells sprout filaments that may spread the virus](https://www.sciencenews.org/article/covid-19-coronavirus-infected-cells-sprout-filaments-spread-virus)
 * July 13, 2020: [A bacterial toxin enables the first mitochondrial gene editor](https://www.sciencenews.org/article/mitochondria-gene-editing-bacterial-toxin-crispr)
 * July 02, 2020: [A sparrow song remix took over North America with astonishing speed](https://www.sciencenews.org/article/white-throated-sparrow-song-variation)
 * June 25, 2020: [Dolphins can learn from peers how to use shells as tools](https://www.sciencenews.org/article/dolphins-learn-shells-foraging-tools)
-* June 24, 2020: [Fossil discoveries suggest the earliest dinosaurs laid soft-shelled eggs](https://www.sciencenews.org/article/fossil-discoveries-suggest-earliest-dinosaurs-laid-soft-shelled-eggs) 
+* June 24, 2020: [Fossil discoveries suggest the earliest dinosaurs laid soft-shelled eggs](https://www.sciencenews.org/article/fossil-discoveries-suggest-earliest-dinosaurs-laid-soft-shelled-eggs)
 * Dec. 10, 2019: [A newly found Atacama Desert soil community survives on sips of fog](https://www.sciencenews.org/article/new-atacama-desert-soil-fungi-lichen-community-survives-fog-sips)
 
 ## Science News for Students
