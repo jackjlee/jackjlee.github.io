@@ -39,6 +39,7 @@ header:
 * Jan. 24, 2020: [New mobile clinic increases health care access in Monterey County](https://www.montereyherald.com/2020/01/24/new-mobile-clinic-increases-health-care-access-in-monterey-county/)  
 
 ## Science News
+* Aug. 31, 2020: [New coronavirus tests promise to be faster, cheaper and easier](https://www.sciencenews.org/article/coronavirus-covid19-rapid-tests-rna-virus)
 * Aug. 14, 2020: [Hurricanes have names. Some climate experts say heat waves should, too](https://www.sciencenews.org/article/hurricanes-names-heat-waves-climate-health)
 * July 31, 2020: [Human sperm don’t swim the way that anyone had thought](https://www.sciencenews.org/article/human-sperm-tail-swim-biophysics)
 * July 29, 2020: [A South American mouse is the world’s highest-dwelling mammal](https://www.sciencenews.org/article/south-american-mouse-world-highest-dwelling-mammal)
