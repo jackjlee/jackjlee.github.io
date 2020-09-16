@@ -39,6 +39,7 @@ header:
 * Jan. 24, 2020: [New mobile clinic increases health care access in Monterey County](https://www.montereyherald.com/2020/01/24/new-mobile-clinic-increases-health-care-access-in-monterey-county/)  
 
 ## Science News
+* Sep. 15, 2020: [How do you clean up clingy space dust? Zap it with an electron beam](https://www.sciencenews.org/article/electron-beam-space-moon-dust-zap-clean-up)
 * Aug. 31, 2020: [New coronavirus tests promise to be faster, cheaper and easier](https://www.sciencenews.org/article/coronavirus-covid19-rapid-tests-rna-virus)
 * Aug. 14, 2020: [Hurricanes have names. Some climate experts say heat waves should, too](https://www.sciencenews.org/article/hurricanes-names-heat-waves-climate-health)
 * July 31, 2020: [Human sperm don’t swim the way that anyone had thought](https://www.sciencenews.org/article/human-sperm-tail-swim-biophysics)
