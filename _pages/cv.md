@@ -22,7 +22,7 @@ B.S. in Biology
 
 ## Professional Experience, Writing
 
-**Science News (June 2020 - Present)**  
+**Science News (June 2020 - Sept 2020)**  
 Science Writing Intern  
 
 **The Mercury News (March 2020 - June 2020)**  
