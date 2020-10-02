@@ -7,10 +7,12 @@ header:
   caption: "[Image by jacqueline macou from Pixabay](https://pixabay.com/users/jackmac34-483877/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1726000)"
 ---
 
-## AGU Eos
+## American Geophysical Union
+
+### Eos
 * Jan. 08, 2020: [Rolling Rocks Reveal Recent Moonquakes](https://eos.org/articles/rolling-rocks-reveal-recent-moonquakes)  
 
-## AGU GeoSpace
+### GeoSpace
 * Jan. 14, 2020: [Microbes endure a variety of inhospitable conditions in California’s Mono Lake](https://blogs.agu.org/geospace/2020/01/14/microbes-endure-a-variety-of-inhospitable-conditions-in-californias-mono-lake/)  
 * Dec. 11, 2019: [Scientists use night vision to help save bats’ lives](https://blogs.agu.org/geospace/2019/12/11/scientists-use-night-vision-to-help-save-bats-lives/)  
 
@@ -39,7 +41,12 @@ header:
 * Jan. 24, 2020: [New mobile clinic increases health care access in Monterey County](https://www.montereyherald.com/2020/01/24/new-mobile-clinic-increases-health-care-access-in-monterey-county/)  
 
 ## Science News
-* Sep. 15, 2020: [How do you clean up clingy space dust? Zap it with an electron beam](https://www.sciencenews.org/article/electron-beam-space-moon-dust-zap-clean-up)
+
+### Features
+* Sept. 24, 2020: [Life on Earth may have begun in hostile hot springs](https://www.sciencenews.org/article/life-earth-origins-hostile-hot-springs-microbes)
+
+### News
+* Sept. 15, 2020: [How do you clean up clingy space dust? Zap it with an electron beam](https://www.sciencenews.org/article/electron-beam-space-moon-dust-zap-clean-up)
 * Aug. 31, 2020: [New coronavirus tests promise to be faster, cheaper and easier](https://www.sciencenews.org/article/coronavirus-covid19-rapid-tests-rna-virus)
 * Aug. 14, 2020: [Hurricanes have names. Some climate experts say heat waves should, too](https://www.sciencenews.org/article/hurricanes-names-heat-waves-climate-health)
 * July 31, 2020: [Human sperm don’t swim the way that anyone had thought](https://www.sciencenews.org/article/human-sperm-tail-swim-biophysics)
