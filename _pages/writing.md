@@ -22,9 +22,13 @@ header:
 * March 03, 2020: [From the journals: JLR](https://www.asbmb.org/asbmb-today/science/030320/from-the-journals-jlr)  
 
 ## Good Times Santa Cruz
-* Jan. 01, 2020: [The Birds and the Bees of Santa Cruz](http://goodtimes.sc/cover-stories/birds-bees-santa-cruz/)
-    * *Written with UCSC SciCom classmates*
-    * *Answered "Are there any negative environmental consequences from flying drones in Santa Cruz’s natural spaces?"*
+<ul>
+    <li>Jan. 01, 2020: <a href='http://goodtimes.sc/cover-stories/birds-bees-santa-cruz/'>The Birds and the Bees of Santa Cruz</a></li>
+        <ul>
+        <li style="font-size:90%; font-style:italic;">Written with UCSC SciCom classmates</li>
+        <li style="font-size:90%; font-style:italic;">Answered "Are there any negative environmental consequences from flying drones in Santa Cruz’s natural spaces?</li>
+        </ul>
+</ul>
 
 ## Mongabay
 * Nov. 28, 2019: [Beneficial and harmful fungi are at the root of forest diversity](https://news.mongabay.com/2019/11/beneficial-and-harmful-fungi-are-at-the-root-of-forest-diversity/)  
@@ -43,39 +47,77 @@ header:
 ## Science News
 
 ### Features
-* Sept. 24, 2020: [Life on Earth may have begun in hostile hot springs](https://www.sciencenews.org/article/life-earth-origins-hostile-hot-springs-microbes)
+<ul>
+    <li>Sept. 24, 2020: <a href='https://www.sciencenews.org/article/life-earth-origins-hostile-hot-springs-microbes'>Life on Earth may have begun in hostile hot springs</a></li>
+        <ul>
+        <li style="font-size:90%; font-style:italic;">A version of this article appears in the Sept. 26, 2020 issue</li>
+        </ul>
+</ul>
 
 ### News
-* Sept. 15, 2020: [How do you clean up clingy space dust? Zap it with an electron beam](https://www.sciencenews.org/article/electron-beam-space-moon-dust-zap-clean-up)
-* Aug. 31, 2020: [New coronavirus tests promise to be faster, cheaper and easier](https://www.sciencenews.org/article/coronavirus-covid19-rapid-tests-rna-virus)
-* Aug. 14, 2020: [Hurricanes have names. Some climate experts say heat waves should, too](https://www.sciencenews.org/article/hurricanes-names-heat-waves-climate-health)
-* July 31, 2020: [Human sperm don’t swim the way that anyone had thought](https://www.sciencenews.org/article/human-sperm-tail-swim-biophysics)
-* July 29, 2020: [A South American mouse is the world’s highest-dwelling mammal](https://www.sciencenews.org/article/south-american-mouse-world-highest-dwelling-mammal)
-* July 20, 2020: [Coronavirus-infected cells sprout filaments that may spread the virus](https://www.sciencenews.org/article/covid-19-coronavirus-infected-cells-sprout-filaments-spread-virus)
-* July 13, 2020: [A bacterial toxin enables the first mitochondrial gene editor](https://www.sciencenews.org/article/mitochondria-gene-editing-bacterial-toxin-crispr)
-* July 02, 2020: [A sparrow song remix took over North America with astonishing speed](https://www.sciencenews.org/article/white-throated-sparrow-song-variation)
-* June 25, 2020: [Dolphins can learn from peers how to use shells as tools](https://www.sciencenews.org/article/dolphins-learn-shells-foraging-tools)
-* June 24, 2020: [Fossil discoveries suggest the earliest dinosaurs laid soft-shelled eggs](https://www.sciencenews.org/article/fossil-discoveries-suggest-earliest-dinosaurs-laid-soft-shelled-eggs)
-* Dec. 10, 2019: [A newly found Atacama Desert soil community survives on sips of fog](https://www.sciencenews.org/article/new-atacama-desert-soil-fungi-lichen-community-survives-fog-sips)
+<ul>
+    <li>Sept. 15, 2020: <a href='https://www.sciencenews.org/article/electron-beam-space-moon-dust-zap-clean-up'>How do you clean up clingy space dust? Zap it with an electron beam</a></li>
+    <li>Aug. 31, 2020: <a href='https://www.sciencenews.org/article/coronavirus-covid19-rapid-tests-rna-virus'>New coronavirus tests promise to be faster, cheaper and easier</a></li>
+    <li>Aug. 14, 2020: <a href='https://www.sciencenews.org/article/hurricanes-names-heat-waves-climate-health'>Hurricanes have names. Some climate experts say heat waves should, too</a></li>
+        <ul>
+        <li style="font-size:90%; font-style:italic;">A version of this article appears in the Sept. 12, 2020 issue</li>
+        </ul>
+    <li>July 31, 2020: <a href='https://www.sciencenews.org/article/human-sperm-tail-swim-biophysics'>Human sperm don’t swim the way that anyone had thought</a></li>
+        <ul>
+        <li style="font-size:90%; font-style:italic;">A version of this article appears in the Aug. 29, 2020 issue</li>
+        </ul>
+    <li>July 31, 2020: <a href='https://www.sciencenews.org/article/south-american-mouse-world-highest-dwelling-mammal'>A South American mouse is the world’s highest-dwelling mammal</a></li>
+        <ul>
+        <li style="font-size:90%; font-style:italic;">A version of this article appears in the Aug. 29, 2020 issue</li>
+        </ul>
+    <li>July 20, 2020: <a href='https://www.sciencenews.org/article/covid-19-coronavirus-infected-cells-sprout-filaments-spread-virus'>Coronavirus-infected cells sprout filaments that may spread the virus</a></li>
+    <li>July 13, 2020: <a href='https://www.sciencenews.org/article/mitochondria-gene-editing-bacterial-toxin-crispr'>A bacterial toxin enables the first mitochondrial gene editor</a></li>
+        <ul>
+        <li style="font-size:90%; font-style:italic;">A version of this article appears in the Aug. 15, 2020 issue</li>
+        </ul>
+    <li>July 02, 2020: <a href='https://www.sciencenews.org/article/white-throated-sparrow-song-variation'>A sparrow song remix took over North America with astonishing speed</a></li>
+        <ul>
+        <li style="font-size:90%; font-style:italic;">A version of this article appears in the Aug. 01, 2020 issue</li>
+        </ul>
+    <li>June 25, 2020: <a href='https://www.sciencenews.org/article/dolphins-learn-shells-foraging-tools'>Dolphins can learn from peers how to use shells as tools</a></li>
+    <li>June 24, 2020: <a href='https://www.sciencenews.org/article/fossil-discoveries-suggest-earliest-dinosaurs-laid-soft-shelled-eggs'>Fossil discoveries suggest the earliest dinosaurs laid soft-shelled eggs</a></li>
+    <li>Dec. 10, 2019: <a href='https://www.sciencenews.org/article/new-atacama-desert-soil-fungi-lichen-community-survives-fog-sips'>A newly found Atacama Desert soil community survives on sips of fog</a></li>
+</ul>
 
 ## Science News for Students
-* Aug. 06, 2020: [Dolphins can learn from their peers how to use shells as tools](https://www.sciencenewsforstudents.org/article/dolphins-learn-from-peers-shells-foraging-tools)  
-    * *Adapted from Science News story*  
-* Aug. 03, 2020: [Early dinosaurs may have laid soft-shelled eggs](https://www.sciencenewsforstudents.org/article/early-dinosaurs-soft-shelled-eggs-fossil)  
-    * *Adapted from Science News story*  
-* Jan. 27, 2020: [Newfound desert soil community lives on sips of fog](https://www.sciencenewsforstudents.org/article/newfound-desert-soil-community-lives-on-sips-of-fog)  
-    * *Adapted from Science News story*  
+<ul>
+    <li>Aug. 06, 2020: <a href='https://www.sciencenewsforstudents.org/article/dolphins-learn-from-peers-shells-foraging-tools'>Dolphins can learn from their peers how to use shells as tools</a></li>
+        <ul>
+        <li style="font-size:90%; font-style:italic;">Adapted from Science News story</li>
+        </ul>
+    <li>Aug. 03, 2020: <a href='https://www.sciencenewsforstudents.org/article/early-dinosaurs-soft-shelled-eggs-fossil'>Early dinosaurs may have laid soft-shelled eggs</a></li>
+        <ul>
+        <li style="font-size:90%; font-style:italic;">Adapted from Science News story</li>
+        </ul>
+    <li>Jan. 27, 2020: <a href='https://www.sciencenewsforstudents.org/article/newfound-desert-soil-community-lives-on-sips-of-fog'>Newfound desert soil community lives on sips of fog</a></li>
+        <ul>
+        <li style="font-size:90%; font-style:italic;">Adapted from Science News story</li>
+        </ul>
+</ul>
 
 ## The Mercury News
-* June 05, 2020: [Coronavirus: Are kids as safe as we thought?](https://www.mercurynews.com/2020/06/05/coronavirus-are-kids-as-safe-as-we-thought/)
-    * *Shared byline with Lisa Krieger*
-* May 14, 2020: [Coronavirus: Who gave you COVID-19? It’s not who you think](https://www.mercurynews.com/2020/05/14/coronavirus-who-gave-you-covid-19-its-not-who-you-think/)
-* May 07, 2020: [Coronavirus tests: What are they? How can you get one?](https://www.mercurynews.com/2020/05/07/coronavirus-tests-what-are-they-how-can-you-get-one/)
-* May 06, 2020: [Coronavirus: Inside the Bay Area’s growing army of disease detectives](https://www.mercurynews.com/2020/05/06/coronavirus-inside-the-bay-areas-growing-army-of-disease-detectives/)
-    * *Shared byline with Lisa Krieger*
-* April 25, 2020: [Coronavirus: In a race against time, vaccine testing expands](https://www.mercurynews.com/2020/04/25/coronavirus-in-a-race-against-time-vaccine-testing-expands/)
-    * *Shared byline with Lisa Krieger*
-* Dec. 26, 2019: [Solutions to traffic problems are taking off](https://www.mercurynews.com/2019/12/26/solutions-to-traffic-problems-are-taking-off/)  
+<ul>
+    <li>June 05, 2020: <a href='https://www.mercurynews.com/2020/06/05/coronavirus-are-kids-as-safe-as-we-thought/'>Coronavirus: Are kids as safe as we thought?</a></li>
+        <ul>
+        <li style="font-size:90%; font-style:italic;">Shared byline with Lisa Krieger</li>
+        </ul>
+    <li>May 14, 2020: <a href='https://www.mercurynews.com/2020/05/14/coronavirus-who-gave-you-covid-19-its-not-who-you-think/'>Coronavirus: Who gave you COVID-19? It’s not who you think</a></li>
+    <li>May 07, 2020: <a href='https://www.mercurynews.com/2020/05/07/coronavirus-tests-what-are-they-how-can-you-get-one/'>Coronavirus tests: What are they? How can you get one?</a></li>
+    <li>May 06, 2020: <a href='https://www.mercurynews.com/2020/05/06/coronavirus-inside-the-bay-areas-growing-army-of-disease-detectives/'>Coronavirus: Inside the Bay Area’s growing army of disease detectives</a></li>
+        <ul>
+        <li style="font-size:90%; font-style:italic;">Shared byline with Lisa Krieger</li>
+        </ul>
+    <li>April 25, 2020: <a href='https://www.mercurynews.com/2020/04/25/coronavirus-in-a-race-against-time-vaccine-testing-expands/'>Coronavirus: In a race against time, vaccine testing expands</a></li>
+        <ul>
+        <li style="font-size:90%; font-style:italic;">Shared byline with Lisa Krieger</li>
+        </ul>
+    <li>Dec. 26, 2019: <a href='https://www.mercurynews.com/2019/12/26/solutions-to-traffic-problems-are-taking-off/'>Solutions to traffic problems are taking off</a></li>
+</ul>
 
 ## Stanford Medicine, Office of Communications
 
