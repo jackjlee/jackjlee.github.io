@@ -3,15 +3,15 @@ title: "Home"
 permalink: /
 layout: splash
 header:
-  image: /assets/images/splash-image-blue.png
-  caption: "Image by [Elias Sch.](https://pixabay.com/users/EliasSch-3372715/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1913559) from [Pixabay](https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=1913559)"
+  image: /assets/images/splash-image-gel.png
+  caption: "[Image by Mnolf from Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Gel_electrophoresis_2.jpg)"
 feature_row:
-    - image_path: assets/images/feat-image-mito.jpg
-      image_caption: "Credit: Tslil Ast/Mootha Lab"
-      alt: "Immunofluorescence of mitochondria and nuclei"
-      title: "Mitochondrial Editor"
-      excerpt: "Researchers can now change DNA in a previously inaccessible organelle."
-      url: "https://www.sciencenews.org/article/mitochondria-gene-editing-bacterial-toxin-crispr"
+    - image_path: assets/images/feat-image-covid-test.jpg
+      image_caption: "Credit: Quidel"
+      alt: "Point-of-care COVID-19 testing instrument"
+      title: "Rapid Tests"
+      excerpt: "Researchers are developing a smorgasbord of tests to detect the virus that causes COVID-19."
+      url: "https://www.sciencenews.org/article/coronavirus-covid19-rapid-tests-rna-virus"
       btn_label: "Read More"
       btn_class: "btn--primary"
     - image_path: assets/images/feat-image-sparrow.jpg
