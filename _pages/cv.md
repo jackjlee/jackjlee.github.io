@@ -10,8 +10,8 @@ header:
 
 ## Education
 
-**University of California, Santa Cruz (Sept 2019 - Present)**  
-M.S. in Science Communication *(expected in 2020)*  
+**University of California, Santa Cruz (Sept 2019 - Sept 2020)**  
+M.S. in Science Communication
 
 **Princeton University (Sept 2007 - Apr 2014)**  
 Ph.D. in Molecular Biology  
