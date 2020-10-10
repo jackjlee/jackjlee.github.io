@@ -57,6 +57,9 @@ header:
 ### News
 <ul>
     <li>Sept. 15, 2020: <a href='https://www.sciencenews.org/article/electron-beam-space-moon-dust-zap-clean-up'>How do you clean up clingy space dust? Zap it with an electron beam</a></li>
+        <ul>
+        <li style="font-size:90%; font-style:italic;">A version of this article appears in the Oct. 10, 2020 issue</li>
+        </ul>
     <li>Aug. 31, 2020: <a href='https://www.sciencenews.org/article/coronavirus-covid19-rapid-tests-rna-virus'>New coronavirus tests promise to be faster, cheaper and easier</a></li>
     <li>Aug. 14, 2020: <a href='https://www.sciencenews.org/article/hurricanes-names-heat-waves-climate-health'>Hurricanes have names. Some climate experts say heat waves should, too</a></li>
         <ul>
