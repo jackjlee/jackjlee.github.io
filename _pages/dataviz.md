@@ -28,12 +28,14 @@ header:
     <li>Aug. 02, 2020: <a href="covid19_bayarea.html">COVID-19 cases in Bay Area counties over time (Version  2)</a></li>
         <ul>
         <li style="font-size:90%; font-style:italic;">Dashboard made using R and flexdashboard</li>
+        <li style="font-size:90%; font-style:italic;">Code available on <a href="https://github.com/jackjlee/covid19_bayarea_lat">Github</a></li>
         </ul>
 </ul>
 <ul>
     <li>May 18, 2020: <a href="covid19_mry.html">COVID-19 testing in Monterey County over time</a></li>
         <ul>
         <li style="font-size:90%; font-style:italic;">Dashboard made using R and flexdashboard</li>
+        <li style="font-size:90%; font-style:italic;">Code available on <a href="https://github.com/jackjlee/covid19_mry">Github</a></li>
         </ul>
 </ul>
 <ul>
@@ -41,12 +43,14 @@ header:
         <ul>
         <li style="font-size:90%; font-style:italic;">Dashboard made using R and flexdashboard</li>
         <li style="font-size:90%; font-style:italic;">Archived on August 2, 2020 (replaced with V2)</li>
+        <li style="font-size:90%; font-style:italic;">Code available on <a href="https://github.com/jackjlee/covid19_bayarea">Github</a></li>
         </ul>
 </ul>
 <ul>
     <li>March 23, 2020: <a href="covid19_scc.html">COVID-19 cases in Santa Clara County over time</a></li>
         <ul>
         <li style="font-size:90%; font-style:italic;">Dashboard made using R and flexdashboard</li>
+        <li style="font-size:90%; font-style:italic;">Code available on <a href="https://github.com/jackjlee/covid19_scc">Github</a></li>
         </ul>
 </ul>
 
