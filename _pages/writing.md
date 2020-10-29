@@ -10,6 +10,7 @@ header:
 ## American Geophysical Union
 
 ### Eos
+* Oct. 27, 2020: [Simple Actions Can Help People Survive Landslides](https://eos.org/research-spotlights/simple-actions-can-help-people-survive-landslides)  
 * Jan. 08, 2020: [Rolling Rocks Reveal Recent Moonquakes](https://eos.org/articles/rolling-rocks-reveal-recent-moonquakes)  
 
 ### GeoSpace
