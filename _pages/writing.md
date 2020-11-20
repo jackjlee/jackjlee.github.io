@@ -9,13 +9,18 @@ header:
 
 ## American Geophysical Union
 
+### Press Release
+* Nov. 12, 2020: [New studies shine light on bright lightning superbolts](https://news.agu.org/press-release/new-studies-shine-light-on-bright-lightning-superbolts/)  
+
 ### Eos
+* Nov. 18, 2020: [Gravity Waves Leave Ripples Across a Glowing Night Sky](https://eos.org/research-spotlights/gravity-waves-leave-ripples-across-a-glowing-night-sky)  
+* Nov. 17, 2020: [Researchers Produce First Artificial Icequakes](https://eos.org/research-spotlights/researchers-produce-first-artificial-icequakes)  
 * Oct. 27, 2020: [Simple Actions Can Help People Survive Landslides](https://eos.org/research-spotlights/simple-actions-can-help-people-survive-landslides)  
 * Jan. 08, 2020: [Rolling Rocks Reveal Recent Moonquakes](https://eos.org/articles/rolling-rocks-reveal-recent-moonquakes)  
 
 ### GeoSpace
 * Jan. 14, 2020: [Microbes endure a variety of inhospitable conditions in California’s Mono Lake](https://blogs.agu.org/geospace/2020/01/14/microbes-endure-a-variety-of-inhospitable-conditions-in-californias-mono-lake/)  
-* Dec. 11, 2019: [Scientists use night vision to help save bats’ lives](https://blogs.agu.org/geospace/2019/12/11/scientists-use-night-vision-to-help-save-bats-lives/)  
+* Dec. 11, 2019: [Scientists use night vision to help save bats’ lives](https://blogs.agu.org/geospace/2019/12/11/scientists-use-night-vision-to-help-save-bats-lives/)
 
 ## ASBMB Today
 * Aug. 26, 2020: [Meet Luke O’Neill](https://www.asbmb.org/asbmb-today/people/082620/meet-luke-o-neill)
