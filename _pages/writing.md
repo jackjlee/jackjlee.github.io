@@ -130,18 +130,21 @@ header:
 
 ## Stanford Medicine, Office of Communications
 
-### Stanford Medicine Magazine ###
+### Stanford Medicine Magazine
 * April 07, 2020: [Unscrambled eggs](http://stanmed.stanford.edu/2020issue1/frog-eggs-reassemble-aid-synthetic-cell-development.html)
 
-### Press Releases ###
+### Press Releases
 * Jan. 07, 2020: [Human body temperature has decreased in United States, study finds](http://med.stanford.edu/news/all-news/2020/01/human-body-temperature-has-decreased-in-united-states.html)
 * Dec. 12, 2019: [Alcohol, ‘Asian glow’ mutation may contribute to Alzheimer’s disease, study finds](http://med.stanford.edu/news/all-news/2019/12/alcohol-asian-glow-mutation-may-contribute-to-alzheimers.html)
 * Oct. 31, 2019: [Scrambled cytoplasm from frog eggs organizes into cell-like structures](http://med.stanford.edu/news/all-news/2019/10/cytoplasm-of-scrambled-frog-eggs-organizes-into-cell-like-struct.html)
 
-### Scope Blog ###
+### Scope Blog
 * Jan. 07, 2020: [Practicing medicine in Antarctica: “It’s a harsh continent”](https://scopeblog.stanford.edu/2020/01/07/practicing-medicine-in-antarctica-its-a-harsh-continent/)
 * Dec. 12, 2019: [A mutation causing alcohol-related ‘Asian glow’ may have ties to Alzheimer’s disease](https://scopeblog.stanford.edu/2019/12/12/a-mutation-causing-alcohol-related-asian-glow-may-have-ties-to-alzheimers-disease/)
 * Nov. 29, 2019: [Understanding PSA testing: A Q&A](https://scopeblog.stanford.edu/2019/11/29/understanding-psa-testing-a-qa/)
 * Nov. 14, 2019: [In the Spotlight: Juggling vision, videos — and balls](https://scopeblog.stanford.edu/2019/11/14/in-the-spotlight-juggling-vision-videos-and-balls/)
 * Oct. 31, 2019: [Frog eggs rise from the dead](https://scopeblog.stanford.edu/2019/10/31/frog-eggs-rise-from-the-dead/)
 * Oct. 23, 2019: [Teen gender norms linked to lower socioeconomic status in highly masculine males](https://scopeblog.stanford.edu/2019/10/23/gender-norms-linked-to-lower-socioeconomic-success-in-highly-masculine-males/)
+
+## UCSC SciCom Science Notes
+* Oct. 26, 2020: [From warm little ponds to life on Mars](https://ucscsciencenotes.com/feature/from-warm-little-ponds-to-life-on-mars/)
