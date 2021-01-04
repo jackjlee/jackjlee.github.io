@@ -22,7 +22,7 @@ B.S. in Biology
 
 ## Professional Experience, Writing
 
-**American Geophysical Union (Sept 2020 - Present)**  
+**American Geophysical Union (Sept 2020 - December 2020)**  
 Science Writing Intern  
 
 **Science News (June 2020 - Sept 2020)**  

@@ -13,6 +13,7 @@ header:
 * Nov. 12, 2020: [New studies shine light on bright lightning superbolts](https://news.agu.org/press-release/new-studies-shine-light-on-bright-lightning-superbolts/)  
 
 ### Eos
+* Jan. 04, 2021: [First Detection of a Built-In Wobble on Another Planet](https://eos.org/research-spotlights/first-detection-of-a-built-in-wobble-on-another-planet)
 * Nov. 18, 2020: [Gravity Waves Leave Ripples Across a Glowing Night Sky](https://eos.org/research-spotlights/gravity-waves-leave-ripples-across-a-glowing-night-sky)  
 * Nov. 17, 2020: [Researchers Produce First Artificial Icequakes](https://eos.org/research-spotlights/researchers-produce-first-artificial-icequakes)  
 * Oct. 27, 2020: [Simple Actions Can Help People Survive Landslides](https://eos.org/research-spotlights/simple-actions-can-help-people-survive-landslides)  
