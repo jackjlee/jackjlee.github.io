@@ -6,6 +6,14 @@ header:
   image: /assets/images/splash-image-gel.png
   caption: "[Image by Mnolf from Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Gel_electrophoresis_2.jpg)"
 feature_row:
+    - image_path: assets/images/feat-image-mars.jpg
+      image_caption: "Credit: NASA/JPL/USGS"
+      alt: "Image of Mars on a black background"
+      title: "Space Wobble"
+      excerpt: "Spacecraft find that Mars oscillates 10 centimeters off its axis of rotation."
+      url: "https://eos.org/research-spotlights/first-detection-of-a-built-in-wobble-on-another-planet"
+      btn_label: "Read More"
+      btn_class: "btn--primary"
     - image_path: assets/images/feat-image-covid-test.jpg
       image_caption: "Credit: Quidel"
       alt: "Point-of-care COVID-19 testing instrument"
@@ -22,15 +30,7 @@ feature_row:
       url: "https://www.sciencenews.org/article/white-throated-sparrow-song-variation"
       btn_label: "Read More"
       btn_class: "btn--primary"
-    - image_path: assets/images/feat-image-flyingcars-resized.png
-      image_caption: "Credit: Lillian Gipson/NASA"
-      alt: "Illustration of flying cars over city skyline"
-      title: "Flying Cars"
-      excerpt: "Imagine a world where instead of inching through gridlocked traffic to get to work, you ease back in your seat while your self-piloted flying car handles everything."
-      url: "https://www.mercurynews.com/2019/12/26/solutions-to-traffic-problems-are-taking-off/"
-      btn_label: "Read More"
-      btn_class: "btn--primary"
 ---
 
 ## Featured Stories
-{% include feature_row %}
+{% include feature_row id="feature_row" %}
