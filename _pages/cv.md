@@ -10,37 +10,40 @@ header:
 
 ## Education
 
-**University of California, Santa Cruz (Sept 2019 - Sept 2020)**  
+**University of California, Santa Cruz (Sept. 2019 - Aug. 2020)**  
 M.S. in Science Communication
 
-**Princeton University (Sept 2007 - Apr 2014)**  
+**Princeton University (Sept. 2007 - Apr. 2014)**  
 Ph.D. in Molecular Biology  
 
-**California Institute of Technology (Sept 2003 - June 2007)**  
+**California Institute of Technology (Sept. 2003 - June 2007)**  
 B.S. in Biology  
 
 
 ## Professional Experience, Writing
 
-**American Geophysical Union (Sept 2020 - December 2020)**  
+**Freelance (Dec. 2020 - present)**  
+Science Writer and Fact Checker
+
+**American Geophysical Union (Sept. 2020 - Dec. 2020)**  
 Science Writing Intern  
 
-**Science News (June 2020 - Sept 2020)**  
+**Science News (June 2020 - Sept. 2020)**  
 Science Writing Intern  
 
 **The Mercury News (March 2020 - June 2020)**  
 Reporting Intern  
 
-**Monterey Herald (Jan 2020 - March 2020)**  
+**Monterey Herald (Jan. 2020 - March 2020)**  
 Reporting Intern  
 
-**Stanford Medical School Public Affairs (Oct 2019 - Dec 2019)**  
+**Stanford Medical School Public Affairs (Oct. 2019 - Dec. 2019)**  
 Science Writing Intern  
 
 
 ## Professional Experience, Data
 
-**Clarity Insights (June 2017 - Sept 2019)**  
+**Clarity Insights (June 2017 - Sept. 2019)**  
 Data Engineering Consultant on assignment at Facebook  
 
 **Claraview, a Division of Teradata (July 2013 - June 2017)**  
