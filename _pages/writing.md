@@ -65,6 +65,7 @@ header:
 
 ### News
 <ul>
+    <li>Feb. 19, 2021: <a href='https://www.sciencenews.org/article/color-coded-radar-maps-california-wildfire-destruction'>Color-coded radar maps reveal a patchwork of California wildfire destruction</a></li>
     <li>Sept. 15, 2020: <a href='https://www.sciencenews.org/article/electron-beam-space-moon-dust-zap-clean-up'>How do you clean up clingy space dust? Zap it with an electron beam</a></li>
         <ul>
         <li style="font-size:90%; font-style:italic;">A version of this article appears in the Oct. 10, 2020 issue</li>
