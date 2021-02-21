@@ -97,20 +97,15 @@ header:
 </ul>
 
 ## Science News for Students
-<ul>
-    <li>Aug. 06, 2020: <a href='https://www.sciencenewsforstudents.org/article/dolphins-learn-from-peers-shells-foraging-tools'>Dolphins can learn from their peers how to use shells as tools</a></li>
-        <ul>
-        <li style="font-size:90%; font-style:italic;">Adapted from Science News story</li>
-        </ul>
-    <li>Aug. 03, 2020: <a href='https://www.sciencenewsforstudents.org/article/early-dinosaurs-soft-shelled-eggs-fossil'>Early dinosaurs may have laid soft-shelled eggs</a></li>
-        <ul>
-        <li style="font-size:90%; font-style:italic;">Adapted from Science News story</li>
-        </ul>
-    <li>Jan. 27, 2020: <a href='https://www.sciencenewsforstudents.org/article/newfound-desert-soil-community-lives-on-sips-of-fog'>Newfound desert soil community lives on sips of fog</a></li>
-        <ul>
-        <li style="font-size:90%; font-style:italic;">Adapted from Science News story</li>
-        </ul>
-</ul>
+
+### Original stories
+* Feb. 05, 2021: [Space travel may harm health by damaging cells’ powerhouses](https://www.sciencenewsforstudents.org/article/space-travel-health-harm-mitochondria)
+
+### Adapted from Science News
+* Oct. 13, 2020: [This high-tech sweeper is designed for super-clingy moon dust](https://www.sciencenewsforstudents.org/article/electron-beam-space-moon-dust-zap-clean-up)
+* Aug. 06, 2020: [Dolphins can learn from their peers how to use shells as tools](https://www.sciencenewsforstudents.org/article/dolphins-learn-from-peers-shells-foraging-tools)
+* Aug. 03, 2020: [Early dinosaurs may have laid soft-shelled eggs](https://www.sciencenewsforstudents.org/article/early-dinosaurs-soft-shelled-eggs-fossil')
+* Jan. 27, 2020: [Newfound desert soil community lives on sips of fog](https://www.sciencenewsforstudents.org/article/newfound-desert-soil-community-lives-on-sips-of-fog)
 
 ## The Mercury News
 <ul>
