@@ -145,5 +145,8 @@ header:
 * Oct. 31, 2019: [Frog eggs rise from the dead](https://scopeblog.stanford.edu/2019/10/31/frog-eggs-rise-from-the-dead/)
 * Oct. 23, 2019: [Teen gender norms linked to lower socioeconomic status in highly masculine males](https://scopeblog.stanford.edu/2019/10/23/gender-norms-linked-to-lower-socioeconomic-success-in-highly-masculine-males/)
 
+## UMBC News
+* Feb. 22, 2021: [Low-cost infant incubator developed at UMBC completes successful clinical trial in India](https://news.umbc.edu/low-cost-infant-incubator-developed-at-umbc-completes-successful-clinical-trial-in-india/)
+
 ## UCSC SciCom Science Notes
 * Oct. 26, 2020: [From warm little ponds to life on Mars](https://ucscsciencenotes.com/feature/from-warm-little-ponds-to-life-on-mars/)
