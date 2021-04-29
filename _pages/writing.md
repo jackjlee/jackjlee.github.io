@@ -30,6 +30,9 @@ header:
 * July 15, 2020: [From the journals: MCP](https://www.asbmb.org/asbmb-today/science/071520/from-the-journals-mcp)  
 * March 03, 2020: [From the journals: JLR](https://www.asbmb.org/asbmb-today/science/030320/from-the-journals-jlr)  
 
+## Discover
+* April 24, 2021: [How Nanobodies From Llamas, Alpacas And Yeast Could Help Combat COVID-19](https://www.discovermagazine.com/health/how-nanobodies-from-camels-monkeys-and-yeast-could-help-combat-covid-19)
+
 ## Good Times Santa Cruz
 <ul>
     <li>Jan. 01, 2020: <a href='http://goodtimes.sc/cover-stories/birds-bees-santa-cruz/'>The Birds and the Bees of Santa Cruz</a></li>
