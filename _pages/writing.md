@@ -13,6 +13,8 @@ header:
 * Nov. 12, 2020: [New studies shine light on bright lightning superbolts](https://news.agu.org/press-release/new-studies-shine-light-on-bright-lightning-superbolts/)  
 
 ### Eos
+* May 17, 2021: [Timing of Earth’s Oxygenation May Need a 100-Million-Year Revision](https://eos.org/articles/timing-of-earths-oxygenation-may-need-a-100-million-year-revision)
+* May 14, 2021: [High School Junior Builds Cheap Earthquake Warning Device](https://eos.org/articles/high-school-junior-builds-cheap-earthquake-warning-device)
 * Jan. 06, 2021: [Warmer Climates Speed Breakdown of Rocks](https://eos.org/research-spotlights/warmer-climates-speed-breakdown-of-rocks)
 * Jan. 04, 2021: [First Detection of a Built-In Wobble on Another Planet](https://eos.org/research-spotlights/first-detection-of-a-built-in-wobble-on-another-planet)
 * Nov. 18, 2020: [Gravity Waves Leave Ripples Across a Glowing Night Sky](https://eos.org/research-spotlights/gravity-waves-leave-ripples-across-a-glowing-night-sky)  
@@ -148,6 +150,9 @@ header:
         </ul>
     <li>Dec. 26, 2019: <a href='https://www.mercurynews.com/2019/12/26/solutions-to-traffic-problems-are-taking-off/'>Solutions to traffic problems are taking off</a></li>
 </ul>
+
+## The Scientist
+* May 17, 2021: [Coronavirus Mutations Could Muddle COVID-19 PCR Tests](https://www.the-scientist.com/news-opinion/coronavirus-mutations-could-muddle-covid-19-pcr-tests-68772)
 
 ## UCSC SciCom Science Notes
 * Oct. 26, 2020: [From warm little ponds to life on Mars](https://ucscsciencenotes.com/feature/from-warm-little-ponds-to-life-on-mars/)
