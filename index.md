@@ -6,30 +6,31 @@ header:
   image: /assets/images/splash-image-gel.png
   caption: "[Image by Mnolf from Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Gel_electrophoresis_2.jpg)"
 feature_row:
-    - image_path: assets/images/feat-image-mars.jpg
-      image_caption: "Credit: NASA/JPL/USGS"
-      alt: "Image of Mars on a black background"
-      title: "Space Wobble"
-      excerpt: "Spacecraft find that Mars oscillates 10 centimeters off its axis of rotation."
-      url: "https://eos.org/research-spotlights/first-detection-of-a-built-in-wobble-on-another-planet"
+    - image_path: assets/images/feat-image-intercarb.jpeg
+      image_caption: "Eivind Senneset"
+      alt: "Loading an instrument for clumped-isotope analysis"
+      title: "InterCarb"
+      excerpt: "*Eos*, June 1, 2021<br><br>A community effort finds that carbonate standards eliminate the interlaboratory differences plaguing carbonate clumped-isotope thermometry studies."
+      url: "https://eos.org/research-spotlights/carbonate-standards-ensure-better-paleothermometers"
       btn_label: "Read More"
       btn_class: "btn--primary"
-    - image_path: assets/images/feat-image-covid-test.jpg
-      image_caption: "Credit: Quidel"
-      alt: "Point-of-care COVID-19 testing instrument"
-      title: "Rapid Tests"
-      excerpt: "Researchers are developing a smorgasbord of tests to detect the virus that causes COVID-19."
-      url: "https://www.sciencenews.org/article/coronavirus-covid19-rapid-tests-rna-virus"
+    - image_path: assets/images/feat-image-plate.jpeg
+      image_caption: "HansN (CC BY-SA 3.0)"
+      alt: "Plate of bacteria"
+      title: "Two-Way Promoters"
+      excerpt: "*The Scientist*, May 28, 2021<br><br>New analyses find that divergent transcription, in which one promoter directs the expression of two adjacent genes oriented in opposite directions, is conserved across all domains of life."
+      url: "https://www.the-scientist.com/news-opinion/many-bacteria-and-archaea-promoters-work-forward-and-backward-68830"
       btn_label: "Read More"
       btn_class: "btn--primary"
-    - image_path: assets/images/feat-image-sparrow.jpg
-      image_caption: "Credit: Scott M. Ramsay"
-      alt: "Photo of white-throated sparrow"
-      title: "Sparrow Tune"
-      excerpt: "A variation on the white-throated sparrow’s song spread 3,300 kilometers in just a few decades."
-      url: "https://www.sciencenews.org/article/white-throated-sparrow-song-variation"
+    - image_path: assets/images/feat-image-wolf.jpg
+      image_caption: "Gunnar Ries (CC BY-NC-ND 2.0)"
+      alt: "Wolf"
+      title: "Gray Wolves"
+      excerpt: "*Science News*, May 24, 2021<br><br>In Wisconsin counties with wolves, deer-car accidents dropped, saving millions of dollars."
+      url: "https://www.sciencenews.org/article/gray-wolves-scare-deer-roads-reduce-car-collisions"
       btn_label: "Read More"
       btn_class: "btn--primary"
+
 ---
 
 ## Featured Stories
