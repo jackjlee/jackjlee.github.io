@@ -13,6 +13,7 @@ header:
 * Nov. 12, 2020: [New studies shine light on bright lightning superbolts](https://news.agu.org/press-release/new-studies-shine-light-on-bright-lightning-superbolts/)  
 
 ### Eos
+* June 01, 2021: [Carbonate Standards Ensure Better Paleothermometers](https://eos.org/research-spotlights/carbonate-standards-ensure-better-paleothermometers)
 * May 17, 2021: [Timing of Earth’s Oxygenation May Need a 100-Million-Year Revision](https://eos.org/articles/timing-of-earths-oxygenation-may-need-a-100-million-year-revision)
 * May 14, 2021: [High School Junior Builds Cheap Earthquake Warning Device](https://eos.org/articles/high-school-junior-builds-cheap-earthquake-warning-device)
 * Jan. 06, 2021: [Warmer Climates Speed Breakdown of Rocks](https://eos.org/research-spotlights/warmer-climates-speed-breakdown-of-rocks)
@@ -70,8 +71,15 @@ header:
 
 ### News
 <ul>
+    <li>April 12, 2021: <a href='https://www.sciencenews.org/article/gray-wolves-scare-deer-roads-reduce-car-collisions'>Gray wolves scare deer from roads, reducing dangerous collisions</a></li>
     <li>April 12, 2021: <a href='https://www.sciencenews.org/article/wind-turbine-farms-expand-bird-safety'>How researchers can keep birds safe as U.S. wind farms expand</a></li>
+        <ul>
+        <li style="font-size:90%; font-style:italic;">A version of this article appears in the May 08, 2021 issue</li>
+        </ul>
     <li>Feb. 19, 2021: <a href='https://www.sciencenews.org/article/color-coded-radar-maps-california-wildfire-destruction'>Color-coded radar maps reveal a patchwork of California wildfire destruction</a></li>
+    <ul>
+        <li style="font-size:90%; font-style:italic;">A version of this article appears in the March 13, 2021 issue</li>
+        </ul>
     <li>Sept. 15, 2020: <a href='https://www.sciencenews.org/article/electron-beam-space-moon-dust-zap-clean-up'>How do you clean up clingy space dust? Zap it with an electron beam</a></li>
         <ul>
         <li style="font-size:90%; font-style:italic;">A version of this article appears in the Oct. 10, 2020 issue</li>
@@ -152,6 +160,7 @@ header:
 </ul>
 
 ## The Scientist
+* May 28, 2021: [Many Bacteria and Archaea Promoters Work Forward and Backward](https://www.the-scientist.com/news-opinion/many-bacteria-and-archaea-promoters-work-forward-and-backward-68830)
 * May 17, 2021: [Coronavirus Mutations Could Muddle COVID-19 PCR Tests](https://www.the-scientist.com/news-opinion/coronavirus-mutations-could-muddle-covid-19-pcr-tests-68772)
 
 ## UCSC SciCom Science Notes
