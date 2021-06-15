@@ -134,6 +134,7 @@ header:
 * Oct. 31, 2019: [Scrambled cytoplasm from frog eggs organizes into cell-like structures](http://med.stanford.edu/news/all-news/2019/10/cytoplasm-of-scrambled-frog-eggs-organizes-into-cell-like-struct.html)
 
 ### Scope Blog
+* June 08, 2021: [To benefit diverse groups, AI must address bias, researchers say](https://scopeblog.stanford.edu/2021/06/08/to-benefit-diverse-groups-ai-must-address-bias-researchers-say/)
 * Jan. 07, 2020: [Practicing medicine in Antarctica: “It’s a harsh continent”](https://scopeblog.stanford.edu/2020/01/07/practicing-medicine-in-antarctica-its-a-harsh-continent/)
 * Dec. 12, 2019: [A mutation causing alcohol-related ‘Asian glow’ may have ties to Alzheimer’s disease](https://scopeblog.stanford.edu/2019/12/12/a-mutation-causing-alcohol-related-asian-glow-may-have-ties-to-alzheimers-disease/)
 * Nov. 29, 2019: [Understanding PSA testing: A Q&A](https://scopeblog.stanford.edu/2019/11/29/understanding-psa-testing-a-qa/)
