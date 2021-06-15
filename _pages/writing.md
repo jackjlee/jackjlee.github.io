@@ -115,6 +115,7 @@ header:
 ## Science News for Students
 
 ### Original stories
+* June 10, 2021: [Most species of beetles pee differently than other insects](https://www.sciencenewsforstudents.org/article/most-species-of-beetles-pee-differently-than-other-insects)
 * Feb. 05, 2021: [Space travel may harm health by damaging cells’ powerhouses](https://www.sciencenewsforstudents.org/article/space-travel-health-harm-mitochondria)
 
 ### Adapted from Science News
