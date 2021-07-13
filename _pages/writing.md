@@ -13,6 +13,7 @@ header:
 * Nov. 12, 2020: [New studies shine light on bright lightning superbolts](https://news.agu.org/press-release/new-studies-shine-light-on-bright-lightning-superbolts/)  
 
 ### Eos
+* July 6, 2021: [Remote-Controlled Ocean Drones Observe Atmospheric Cold Pools](https://eos.org/research-spotlights/remote-controlled-ocean-drones-observe-atmospheric-cold-pools)
 * June 10, 2021: [Particles at the Ocean Surface and Seafloor Aren’t So Different](https://eos.org/research-spotlights/particles-at-the-ocean-surface-and-seafloor-arent-so-different)
 * June 01, 2021: [Carbonate Standards Ensure Better Paleothermometers](https://eos.org/research-spotlights/carbonate-standards-ensure-better-paleothermometers)
 * May 17, 2021: [Timing of Earth’s Oxygenation May Need a 100-Million-Year Revision](https://eos.org/articles/timing-of-earths-oxygenation-may-need-a-100-million-year-revision)
