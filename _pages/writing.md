@@ -13,6 +13,7 @@ header:
 * Nov. 12, 2020: [New studies shine light on bright lightning superbolts](https://news.agu.org/press-release/new-studies-shine-light-on-bright-lightning-superbolts/)  
 
 ### Eos
+* July 19, 2021: [A New Method Produces Improved Surface Strain Rate Maps](https://eos.org/research-spotlights/a-new-method-produces-improved-surface-strain-rate-maps)
 * July 6, 2021: [Remote-Controlled Ocean Drones Observe Atmospheric Cold Pools](https://eos.org/research-spotlights/remote-controlled-ocean-drones-observe-atmospheric-cold-pools)
 * June 10, 2021: [Particles at the Ocean Surface and Seafloor Aren’t So Different](https://eos.org/research-spotlights/particles-at-the-ocean-surface-and-seafloor-arent-so-different)
 * June 01, 2021: [Carbonate Standards Ensure Better Paleothermometers](https://eos.org/research-spotlights/carbonate-standards-ensure-better-paleothermometers)
