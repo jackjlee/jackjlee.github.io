@@ -1,0 +1,666 @@
+[
+    {
+        "outlet": "American Geophysical Union",
+        "categories": [
+            {
+                "category-name": "Eos",
+                "stories": [
+                    {
+                        "date": "Aug. 24, 2021",
+                        "title": "Navakanesh M Batmanathan: Customizing Hazard Outreach",
+                        "url": "https://eos.org/features/navakanesh-m-batmanathan-customizing-hazard-outreach",
+                        "note": "Appears in the Sept. 2021 issue on science careers"
+                    },
+                    {
+                        "date": "Aug. 24, 2021",
+                        "title": "Karen Layou: A Wider 2-Year Track",
+                        "url": "https://eos.org/features/karen-layou-a-wider-2-year-track",
+                        "note": "Appears in the Sept. 2021 issue on science careers"
+                    },
+                    {
+                        "date": "Aug. 24, 2021",
+                        "title": "Rick Jones: Finding the High School Spirit",
+                        "url": "https://eos.org/features/rick-jones-finding-the-high-school-spirit",
+                        "note": "Appears in the Sept. 2021 issue on science careers"
+                    },
+                    {
+                        "date": "Aug. 24, 2021",
+                        "title": "Joy Santiago: Charting Safety Through Mapmaking",
+                        "url": "https://eos.org/features/joy-santiago-charting-safety-through-mapmaking",
+                        "note": "Appears in the Sept. 2021 issue on science careers"
+                    },
+                    {
+                        "date": "Aug. 19, 2021",
+                        "title": "First Report of Seismicity That Initiated in the Lower Mantle",
+                        "url": "https://eos.org/research-spotlights/first-report-of-seismicity-that-initiated-in-the-lower-mantle",
+                        "note": ""
+                    },
+                    {
+                        "date": "July 30, 2021",
+                        "title": "Simulating 195 Million Years of Global Climate in the Mesozoic",
+                        "url": "https://eos.org/research-spotlights/simulating-195-million-years-of-global-climate-in-the-mesozoic",
+                        "note": ""
+                    },
+                    {
+                        "date": "July 28, 2021",
+                        "title": "Evolving the Geodetic Infrastructure",
+                        "url": "https://eos.org/articles/evolving-the-geodetic-infrastructure",
+                        "note": ""
+                    },
+                    {
+                        "date": "July 19, 2021",
+                        "title": "A New Method Produces Improved Surface Strain Rate Maps",
+                        "url": "https://eos.org/research-spotlights/a-new-method-produces-improved-surface-strain-rate-maps",
+                        "note": ""
+                    },
+                    {
+                        "date": "July 6, 2021",
+                        "title": "Remote-Controlled Ocean Drones Observe Atmospheric Cold Pools",
+                        "url": "https://eos.org/research-spotlights/remote-controlled-ocean-drones-observe-atmospheric-cold-pools",
+                        "note": ""
+                    },
+                    {
+                        "date": "June 10, 2021",
+                        "title": "Particles at the Ocean Surface and Seafloor Aren't So Different",
+                        "url": "https://eos.org/research-spotlights/particles-at-the-ocean-surface-and-seafloor-arent-so-different",
+                        "note": ""
+                    },
+                    {
+                        "date": "June 01, 2021",
+                        "title": "Carbonate Standards Ensure Better Paleothermometers",
+                        "url": "https://eos.org/research-spotlights/carbonate-standards-ensure-better-paleothermometers",
+                        "note": ""
+                    },
+                    {
+                        "date": "May 17, 2021",
+                        "title": "Timing of Earth's Oxygenation May Need a 100-Million-Year Revision",
+                        "url": "https://eos.org/articles/timing-of-earths-oxygenation-may-need-a-100-million-year-revision",
+                        "note": ""
+                    },
+                    {
+                        "date": "May 14, 2021",
+                        "title": "High School Junior Builds Cheap Earthquake Warning Device",
+                        "url": "https://eos.org/articles/high-school-junior-builds-cheap-earthquake-warning-device",
+                        "note": ""
+                    },
+                    {
+                        "date": "Jan. 06, 2021",
+                        "title": "Warmer Climates Speed Breakdown of Rocks",
+                        "url": "https://eos.org/research-spotlights/warmer-climates-speed-breakdown-of-rocks",
+                        "note": ""
+                    },
+                    {
+                        "date": "Jan. 04, 2021",
+                        "title": "First Detection of a Built-In Wobble on Another Planet",
+                        "url": "https://eos.org/research-spotlights/first-detection-of-a-built-in-wobble-on-another-planet",
+                        "note": ""
+                    },
+                    {
+                        "date": "Nov. 18, 2020",
+                        "title": "Gravity Waves Leave Ripples Across a Glowing Night Sky",
+                        "url": "https://eos.org/research-spotlights/gravity-waves-leave-ripples-across-a-glowing-night-sky",
+                        "note": ""
+                    },
+                    {
+                        "date": "Nov. 17, 2020",
+                        "title": "Researchers Produce First Artificial Icequakes",
+                        "url": "https://eos.org/research-spotlights/researchers-produce-first-artificial-icequakes",
+                        "note": ""
+                    },
+                    {
+                        "date": "Ocy. 27, 2020",
+                        "title": "Simple Actions Can Help People Survive Landslides",
+                        "url": "https://eos.org/research-spotlights/simple-actions-can-help-people-survive-landslides",
+                        "note": ""
+                    },
+                    {
+                        "date": "Jan. 08, 2021",
+                        "title": "Rolling Rocks Reveal Recent Moonquakes",
+                        "url": "https://eos.org/articles/rolling-rocks-reveal-recent-moonquakes",
+                        "note": ""
+                    }
+                ]
+            },
+            {
+                "category-name": "GeoSpace",
+                "stories": [
+                    {
+                        "date": "Jan. 14, 2020",
+                        "title": "Microbes endure a variety of inhospitable conditions in California's Mono Lake",
+                        "url": "https://blogs.agu.org/geospace/2020/01/14/microbes-endure-a-variety-of-inhospitable-conditions-in-californias-mono-lake/",
+                        "note": ""
+                    },
+                    {
+                        "date": "Dec. 11, 2019",
+                        "title": "Scientists use night vision to help save bats' lives",
+                        "url": "https://blogs.agu.org/geospace/2019/12/11/scientists-use-night-vision-to-help-save-bats-lives/",
+                        "note": ""
+                    }
+                ]
+            },
+            {
+                "category-name": "Press Release",
+                "stories": [
+                    {
+                        "date": "Nov. 12, 2020",
+                        "title": "New studies shine light on bright lightning superbolts",
+                        "url": "https://news.agu.org/press-release/new-studies-shine-light-on-bright-lightning-superbolts/",
+                        "note": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "outlet": "ASBMB Today",
+        "categories": [
+            {
+                "category-name": "",
+                "stories": [
+                    {
+                        "date": "Jan. 27, 2021",
+                        "title": "Increasing diversity to improve health care -- for all of us",
+                        "url": "https://www.asbmb.org/asbmb-today/science/012721/increasing-diversity-to-improve-health-care-for-al",
+                        "note": ""
+                    },
+                    {
+                        "date": "Aug. 26, 2020",
+                        "title": "Meet Luke O'Neill",
+                        "url": "https://www.asbmb.org/asbmb-today/people/082620/meet-luke-o-neill",
+                        "note": ""
+                    },
+                    {
+                        "date": "July 15, 2020",
+                        "title": "From the journals: MCP",
+                        "url": "https://www.asbmb.org/asbmb-today/science/071520/from-the-journals-mcp",
+                        "note": ""
+                    },
+                    {
+                        "date": "March 03, 2020",
+                        "title": "From the journals: JLR",
+                        "url": "https://www.asbmb.org/asbmb-today/science/030320/from-the-journals-jlr",
+                        "note": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "outlet": "Discover",
+        "categories": [
+            {
+                "category-name": "",
+                "stories": [
+                    {
+                        "date": "April 24, 2021",
+                        "title": "How Nanobodies From Llamas, Alpacas And Yeast Could Help Combat COVID-19",
+                        "url": "https://www.discovermagazine.com/health/how-nanobodies-from-camels-monkeys-and-yeast-could-help-combat-covid-19",
+                        "note": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "outlet": "Good Times Santa Cruz",
+        "categories": [
+            {
+                "category-name": "",
+                "stories": [
+                    {
+                        "date": "Jan. 01, 2020",
+                        "title": "The Birds and the Bees of Santa Cruz",
+                        "url": "http://goodtimes.sc/cover-stories/birds-bees-santa-cruz/",
+                        "note": "Written with UCSC SciCom classmates, 'Are there any negative environmental consequences from flying drones in Santa Cruz's natural spaces?'"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "outlet": "Mongabay",
+        "categories": [
+            {
+                "category-name": "",
+                "stories": [
+                    {
+                        "date": "Nov. 28, 2019",
+                        "title": "Beneficial and harmful fungi are at the root of forest diversity",
+                        "url": "https://news.mongabay.com/2019/11/beneficial-and-harmful-fungi-are-at-the-root-of-forest-diversity/",
+                        "note": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "outlet": "Monterey Herald",
+        "categories": [
+            {
+                "category-name": "",
+                "stories": [
+                    {
+                        "date": "March 15, 2020",
+                        "title": "Looking at ALS through poetry",
+                        "url": "https://www.montereyherald.com/2020/03/15/looking-at-als-through-poetry/",
+                        "note": ""
+                    },
+                    {
+                        "date": "March 08, 2020",
+                        "title": "Spreading the word: Observe, but don't disturb",
+                        "url": "https://www.montereyherald.com/2020/03/08/spreading-the-word-observe-but-dont-disturb/",
+                        "note": ""
+                    },
+                    {
+                        "date": "Feb. 27, 2020",
+                        "title": "A shortage of surgical masks",
+                        "url": "https://www.montereyherald.com/2020/02/27/a-shortage-of-surgical-masks/",
+                        "note": ""
+                    },
+                    {
+                        "date": "Feb. 21, 2020",
+                        "title": "Hartnell participates in national signing day, celebrating technical education",
+                        "url": "https://www.montereyherald.com/2020/02/21/hartnell-participates-in-national-signing-day-celebrating-technical-education/",
+                        "note": ""
+                    },
+                    {
+                        "date": "Feb. 16, 2020",
+                        "title": "Raccoons can be cute, but a fierce pest",
+                        "url": "https://www.montereyherald.com/2020/02/16/raccoons-can-be-cute-but-a-fierce-pest/",
+                        "note": ""
+                    },
+                    {
+                        "date": "Feb. 09, 2020",
+                        "title": "TEDx event coming to Santa Catalina",
+                        "url": "https://www.montereyherald.com/2020/02/09/tedx-event-coming-to-santa-catalina/",
+                        "note": ""
+                    },
+                    {
+                        "date": "Feb. 06, 2020",
+                        "title": "Electric scooters zip back to CSU Monterey Bay",
+                        "url": "https://www.montereyherald.com/2020/02/06/electric-scooters-zip-back-to-csu-monterey-bay/",
+                        "note": ""
+                    },
+                    {
+                        "date": "Feb. 01, 2020",
+                        "title": "AB5: A problem in translation",
+                        "url": "https://www.montereyherald.com/2020/02/01/ab5-a-problem-in-translation/",
+                        "note": ""
+                    },
+                    {
+                        "date": "Jan. 24, 2020",
+                        "title": "New mobile clinic increases health care access in Monterey County",
+                        "url": "https://www.montereyherald.com/2020/01/24/new-mobile-clinic-increases-health-care-access-in-monterey-county/",
+                        "note": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "outlet": "Science News",
+        "categories": [
+            {
+                "category-name": "Feature",
+                "stories": [
+                    {
+                        "date": "Sept. 24, 2020",
+                        "title": "Life on Earth may have begun in hostile hot springs",
+                        "url": "https://www.sciencenews.org/article/life-earth-origins-hostile-hot-springs-microbes",
+                        "note": "A version of this article appears in the Sept. 26, 2020 issue"
+                    }
+                ]
+            },
+            {
+                "category-name": "News Stories",
+                "stories": [
+                    {
+                        "date": "May 24, 2021",
+                        "title": "Gray wolves scare deer from roads, reducing dangerous collisions",
+                        "url": "https://www.sciencenews.org/article/gray-wolves-scare-deer-roads-reduce-car-collisions",
+                        "note": "A version of this article appears in the July 03, 2021 issue"
+                    },
+                    {
+                        "date": "April 12, 2021",
+                        "title": "How researchers can keep birds safe as U.S. wind farms expand",
+                        "url": "https://www.sciencenews.org/article/wind-turbine-farms-expand-bird-safety",
+                        "note": "A version of this article appears in the May 08, 2021 issue"
+                    },
+                    {
+                        "date": "Feb. 19, 2021",
+                        "title": "Color-coded radar maps reveal a patchwork of California wildfire destruction",
+                        "url": "https://www.sciencenews.org/article/color-coded-radar-maps-california-wildfire-destruction",
+                        "note": "A version of this article appears in the March 13, 2021 issue"
+                    },
+                    {
+                        "date": "Sept. 15, 2020",
+                        "title": "How do you clean up clingy space dust? Zap it with an electron beam",
+                        "url": "https://www.sciencenews.org/article/electron-beam-space-moon-dust-zap-clean-up",
+                        "note": "A version of this article appears in the Oct. 10, 2020 issue"
+                    },
+                    {
+                        "date": "Aug. 31, 2020",
+                        "title": "New coronavirus tests promise to be faster, cheaper and easier",
+                        "url": "https://www.sciencenews.org/article/coronavirus-covid19-rapid-tests-rna-virus",
+                        "note": ""
+                    },
+                    {
+                        "date": "Aug. 14, 2020",
+                        "title": "Hurricanes have names. Some climate experts say heat waves should, too",
+                        "url": "https://www.sciencenews.org/article/hurricanes-names-heat-waves-climate-health",
+                        "note": "A version of this article appears in the Sept. 12, 2020 issue"
+                    },
+                    {
+                        "date": "July 31, 2020",
+                        "title": "Human sperm don\u2019t swim the way that anyone had thought",
+                        "url": "https://www.sciencenews.org/article/human-sperm-tail-swim-biophysics",
+                        "note": "A version of this article appears in the Aug. 29, 2020 issue"
+                    },
+                    {
+                        "date": "July 31, 2020",
+                        "title": "A South American mouse is the world\u2019s highest-dwelling mammal",
+                        "url": "https://www.sciencenews.org/article/south-american-mouse-world-highest-dwelling-mammal",
+                        "note": "A version of this article appears in the Aug. 29, 2020 issue"
+                    },
+                    {
+                        "date": "July 20, 2020",
+                        "title": "Coronavirus-infected cells sprout filaments that may spread the virus",
+                        "url": "https://www.sciencenews.org/article/covid-19-coronavirus-infected-cells-sprout-filaments-spread-virus",
+                        "note": ""
+                    },
+                    {
+                        "date": "July 13, 2020",
+                        "title": "A bacterial toxin enables the first mitochondrial gene editor",
+                        "url": "https://www.sciencenews.org/article/mitochondria-gene-editing-bacterial-toxin-crispr",
+                        "note": "A version of this article appears in the Aug. 15, 2020 issue"
+                    },
+                    {
+                        "date": "July 02, 2020",
+                        "title": "A sparrow song remix took over North America with astonishing speed",
+                        "url": "https://www.sciencenews.org/article/white-throated-sparrow-song-variation",
+                        "note": "A version of this article appears in the Aug. 01, 2020 issue"
+                    },
+                    {
+                        "date": "June 25, 2020",
+                        "title": "Dolphins can learn from peers how to use shells as tools",
+                        "url": "https://www.sciencenews.org/article/dolphins-learn-shells-foraging-tools",
+                        "note": ""
+                    },
+                    {
+                        "date": "June 24, 2020",
+                        "title": "Fossil discoveries suggest the earliest dinosaurs laid soft-shelled eggs",
+                        "url": "https://www.sciencenews.org/article/fossil-discoveries-suggest-earliest-dinosaurs-laid-soft-shelled-eggs",
+                        "note": ""
+                    },
+                    {
+                        "date": "Dec. 10, 2019",
+                        "title": "A newly found Atacama Desert soil community survives on sips of fog",
+                        "url": "https://www.sciencenews.org/article/new-atacama-desert-soil-fungi-lichen-community-survives-fog-sips",
+                        "note": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "outlet": "Science News for Students",
+        "categories": [
+            {
+                "category-name": "News Stories",
+                "stories": [
+                    {
+                        "date": "June 10, 2021",
+                        "title": "Most species of beetles pee differently than other insects",
+                        "url": "https://www.sciencenewsforstudents.org/article/most-species-of-beetles-pee-differently-than-other-insects",
+                        "note": ""
+                    },
+                    {
+                        "date": "Feb. 05, 2021",
+                        "title": "Space travel may harm health by damaging cells' powerhouses",
+                        "url": "https://www.sciencenewsforstudents.org/article/space-travel-health-harm-mitochondria",
+                        "note": ""
+                    }
+                ]
+            },
+            {
+                "category-name": "Science News Adaptations",
+                "stories": [
+                    {
+                        "date": "Oct. 13, 2020",
+                        "title": "This high-tech sweeper is designed for super-clingy moon dust",
+                        "url": "https://www.sciencenewsforstudents.org/article/electron-beam-space-moon-dust-zap-clean-up",
+                        "note": ""
+                    },
+                    {
+                        "date": "Aug. 06, 2020",
+                        "title": "Dolphins can learn from their peers how to use shells as tools",
+                        "url": "https://www.sciencenewsforstudents.org/article/dolphins-learn-from-peers-shells-foraging-tools",
+                        "note": ""
+                    },
+                    {
+                        "date": "Aug. 03, 2020",
+                        "title": "Early dinosaurs may have laid soft-shelled eggs",
+                        "url": "https://www.sciencenewsforstudents.org/article/early-dinosaurs-soft-shelled-eggs-fossil",
+                        "note": ""
+                    },
+                    {
+                        "date": "Jan. 27, 2020",
+                        "title": "Newfound desert soil community lives on sips of fog",
+                        "url": "https://www.sciencenewsforstudents.org/article/newfound-desert-soil-community-lives-on-sips-of-fog",
+                        "note": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "outlet": "Stanford Medicine, Office of Communications",
+        "categories": [
+            {
+                "category-name": "News Center",
+                "stories": [
+                    {
+                        "date": "Sept. 27, 2021",
+                        "title": "How Tri-Valley hospital helps patients survive stroke",
+                        "url": "https://med.stanford.edu/news/all-news/2021/09/stroke-care.html",
+                        "note": ""
+                    },
+                    {
+                        "date": "Jan. 07, 2020",
+                        "title": "Human body temperature has decreased in United States, study finds",
+                        "url": "http://med.stanford.edu/news/all-news/2020/01/human-body-temperature-has-decreased-in-united-states.html",
+                        "note": ""
+                    },
+                    {
+                        "date": "Dec. 12, 2019",
+                        "title": "Alcohol, 'Asian glow' mutation may contribute to Alzheimer's disease, study finds",
+                        "url": "http://med.stanford.edu/news/all-news/2019/12/alcohol-asian-glow-mutation-may-contribute-to-alzheimers.html",
+                        "note": ""
+                    },
+                    {
+                        "date": "Oct. 31, 2019",
+                        "title": "Scrambled cytoplasm from frog eggs organizes into cell-like structures",
+                        "url": "http://med.stanford.edu/news/all-news/2019/10/cytoplasm-of-scrambled-frog-eggs-organizes-into-cell-like-struct.html",
+                        "note": ""
+                    }
+                ]
+            },
+            {
+                "category-name": "Scope Blog",
+                "stories": [
+                    {
+                        "date": "Sept. 01, 2021",
+                        "title": "Economic analysis busts telemedicine myths",
+                        "url": "https://scopeblog.stanford.edu/2021/09/01/economic-analysis-busts-telemedicine-myths/",
+                        "note": ""
+                    },
+                    {
+                        "date": "June 08, 2021",
+                        "title": "To benefit diverse groups, AI must address bias, researchers say",
+                        "url": "https://scopeblog.stanford.edu/2021/06/08/to-benefit-diverse-groups-ai-must-address-bias-researchers-say/",
+                        "note": ""
+                    },
+                    {
+                        "date": "Jan. 07, 2020",
+                        "title": "Practicing medicine in Antarctica: \"It's a harsh continent\"",
+                        "url": "https://scopeblog.stanford.edu/2020/01/07/practicing-medicine-in-antarctica-its-a-harsh-continent/",
+                        "note": ""
+                    },
+                    {
+                        "date": "Dec. 12, 2019",
+                        "title": "A mutation causing alcohol-related 'Asian glow' may have ties to Alzheimer's disease",
+                        "url": "https://scopeblog.stanford.edu/2019/12/12/a-mutation-causing-alcohol-related-asian-glow-may-have-ties-to-alzheimers-disease/",
+                        "note": ""
+                    },
+                    {
+                        "date": "Nov. 29, 2019",
+                        "title": "Understanding PSA testing: A Q&A",
+                        "url": "https://scopeblog.stanford.edu/2019/11/29/understanding-psa-testing-a-qa/",
+                        "note": ""
+                    },
+                    {
+                        "date": "Nov. 14, 2019",
+                        "title": "In the Spotlight: Juggling vision, videos -- and balls",
+                        "url": "https://scopeblog.stanford.edu/2019/11/14/in-the-spotlight-juggling-vision-videos-and-balls/",
+                        "note": ""
+                    },
+                    {
+                        "date": "Oct. 31, 2019",
+                        "title": "Frog eggs rise from the dead",
+                        "url": "https://scopeblog.stanford.edu/2019/10/31/frog-eggs-rise-from-the-dead/",
+                        "note": ""
+                    },
+                    {
+                        "date": "Oct. 23, 2019",
+                        "title": "Teen gender norms linked to lower socioeconomic status in highly masculine males",
+                        "url": "https://scopeblog.stanford.edu/2019/10/23/gender-norms-linked-to-lower-socioeconomic-success-in-highly-masculine-males/",
+                        "note": ""
+                    }
+                ]
+            },
+            {
+                "category-name": "Stanford Medicine Magazine",
+                "stories": [
+                    {
+                        "date": "April 07, 2020",
+                        "title": "Unscrambled eggs",
+                        "url": "http://stanmed.stanford.edu/2020issue1/frog-eggs-reassemble-aid-synthetic-cell-development.html",
+                        "note": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "outlet": "The Mercury News",
+        "categories": [
+            {
+                "category-name": "",
+                "stories": [
+                    {
+                        "date": "June 05, 2020",
+                        "title": "Coronavirus: Are kids as safe as we thought?",
+                        "url": "https://www.mercurynews.com/2020/06/05/coronavirus-are-kids-as-safe-as-we-thought/",
+                        "note": "Shared byline with Lisa Krieger"
+                    },
+                    {
+                        "date": "May 14, 2020",
+                        "title": "Coronavirus: Who gave you COVID-19? It\u2019s not who you think",
+                        "url": "https://www.mercurynews.com/2020/05/14/coronavirus-who-gave-you-covid-19-its-not-who-you-think/",
+                        "note": ""
+                    },
+                    {
+                        "date": "May 07, 2020",
+                        "title": "Coronavirus tests: What are they? How can you get one?",
+                        "url": "https://www.mercurynews.com/2020/05/07/coronavirus-tests-what-are-they-how-can-you-get-one/",
+                        "note": ""
+                    },
+                    {
+                        "date": "May 06, 2020",
+                        "title": "Coronavirus: Inside the Bay Area\u2019s growing army of disease detectives",
+                        "url": "https://www.mercurynews.com/2020/05/06/coronavirus-inside-the-bay-areas-growing-army-of-disease-detectives/",
+                        "note": "Shared byline with Lisa Krieger"
+                    },
+                    {
+                        "date": "April 25, 2020",
+                        "title": "Coronavirus: In a race against time, vaccine testing expands",
+                        "url": "https://www.mercurynews.com/2020/04/25/coronavirus-in-a-race-against-time-vaccine-testing-expands/",
+                        "note": "Shared byline with Lisa Krieger"
+                    },
+                    {
+                        "date": "Dec. 26, 2019",
+                        "title": "Solutions to traffic problems are taking off",
+                        "url": "https://www.mercurynews.com/2019/12/26/solutions-to-traffic-problems-are-taking-off/",
+                        "note": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "outlet": "The Scientist",
+        "categories": [
+            {
+                "category-name": "",
+                "stories": [
+                    {
+                        "date": "Aug 1, 2021",
+                        "title": "Exercising During Pregnancy Protects Mouse Offspring",
+                        "url": "https://www.the-scientist.com/the-literature/exercising-during-pregnancy-protects-mouse-offspring-69022",
+                        "note": ""
+                    },
+                    {
+                        "date": "May 28, 2021",
+                        "title": "Many Bacteria and Archaea Promoters Work Forward and Backward",
+                        "url": "https://www.the-scientist.com/news-opinion/many-bacteria-and-archaea-promoters-work-forward-and-backward-68830",
+                        "note": ""
+                    },
+                    {
+                        "date": "May 17, 2021",
+                        "title": "Coronavirus Mutations Could Muddle COVID-19 PCR Tests",
+                        "url": "https://www.the-scientist.com/news-opinion/coronavirus-mutations-could-muddle-covid-19-pcr-tests-68772",
+                        "note": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "outlet": "UCSC SciCom Science Notes",
+        "categories": [
+            {
+                "category-name": "",
+                "stories": [
+                    {
+                        "date": "Oct. 26, 2020",
+                        "title": "From warm little ponds to life on Mars",
+                        "url": "https://ucscsciencenotes.com/feature/from-warm-little-ponds-to-life-on-mars/",
+                        "note": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "outlet": "UMBC News",
+        "categories": [
+            {
+                "category-name": "",
+                "stories": [
+                    {
+                        "date": "March 26, 2021",
+                        "title": "UMBC researchers work to advance neurotechnology through emerging consortium",
+                        "url": "https://news.umbc.edu/umbc-researchers-work-to-advance-neurotechnology-through-emerging-consortium/",
+                        "note": ""
+                    },
+                    {
+                        "date": "Feb. 22, 2021",
+                        "title": "Low-cost infant incubator developed at UMBC completes successful clinical trial in India",
+                        "url": "https://news.umbc.edu/low-cost-infant-incubator-developed-at-umbc-completes-successful-clinical-trial-in-india/",
+                        "note": ""
+                    }
+                ]
+            }
+        ]
+    }
+]
