@@ -22,6 +22,9 @@ B.S. in Biology
 
 ## Professional Experience, Writing
 
+**National Cancer Institute (July 2021 - present)**  
+Communications Fellow with the Division of Cancer Prevention
+
 **Freelance (Dec. 2020 - present)**  
 Science Writer and Fact Checker
 
