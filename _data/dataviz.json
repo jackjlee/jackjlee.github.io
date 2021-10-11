@@ -1,0 +1,154 @@
+[
+    {
+        "category": "COVID-19 - Cities",
+        "viz": [
+            {
+                "date": "June 13, 2020",
+                "title": "COVID-19 cases in Alameda County cities",
+                "url": "covid19_ac_cities.html",
+                "note1-code": "Dashboard made using R and flexdashboard",
+                "note2-archive": "",
+                "note3-link": "Code available on <a href=\"https://github.com/jackjlee/covid19_ac_cities\">Github</a>",
+                "note4-data": ""
+            },
+            {
+                "date": "April 12, 2020",
+                "title": "COVID-19 cases in Santa Clara cities",
+                "url": "https://public.tableau.com/profile/jackjleescience#!/vizhome/COVID-19casesinSantaClaraCountycities/COVID-19SCCCitiesDash",
+                "note1-code": "Dashboard made using Tableau",
+                "note2-archive": "",
+                "note3-link": "",
+                "note4-data": ""
+            }
+        ]
+    },
+    {
+        "category": "COVID-19 - Counties",
+        "viz": [
+            {
+                "date": "Aug. 02, 2020",
+                "title": "COVID-19 cases in Bay Area counties over time (Version  2)",
+                "url": "covid19_bayarea.html",
+                "note1-code": "Dashboard made using R and flexdashboard",
+                "note2-archive": "",
+                "note3-link": "Code available on <a href=\"https://github.com/jackjlee/covid19_bayarea_lat\">Github</a>",
+                "note4-data": ""
+            },
+            {
+                "date": "May 18, 2020",
+                "title": "COVID-19 testing in Monterey County over time",
+                "url": "covid19_mry.html",
+                "note1-code": "Dashboard made using R and flexdashboard",
+                "note2-archive": "",
+                "note3-link": "Code available on <a href=\"https://github.com/jackjlee/covid19_mry\">Github</a>",
+                "note4-data": ""
+            },
+            {
+                "date": "March 24, 2020",
+                "title": "COVID-19 cases in Bay Area counties over time (Version  1)",
+                "url": "covid19_bayarea_old.html",
+                "note1-code": "Dashboard made using R and flexdashboard",
+                "note2-archive": "Archived on August 2, 2020 (replaced with V2)",
+                "note3-link": "Code available on <a href=\"https://github.com/jackjlee/covid19_bayarea\">Github</a>",
+                "note4-data": ""
+            },
+            {
+                "date": "March 23, 2020",
+                "title": "COVID-19 cases in Santa Clara County over time",
+                "url": "covid19_scc.html",
+                "note1-code": "Dashboard made using R and flexdashboard",
+                "note2-archive": "",
+                "note3-link": "Code available on <a href=\"https://github.com/jackjlee/covid19_scc\">Github</a>",
+                "note4-data": ""
+            }
+        ]
+    },
+    {
+        "category": "COVID-19 - CA Skilled Nursing Facilities",
+        "viz": [
+            {
+                "date": "May 18, 2020",
+                "title": "Information about CA SNFs with confirmed COVID-19 cases",
+                "url": "https://public.tableau.com/profile/jackjleescience#!/vizhome/ConfirmedCOVID-19ofCASNFs-May18/SNFCOVID-19Dash",
+                "note1-code": "Dashboard made using Tableau",
+                "note2-archive": "",
+                "note3-link": "",
+                "note4-data": "Uses data provided by the <a href=\"https://www.cdph.ca.gov/Programs/CID/DCDC/Pages/COVID-19/SNFsCOVID_19.aspx\">California Department of Public Health</a> on May 18, 2020"
+            }
+        ]
+    },
+    {
+        "category": "COVID-19 - Testing",
+        "viz": [
+            {
+                "date": "Aug. 08, 2020",
+                "title": "Median wait times to get COVID-19 test results",
+                "url": "https://public.tableau.com/profile/jackjleescience#!/vizhome/WaitingforCOVID-19testresultintheU_S_/COVID-19wait",
+                "note1-code": "Dashboard made using Tableau",
+                "note2-archive": "",
+                "note3-link": "",
+                "note4-data": ""
+            }
+        ]
+    },
+    {
+        "category": "COVID-19 - Zip Codes",
+        "viz": [
+            {
+                "date": "May 18, 2020",
+                "title": "COVID-19 cases in Alameda County zip codes",
+                "url": "https://public.tableau.com/profile/jackjleescience#!/vizhome/COVID-19CasesinAlamedaCountybyZipCode/AlamedaZipDash",
+                "note1-code": "Dashboard made using Tableau",
+                "note2-archive": "",
+                "note3-link": "",
+                "note4-data": ""
+            },
+            {
+                "date": "April 27, 2020",
+                "title": "COVID-19 deaths in San Francisco zip codes",
+                "url": "https://public.tableau.com/profile/jackjleescience#!/vizhome/COVID-19deathsinSFbyzipcode/SFCOVID-19deathsbyzip",
+                "note1-code": "Dashboard made using Tableau",
+                "note2-archive": "",
+                "note3-link": "",
+                "note4-data": "Uses data from April 21, 2020"
+            }
+        ]
+    },
+    {
+        "category": "Diabetes",
+        "viz": [
+            {
+                "date": "March 19, 2020",
+                "title": "Percent of adults with diabetes in CA counties",
+                "url": "https://jackjlee.shinyapps.io/ca_counties_diabetes/",
+                "note1-code": "Dashboard made using R, flexdashboard and Shiny",
+                "note2-archive": "",
+                "note3-link": "",
+                "note4-data": ""
+            }
+        ]
+    },
+    {
+        "category": "Unemployment Initial Claims",
+        "viz": [
+            {
+                "date": "April 06, 2020",
+                "title": "Reasons for claim increases (week ending March 21)",
+                "url": "https://public.tableau.com/profile/jackjleescience#!/vizhome/ReasonsUnemploymentInitialClaims-March21/StateCommentsDash",
+                "note1-code": "Dashboard made using Tableau",
+                "note2-archive": "",
+                "note3-link": "",
+                "note4-data": ""
+            },
+            {
+                "date": "April 06, 2020",
+                "title": "Number of initial claims by state (week ending March 21)",
+                "url": "https://public.tableau.com/profile/jackjleescience#!/vizhome/MapofUnemploymentInitialClaims-March21/MapDash",
+                "note1-code": "Dashboard made using Tableau",
+                "note2-archive": "",
+                "note3-link": "",
+                "note4-data": ""
+            }
+        ]
+    }
+]
