@@ -218,6 +218,22 @@
         ]
     },
     {
+        "outlet": "inquiry@UC Santa Cruz",
+        "categories": [
+            {
+                "category-name": "",
+                "stories": [
+                    {
+                        "date": "Oct. 2021",
+                        "title": "Digital detectives",
+                        "url": "https://inquiry.ucsc.edu/2021-22/digital-detectives/",
+                        "note": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "outlet": "Mongabay",
         "categories": [
             {
