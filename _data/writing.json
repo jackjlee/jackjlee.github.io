@@ -428,6 +428,17 @@
         "outlet": "Science News for Students",
         "categories": [
             {
+                "category-name": "Feature",
+                "stories": [
+                    {
+                        "date": "Oct. 14, 2021",
+                        "title": "What biologists call a species is becoming more than just a name",
+                        "url": "https://www.sciencenewsforstudents.org/article/biology-species-name-linnaeus-taxonomy",
+                        "note": ""
+                    }
+                ]
+            },
+            {
                 "category-name": "News Stories",
                 "stories": [
                     {
