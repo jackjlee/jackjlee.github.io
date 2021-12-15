@@ -623,14 +623,19 @@
         "outlet": "The Scientist",
         "categories": [
             {
-                "category-name": "",
+                "category-name": "Features",
                 "stories": [
                     {
-                        "date": "Aug 1, 2021",
-                        "title": "Exercising During Pregnancy Protects Mouse Offspring",
-                        "url": "https://www.the-scientist.com/the-literature/exercising-during-pregnancy-protects-mouse-offspring-69022",
+                        "date": "Nov. 01, 2021",
+                        "title": "Enhancers: Conserved in Activity, Not in Sequence",
+                        "url": "https://www.the-scientist.com/features/enhancers-conserved-in-activity-not-in-sequence-69331",
                         "note": ""
-                    },
+                    }
+                ]
+            },
+            {
+                "category-name": "News & Opinion",
+                "stories": [
                     {
                         "date": "May 28, 2021",
                         "title": "Many Bacteria and Archaea Promoters Work Forward and Backward",
@@ -641,6 +646,17 @@
                         "date": "May 17, 2021",
                         "title": "Coronavirus Mutations Could Muddle COVID-19 PCR Tests",
                         "url": "https://www.the-scientist.com/news-opinion/coronavirus-mutations-could-muddle-covid-19-pcr-tests-68772",
+                        "note": ""
+                    }
+                ]
+            },
+            {
+                "category-name": "The Literature",
+                "stories": [
+                    {
+                        "date": "Aug. 01, 2021",
+                        "title": "Exercising During Pregnancy Protects Mouse Offspring",
+                        "url": "https://www.the-scientist.com/the-literature/exercising-during-pregnancy-protects-mouse-offspring-69022",
                         "note": ""
                     }
                 ]
