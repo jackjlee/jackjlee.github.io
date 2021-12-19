@@ -6,28 +6,28 @@ header:
   image: /assets/images/splash-image-gel.png
   caption: "[Image by Mnolf from Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Gel_electrophoresis_2.jpg)"
 feature_row:
-    - image_path: assets/images/feat-image-intercarb.jpeg
-      image_caption: "Eivind Senneset"
-      alt: "Loading an instrument for clumped-isotope analysis"
-      title: "InterCarb"
-      excerpt: "*Eos*, June 1, 2021<br><br>A community effort finds that carbonate standards eliminate the interlaboratory differences plaguing carbonate clumped-isotope thermometry studies."
-      url: "https://eos.org/research-spotlights/carbonate-standards-ensure-better-paleothermometers"
+    - image_path: assets/images/feat-image-quake.jpg
+      image_caption: "U.S. Army"
+      alt: "Street damage following the 1964 Great Alaska earthquake"
+      title: "Metasediments"
+      excerpt: "*Eos*, Dec. 07, 2021<br><br>New findings contrast with a prevailing hypothesis for low seismic velocity in subduction zones."
+      url: "https://eos.org/research-spotlights/rock-structure-explains-slow-seismic-waves"
       btn_label: "Read More"
       btn_class: "btn--primary"
-    - image_path: assets/images/feat-image-plate.jpeg
-      image_caption: "HansN (CC BY-SA 3.0)"
-      alt: "Plate of bacteria"
-      title: "Two-Way Promoters"
-      excerpt: "*The Scientist*, May 28, 2021<br><br>New analyses find that divergent transcription, in which one promoter directs the expression of two adjacent genes oriented in opposite directions, is conserved across all domains of life."
-      url: "https://www.the-scientist.com/news-opinion/many-bacteria-and-archaea-promoters-work-forward-and-backward-68830"
+    - image_path: assets/images/feat-image-dna.jpg
+      image_caption: "PublicDomainPictures (Pixabay)"
+      alt: "DNA"
+      title: "Enhancers"
+      excerpt: "*The Scientist*, Nov. 01, 2021<br><br>[Feature story] Certain stretches of DNA that regulate gene expression have evolved differently from protein-coding genes."
+      url: "https://www.the-scientist.com/features/enhancers-conserved-in-activity-not-in-sequence-69331"
       btn_label: "Read More"
       btn_class: "btn--primary"
-    - image_path: assets/images/feat-image-wolf.jpg
-      image_caption: "Gunnar Ries (CC BY-NC-ND 2.0)"
-      alt: "Wolf"
-      title: "Gray Wolves"
-      excerpt: "*Science News*, May 24, 2021<br><br>In Wisconsin counties with wolves, deer-car accidents dropped, saving millions of dollars."
-      url: "https://www.sciencenews.org/article/gray-wolves-scare-deer-roads-reduce-car-collisions"
+    - image_path: assets/images/feat-image-bee.jpg
+      image_caption: "Martin Falbisoner (CC BY-SA 4.0)"
+      alt: "Honeybee"
+      title: "Taxonomy"
+      excerpt: "*Science News for Students*, Oct. 14, 2021<br><br>[Feature story] What biologists call a species is becoming more than just a name."
+      url: "https://www.sciencenewsforstudents.org/article/biology-species-name-linnaeus-taxonomy"
       btn_label: "Read More"
       btn_class: "btn--primary"
 
