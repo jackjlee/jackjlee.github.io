@@ -332,6 +332,22 @@
         ]
     },
     {
+        "outlet": "NCI Division of Cancer Prevention",
+        "categories": [
+            {
+                "category-name": "Cancer Prevention Science blog",
+                "stories": [
+                    {
+                        "date": "Jan. 14, 2022",
+                        "title": "Identifying New Biomarkers to Detect Lung Cancer Earlier",
+                        "url": "https://prevention.cancer.gov/news-and-events/blog/identifying-new-biomarkers",
+                        "note": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "outlet": "Science News",
         "categories": [
             {
