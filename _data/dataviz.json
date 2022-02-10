@@ -1,5 +1,19 @@
 [
     {
+        "category": "Climate",
+        "viz": [
+            {
+                "date": "Feb. 09, 2022",
+                "title": "Snowpack in the western U.S.",
+                "url": "snowpack.html",
+                "note1-code": "Dashboard made using R and flexdashboard",
+                "note2-archive": "",
+                "note3-link": "Code available on <a href=\"https://github.com/jackjlee/snowpack\">Github</a>",
+                "note4-data": ""
+            }
+        ]
+    },
+    {
         "category": "COVID-19 - Cities",
         "viz": [
             {
