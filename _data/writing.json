@@ -1,5 +1,21 @@
 [
     {
+        "outlet": "American Association for Anatomy",
+        "categories": [
+            {
+                "category-name": "Anatomy Now",
+                "stories": [
+                    {
+                        "date": "Feb. 09, 2022",
+                        "title": "EGFR and BMP Crosstalk Controls Cartilage Transition to Bone",
+                        "url": "https://amasan.informz.net/informzdataservice/onlineversion/ind/bWFpbGluZ2luc3RhbmNlaWQ9ODYzMTgxMiZzdWJzY3JpYmVyaWQ9OTQ4NzcyMDk4",
+                        "note": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "outlet": "American Geophysical Union",
         "categories": [
             {
@@ -337,6 +353,12 @@
             {
                 "category-name": "Cancer Prevention Science blog",
                 "stories": [
+                    {
+                        "date": "Feb. 09, 2022",
+                        "title": "Engineering Synthetic Biomarkers for Early Detection of Cancers",
+                        "url": "https://prevention.cancer.gov/news-and-events/blog/engineering-synthetic",
+                        "note": ""
+                    },
                     {
                         "date": "Jan. 14, 2022",
                         "title": "Identifying New Biomarkers to Detect Lung Cancer Earlier",
