@@ -378,6 +378,12 @@
                 "category-name": "Cancer Prevention Science blog",
                 "stories": [
                     {
+                        "date": "April 18, 2022",
+                        "title": "How Precision Cancer Prevention Can Promote Health Equity",
+                        "url": "https://prevention.cancer.gov/news-and-events/blog/how-precision-cancer",
+                        "note": ""
+                    },
+                    {
                         "date": "Feb. 09, 2022",
                         "title": "Engineering Synthetic Biomarkers for Early Detection of Cancers",
                         "url": "https://prevention.cancer.gov/news-and-events/blog/engineering-synthetic",
