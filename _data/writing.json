@@ -34,6 +34,12 @@
                 "category-name": "Eos",
                 "stories": [
                     {
+                        "date": "April 21, 2022",
+                        "title": "Tonga Eruption Made Waves in Earth\u2019s Ionosphere",
+                        "url": "https://eos.org/research-spotlights/tonga-eruption-made-waves-in-earths-ionosphere",
+                        "note": ""
+                    },
+                    {
                         "date": "March 18, 2022",
                         "title": "Coastal Aquaculture Can Reduce Nutrient Transport",
                         "url": "https://eos.org/research-spotlights/coastal-aquaculture-can-reduce-nutrient-transport",
@@ -61,6 +67,12 @@
                         "date": "Dec. 07, 2021",
                         "title": "Rock Structure Explains Slow Seismic Waves",
                         "url": "https://eos.org/research-spotlights/rock-structure-explains-slow-seismic-waves",
+                        "note": ""
+                    },
+                    {
+                        "date": "Nov. 15, 2021",
+                        "title": "Stratospheric Balloons Listen In on Ground Activity",
+                        "url": "https://eos.org/research-spotlights/stratospheric-balloons-listen-in-on-ground-activity",
                         "note": ""
                     },
                     {
