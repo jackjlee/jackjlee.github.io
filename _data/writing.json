@@ -6,6 +6,18 @@
                 "category-name": "Anatomy Now",
                 "stories": [
                     {
+                        "date": "May 25, 2022",
+                        "title": "Cell Transdifferentiation in TMJ Condyle Development",
+                        "url": "https://amasan.informz.net/InformzDataService/OnlineVersion/Pub/bWFpbGluZ0luc3RhbmNlSWQ9ODcyODg4OQ==",
+                        "note": ""
+                    },
+                    {
+                        "date": "April 27, 2022",
+                        "title": "Thinking Differently Through Diversification to Investigate the Brain",
+                        "url": "https://amasan.informz.net/InformzDataService/OnlineVersion/Pub/bWFpbGluZ0luc3RhbmNlSWQ9ODcwNDc3Mg==",
+                        "note": ""
+                    },
+                    {
                         "date": "March 23, 2022",
                         "title": "Fluid Flow Flips Switch During Heart Valve Development",
                         "url": "https://amasan.informz.net/informzdataservice/onlineversion/ind/bWFpbGluZ2luc3RhbmNlaWQ9ODY3MjAxMiZzdWJzY3JpYmVyaWQ9OTU2NjAzMDE5",
@@ -33,6 +45,12 @@
             {
                 "category-name": "Eos",
                 "stories": [
+                    {
+                        "date": "May 18, 2022",
+                        "title": "Groundwater Flow May Contribute to Submarine Permafrost Thaw",
+                        "url": "https://eos.org/articles/groundwater-flow-may-contribute-to-submarine-permafrost-thaw",
+                        "note": ""
+                    },
                     {
                         "date": "April 21, 2022",
                         "title": "Tonga Eruption Made Waves in Earth\u2019s Ionosphere",
