@@ -22,10 +22,13 @@ B.S. in Biology
 
 ## Professional Experience, Writing
 
-**National Cancer Institute (July 2021 - present)**  
+**The San Francisco Chronicle (July 2022 - present)**  
+Weather Science Data Reporter
+
+**National Cancer Institute (July 2021 - July 2022)**  
 Communications Fellow with the Division of Cancer Prevention
 
-**Freelance (Dec. 2020 - present)**  
+**Freelance (Dec. 2020 - July 2022)**  
 Science Writer and Fact Checker
 
 **American Geophysical Union (Sept. 2020 - Dec. 2020)**  
