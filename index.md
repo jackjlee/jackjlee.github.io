@@ -3,31 +3,31 @@ title: "Home"
 permalink: /
 layout: splash
 header:
-  image: /assets/images/splash-image-gel.png
-  caption: "[Image by Mnolf from Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Gel_electrophoresis_2.jpg)"
+  image: /assets/images/splash-image-stripes.png
+  caption: "Ed Hawkins (CC BY-SA 4.0)"
 feature_row:
-    - image_path: assets/images/feat-image-margin.jpg
-      image_caption: "NASA Earth Observatory"
-      alt: "Photo of Nova Scotia taken from the International Space Station"
-      title: "Atlantic Ocean"
-      excerpt: "*Eos*, Jan. 25, 2022<br><br>High-resolution seismic models of the Nova Scotia margin reveal a role for magmatism in continental breakup, even at magma-poor sections of the eastern North American margin."
-      url: "https://eos.org/research-spotlights/the-role-of-magma-in-the-birth-of-the-atlantic-ocean"
+    - image_path: assets/images/feat-image-wildfire.jpeg
+      image_caption: "Inklein, Wikimedia Commons (CC BY-SA 4.0)"
+      alt: "The CZU lightning complex fire on August 19, 2020"
+      title: "Fire Season"
+      excerpt: "*SF Chronicle*, July 26, 2022<br><br>California's 2022 wildfire season has begun. But later fires produced by different weather may be more destructive."
+      url: "https://www.sfchronicle.com/bayarea/article/California-wildfires-17330941.php"
       btn_label: "Read More"
       btn_class: "btn--primary"
-    - image_path: assets/images/feat-image-lung.jpg
-      image_caption: "National Cancer Institute"
-      alt: "Lung infographic"
-      title: "Lung Biomarkers"
-      excerpt: "*DCP blog*, Jan. 14, 2022<br><br>Lung cancer, the leading cause of cancer deaths worldwide, is often diagnosed at an advanced stage when the chances for a cure are limited."
-      url: "https://prevention.cancer.gov/news-and-events/blog/identifying-new-biomarkers"
+    - image_path: assets/images/feat-image-canopy.jpg
+      image_caption: "Lars Nissen, Pixabay"
+      alt: "Photo looking up toward forest canopy."
+      title: "Forest Structure"
+      excerpt: "*Eos*, July 20, 2022<br><br>Data from  Wisconsin forest sites found that vertical heterogeneity metrics are the most influential drivers of photosynthesis rates."
+      url: "https://eos.org/research-spotlights/how-forest-structure-drives-productivity"
       btn_label: "Read More"
       btn_class: "btn--primary"
-    - image_path: assets/images/feat-image-dna.jpg
-      image_caption: "PublicDomainPictures (Pixabay)"
-      alt: "DNA"
-      title: "Enhancers"
-      excerpt: "*The Scientist*, Nov. 01, 2021<br><br>[Feature story] Certain stretches of DNA that regulate gene expression have evolved differently from protein-coding genes."
-      url: "https://www.the-scientist.com/features/enhancers-conserved-in-activity-not-in-sequence-69331"
+    - image_path: assets/images/feat-image-endometrial.jpg
+      image_caption: "Maria J. Merino, NIH/NCI"
+      alt: "H&E stained section of a serous endometrial carcinoma"
+      title: "Endometrial Cancer"
+      excerpt: "*DCP blog*, June 28, 2022<br><br>Unlike many other cancers, endometrial cancer is on the rise. Researchers are working to change that."
+      url: "https://prevention.cancer.gov/news-and-events/blog/rising-endometrial-cancer"
       btn_label: "Read More"
       btn_class: "btn--primary"
 
