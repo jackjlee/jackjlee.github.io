@@ -426,6 +426,12 @@
                 "category-name": "Cancer Prevention Science blog",
                 "stories": [
                     {
+                        "date": "June 28, 2022",
+                        "title": "Rising Endometrial Cancer Rates Spur New Approaches to Prevention",
+                        "url": "https://prevention.cancer.gov/news-and-events/blog/rising-endometrial-cancer",
+                        "note": ""
+                    },
+                    {
                         "date": "April 18, 2022",
                         "title": "How Precision Cancer Prevention Can Promote Health Equity",
                         "url": "https://prevention.cancer.gov/news-and-events/blog/how-precision-cancer",
@@ -442,6 +448,22 @@
                         "title": "Identifying New Biomarkers to Detect Lung Cancer Earlier",
                         "url": "https://prevention.cancer.gov/news-and-events/blog/identifying-new-biomarkers",
                         "note": ""
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "outlet": "San Francisco Chronicle",
+        "categories": [
+            {
+                "category-name": "",
+                "stories": [
+                    {
+                        "date": "July 27, 2022",
+                        "title": "California's wildfire season is here. But experts say different, potentially more destructive fires lie ahead",
+                        "url": "https://www.sfchronicle.com/bayarea/article/California-wildfires-17330941.php",
+                        "note": "Shared byline with Hannah Hagemann"
                     }
                 ]
             }
