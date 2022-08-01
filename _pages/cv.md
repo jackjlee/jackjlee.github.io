@@ -22,7 +22,7 @@ B.S. in Biology
 
 ## Professional Experience, Writing
 
-**The San Francisco Chronicle (July 2022 - present)**  
+**San Francisco Chronicle (July 2022 - present)**  
 Weather Science Data Reporter
 
 **National Cancer Institute (July 2021 - July 2022)**  
