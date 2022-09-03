@@ -472,6 +472,24 @@
                 "category-name": "",
                 "stories": [
                     {
+                        "date": "Sept. 03, 2022",
+                        "title": "\u2018Heat kills and cold water kills\u2019: Why triple-digit weather will be dangerous this weekend",
+                        "url": "https://www.sfchronicle.com/climate/article/california-heat-wave-17416523.php",
+                        "note": "Shared byline with Sam Whiting"
+                    },
+                    {
+                        "date": "Sept. 01, 2022",
+                        "title": "The science behind California\u2019s worsening heat waves, explained",
+                        "url": "https://www.sfchronicle.com/weather/article/california-heat-wave-17410929.php",
+                        "note": "Shared byline with John Blanchard"
+                    },
+                    {
+                        "date": "Aug. 30, 2022",
+                        "title": "Maps show key S.F. Bay Area cities likely to break 100 degrees this week",
+                        "url": "https://www.sfchronicle.com/weather/article/This-map-shows-which-S-F-Bay-Area-cities-could-17408031.php",
+                        "note": "Shared byline with Gerry D\u00edaz"
+                    },
+                    {
                         "date": "Aug. 29, 2022",
                         "title": "Stifling hot temperatures prompt excessive heat watches for S.F. Bay Area and California",
                         "url": "https://www.sfchronicle.com/weather/article/Excessive-heat-watch-issued-for-the-Bay-Area-as-17405828.php",
