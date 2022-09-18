@@ -1,5 +1,117 @@
 [
     {
+        "outlet": "San Francisco Chronicle",
+        "categories": [
+            {
+                "category-name": "",
+                "stories": [
+                    {
+                        "date": "Sept. 16, 2022",
+                        "title": "Will the Bay Area have record-breaking rain this weekend? How other wet Septembers compare",
+                        "url": "https://www.sfchronicle.com/weather/article/Will-rain-this-weekend-break-records-in-the-S-F-17447115.php",
+                        "note": ""
+                    },
+                    {
+                        "date": "Sept. 16, 2022",
+                        "title": "Is 'earthquake weather' a real thing? Here's what the experts say",
+                        "url": "https://www.sfchronicle.com/weather/article/earthquake-weather-california-17445215.php",
+                        "note": ""
+                    },
+                    {
+                        "date": "Sept. 15, 2022",
+                        "title": "Plumes from wildfire smoke are reaching heights that are making California\u2019s air quality even worse",
+                        "url": "https://www.sfchronicle.com/weather/article/fire-smoke-air-quality-17442627.php",
+                        "note": ""
+                    },
+                    {
+                        "date": "Sept. 09, 2022",
+                        "title": "It\u2019s incredibly rare for a hurricane to reach California. How did Tropical Storm Kay do it?",
+                        "url": "https://www.sfchronicle.com/weather/article/It-s-incredibly-rare-for-a-hurricane-to-reach-17431665.php",
+                        "note": ""
+                    },
+                    {
+                        "date": "Sept. 09, 2022",
+                        "title": "Hurricane Kay has led to extreme weather in California. We\u2019re tracking the impacts",
+                        "url": "https://www.sfchronicle.com/weather/article/Hurricane-Kay-s-remnants-are-causing-extreme-17430521.php",
+                        "note": "Shared byline with Gerry D\u00edaz and Hannah Hagemann"
+                    },
+                    {
+                        "date": "Sept. 07, 2022",
+                        "title": "Here\u2019s the day experts say California\u2019s historic heat wave will finally be over",
+                        "url": "https://www.sfchronicle.com/weather/article/California-s-been-in-the-grips-of-a-week-long-17425926.php",
+                        "note": ""
+                    },
+                    {
+                        "date": "Sept. 07, 2022",
+                        "title": "California\u2019s extreme heat has increased fire risk. A hurricane off the coast could bring \u2018nightmare\u2019 scenario",
+                        "url": "https://www.sfchronicle.com/bayarea/article/California-heat-wave-fire-17423424.php",
+                        "note": "Shared byline with Hannah Hagemann"
+                    },
+                    {
+                        "date": "Sept. 03, 2022",
+                        "title": "\u2018Heat kills and cold water kills\u2019: Why triple-digit weather will be dangerous this weekend",
+                        "url": "https://www.sfchronicle.com/climate/article/california-heat-wave-17416523.php",
+                        "note": "Shared byline with Sam Whiting"
+                    },
+                    {
+                        "date": "Sept. 01, 2022",
+                        "title": "The science behind California\u2019s worsening heat waves, explained",
+                        "url": "https://www.sfchronicle.com/weather/article/california-heat-wave-17410929.php",
+                        "note": "Shared byline with John Blanchard"
+                    },
+                    {
+                        "date": "Aug. 30, 2022",
+                        "title": "Maps show key S.F. Bay Area cities likely to break 100 degrees this week",
+                        "url": "https://www.sfchronicle.com/weather/article/This-map-shows-which-S-F-Bay-Area-cities-could-17408031.php",
+                        "note": "Shared byline with Gerry D\u00edaz"
+                    },
+                    {
+                        "date": "Aug. 29, 2022",
+                        "title": "Stifling hot temperatures prompt excessive heat watches for S.F. Bay Area and California",
+                        "url": "https://www.sfchronicle.com/weather/article/Excessive-heat-watch-issued-for-the-Bay-Area-as-17405828.php",
+                        "note": "Shared byline with Hannah Hagemann"
+                    },
+                    {
+                        "date": "Aug. 27, 2022",
+                        "title": "Atmospheric rivers could unleash billions in damage. One part of the Bay Area is especially at risk.",
+                        "url": "https://www.sfchronicle.com/weather/article/california-floods-17401521.php",
+                        "note": ""
+                    },
+                    {
+                        "date": "Aug. 27, 2022",
+                        "title": "This summer has been packed with record-breaking rainstorms. Why?",
+                        "url": "https://www.sfchronicle.com/weather/article/bay-area-rainfall-17401582.php",
+                        "note": ""
+                    },
+                    {
+                        "date": "Aug. 20, 2022",
+                        "title": "Here's when San Francisco normally has its hottest day of the year",
+                        "url": "https://www.sfchronicle.com/weather/article/san-francisco-hottest-day-17385689.php",
+                        "note": ""
+                    },
+                    {
+                        "date": "Aug. 18, 2022",
+                        "title": "Lightning is extremely rare in the Bay Area. But here\u2019s why it can be so dangerous when it strikes",
+                        "url": "https://www.sfchronicle.com/projects/2022/weather-lightning/",
+                        "note": "Project with Hannah Hagemann, Erin Caughey, Hilary Fung and John Blanchard"
+                    },
+                    {
+                        "date": "Aug. 01, 2022",
+                        "title": "Mugginess. Rain. Lightning. How monsoonal moisture could impact Bay Area weather this week",
+                        "url": "https://www.sfchronicle.com/bayarea/article/Why-does-the-Bay-Area-feel-so-muggy-How-monsoon-17344076.php",
+                        "note": ""
+                    },
+                    {
+                        "date": "July 27, 2022",
+                        "title": "California's wildfire season is here. But experts say different, potentially more destructive fires lie ahead",
+                        "url": "https://www.sfchronicle.com/bayarea/article/California-wildfires-17330941.php",
+                        "note": "Shared byline with Hannah Hagemann"
+                    }
+                ]
+            }
+        ]
+    },
+    {
         "outlet": "American Association for Anatomy",
         "categories": [
             {
@@ -460,118 +572,6 @@
                         "title": "Identifying New Biomarkers to Detect Lung Cancer Earlier",
                         "url": "https://prevention.cancer.gov/news-and-events/blog/identifying-new-biomarkers",
                         "note": ""
-                    }
-                ]
-            }
-        ]
-    },
-    {
-        "outlet": "San Francisco Chronicle",
-        "categories": [
-            {
-                "category-name": "",
-                "stories": [
-                    {
-                        "date": "Sept. 16, 2022",
-                        "title": "Will the Bay Area have record-breaking rain this weekend? How other wet Septembers compare",
-                        "url": "https://www.sfchronicle.com/weather/article/Will-rain-this-weekend-break-records-in-the-S-F-17447115.php",
-                        "note": ""
-                    },
-                    {
-                        "date": "Sept. 16, 2022",
-                        "title": "Is 'earthquake weather' a real thing? Here's what the experts say",
-                        "url": "https://www.sfchronicle.com/weather/article/earthquake-weather-california-17445215.php",
-                        "note": ""
-                    },
-                    {
-                        "date": "Sept. 15, 2022",
-                        "title": "Plumes from wildfire smoke are reaching heights that are making California\u2019s air quality even worse",
-                        "url": "https://www.sfchronicle.com/weather/article/fire-smoke-air-quality-17442627.php",
-                        "note": ""
-                    },
-                    {
-                        "date": "Sept. 09, 2022",
-                        "title": "It\u2019s incredibly rare for a hurricane to reach California. How did Tropical Storm Kay do it?",
-                        "url": "https://www.sfchronicle.com/weather/article/It-s-incredibly-rare-for-a-hurricane-to-reach-17431665.php",
-                        "note": ""
-                    },
-                    {
-                        "date": "Sept. 09, 2022",
-                        "title": "Hurricane Kay has led to extreme weather in California. We\u2019re tracking the impacts",
-                        "url": "https://www.sfchronicle.com/weather/article/Hurricane-Kay-s-remnants-are-causing-extreme-17430521.php",
-                        "note": "Shared byline with Gerry D\u00edaz and Hannah Hagemann"
-                    },
-                    {
-                        "date": "Sept. 07, 2022",
-                        "title": "Here\u2019s the day experts say California\u2019s historic heat wave will finally be over",
-                        "url": "https://www.sfchronicle.com/weather/article/California-s-been-in-the-grips-of-a-week-long-17425926.php",
-                        "note": ""
-                    },
-                    {
-                        "date": "Sept. 07, 2022",
-                        "title": "California\u2019s extreme heat has increased fire risk. A hurricane off the coast could bring \u2018nightmare\u2019 scenario",
-                        "url": "https://www.sfchronicle.com/bayarea/article/California-heat-wave-fire-17423424.php",
-                        "note": "Shared byline with Hannah Hagemann"
-                    },
-                    {
-                        "date": "Sept. 03, 2022",
-                        "title": "\u2018Heat kills and cold water kills\u2019: Why triple-digit weather will be dangerous this weekend",
-                        "url": "https://www.sfchronicle.com/climate/article/california-heat-wave-17416523.php",
-                        "note": "Shared byline with Sam Whiting"
-                    },
-                    {
-                        "date": "Sept. 01, 2022",
-                        "title": "The science behind California\u2019s worsening heat waves, explained",
-                        "url": "https://www.sfchronicle.com/weather/article/california-heat-wave-17410929.php",
-                        "note": "Shared byline with John Blanchard"
-                    },
-                    {
-                        "date": "Aug. 30, 2022",
-                        "title": "Maps show key S.F. Bay Area cities likely to break 100 degrees this week",
-                        "url": "https://www.sfchronicle.com/weather/article/This-map-shows-which-S-F-Bay-Area-cities-could-17408031.php",
-                        "note": "Shared byline with Gerry D\u00edaz"
-                    },
-                    {
-                        "date": "Aug. 29, 2022",
-                        "title": "Stifling hot temperatures prompt excessive heat watches for S.F. Bay Area and California",
-                        "url": "https://www.sfchronicle.com/weather/article/Excessive-heat-watch-issued-for-the-Bay-Area-as-17405828.php",
-                        "note": "Shared byline with Hannah Hagemann"
-                    },
-                    {
-                        "date": "Aug. 27, 2022",
-                        "title": "Atmospheric rivers could unleash billions in damage. One part of the Bay Area is especially at risk.",
-                        "url": "https://www.sfchronicle.com/weather/article/california-floods-17401521.php",
-                        "note": ""
-                    },
-                    {
-                        "date": "Aug. 27, 2022",
-                        "title": "This summer has been packed with record-breaking rainstorms. Why?",
-                        "url": "https://www.sfchronicle.com/weather/article/bay-area-rainfall-17401582.php",
-                        "note": ""
-                    },
-                    {
-                        "date": "Aug. 20, 2022",
-                        "title": "Here's when San Francisco normally has its hottest day of the year",
-                        "url": "https://www.sfchronicle.com/weather/article/san-francisco-hottest-day-17385689.php",
-                        "note": ""
-                    },
-                    {
-                        "date": "Aug. 18, 2022",
-                        "title": "Lightning is extremely rare in the Bay Area. But here\u2019s why it can be so dangerous when it strikes",
-                        "url": "https://www.sfchronicle.com/projects/2022/weather-lightning/",
-                        "note": "Project with Hannah Hagemann, Erin Caughey, Hilary Fung and John Blanchard"
-                    },
-                    {
-                        "date": "Aug. 01, 2022",
-                        "title": "Mugginess. Rain. Lightning. How monsoonal moisture could impact Bay Area weather this week",
-                        "url": "https://www.sfchronicle.com/bayarea/article/Why-does-the-Bay-Area-feel-so-muggy-How-monsoon-17344076.php",
-                        "note": ""
-                    },
-                    {
-                        "date": "July 27, 2022",
-                        "title": "California's wildfire season is here. But experts say different, potentially more destructive fires lie ahead",
-                        "url": "https://www.sfchronicle.com/bayarea/article/California-wildfires-17330941.php",
-                        "note": "Shared byline with Hannah Hagemann"
                     }
                 ]
             }
