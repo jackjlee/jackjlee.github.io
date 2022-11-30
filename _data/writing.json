@@ -6,6 +6,42 @@
                 "category-name": "",
                 "stories": [
                     {
+                        "date": "Nov. 29, 2022",
+                        "title": "Lake Tahoe hit with avalanche watch as major winter storm approaches California",
+                        "url": "https://www.sfchronicle.com/weather/article/Alert-issued-for-Sierra-avalanche-danger-17619023.php",
+                        "note": ""
+                    },
+                    {
+                        "date": "Nov. 28, 2022",
+                        "title": "Bay Area weather is about to get even colder \u2014 here's how low temperatures will get this week",
+                        "url": "https://www.sfchronicle.com/weather/article/Here-are-the-Bay-Area-cities-where-it-will-get-17616636.php",
+                        "note": ""
+                    },
+                    {
+                        "date": "Nov. 19, 2022",
+                        "title": "The Bay Area has endured a \u2018cold snap\u2019 this November. Has it actually been colder than normal?",
+                        "url": "https://www.sfchronicle.com/weather/article/cold-november-bay-area-17596470.php",
+                        "note": ""
+                    },
+                    {
+                        "date": "Nov. 02, 2022",
+                        "title": "Coming California storm will likely end NorCal fire season",
+                        "url": "https://www.sfchronicle.com/weather/article/How-unexpected-California-weather-17554095.php",
+                        "note": "Shared byline with Hannah Hagemann"
+                    },
+                    {
+                        "date": "Oct. 28, 2022",
+                        "title": "Atmospheric rivers will hit the West soon. What does it mean for California?",
+                        "url": "https://www.sfchronicle.com/bayarea/article/Atmospheric-rivers-will-hit-the-West-Coast-next-17541385.php",
+                        "note": ""
+                    },
+                    {
+                        "date": "Oct. 26, 2022",
+                        "title": "Bay Area experiment captures data on California\u2019s most dangerous wildfires",
+                        "url": "https://www.sfchronicle.com/weather/article/How-Bay-Area-experiment-captures-unprecedented-17536079.php",
+                        "note": ""
+                    },
+                    {
                         "date": "Oct. 20, 2022",
                         "title": "Officials warn of high wildfire risk in Tahoe this weekend",
                         "url": "https://www.sfchronicle.com/weather/article/Officials-warn-of-high-wildfire-risk-in-Tahoe-17522829.php",
