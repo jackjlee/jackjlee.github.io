@@ -6,28 +6,28 @@ header:
   image: /assets/images/splash-image-stripes.png
   caption: "Ed Hawkins (CC BY-SA 4.0)"
 feature_row:
-    - image_path: assets/images/feat-image-quake.jpeg
-      image_caption: "Ben Brooks, USGS"
-      alt: "USGS Earthquake Science Center Mobile Laser Scanning truck operated by Ben Brooks and Todd Ericksen scanning the surface rupture near the zone of maximum surface displacement of the M7.1 Searles Valley earthquake."
-      title: "Earthquakes"
-      excerpt: "*SF Chronicle*, Sept. 16, 2022<br><br>Is 'earthquake weather' a real thing? Here's what the experts say."
-      url: "https://www.sfchronicle.com/weather/article/earthquake-weather-california-17445215.php"
+    - image_path: assets/images/feat-image-frost.jpeg
+      image_caption: "Tbmynors (CC BY-SA 2.5)"
+      alt: "Frosty grass"
+      title: "Low temps"
+      excerpt: "*SF Chronicle*, Nov. 28, 2022<br><br>A cold front is bringing colder-than-normal temperatures this week."
+      url: "https://www.sfchronicle.com/weather/article/Here-are-the-Bay-Area-cities-where-it-will-get-17616636.php"
       btn_label: "Read More"
       btn_class: "btn--primary"
-    - image_path: assets/images/feat-image-sun.jpg
-      image_caption: "jplenio, Pixabay"
-      alt: "Photo of sun in a blue sky"
-      title: "Heat Waves"
-      excerpt: "*SF Chronicle*, Sept. 01, 2022<br><br>The science behind California’s worsening heat waves, explained."
-      url: "https://www.sfchronicle.com/weather/article/california-heat-wave-17410929.php"
+    - image_path: assets/images/feat-image-smoke.jpg
+      image_caption: "Christopher Michel (CC BY-SA 4.0)"
+      alt: "Photo of San Francisco with orange skies due to wildfire smoke."
+      title: "Wildfire smoke"
+      excerpt: "*SF Chronicle*, Oct. 17, 2022<br><br>California counties are experiencing far more days with dangerous smoke pollution."
+      url: "https://www.sfchronicle.com/weather/article/Wildfire-smoke-air-quality-17510535.php"
       btn_label: "Read More"
       btn_class: "btn--primary"    
-    - image_path: assets/images/feat-image-lightning.jpg
-      image_caption: "FelixMittermeier, Pixabay"
-      alt: "Lightning stroke"
-      title: "Lightning"
-      excerpt: "*SF Chronicle*, Aug. 18, 2022<br><br>Lightning is rare in the Bay Area, but has sparked some of California's largest wildfires."
-      url: "https://www.sfchronicle.com/projects/2022/weather-lightning/"
+    - image_path: assets/images/feat-image-lanina.jpg
+      image_caption: "NOAA Climate.gov"
+      alt: "U.S. map"
+      title: "La Niña"
+      excerpt: "*SF Chronicle*, Sept. 22, 2022<br><br>The first “triple-dip” La Niña of the century could have a big influence on Bay Area weather."
+      url: "https://www.sfchronicle.com/weather/article/california-la-nina-17458225.php"
       btn_label: "Read More"
       btn_class: "btn--primary"
 
