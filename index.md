@@ -6,28 +6,28 @@ header:
   image: /assets/images/splash-image-stripes.png
   caption: "Ed Hawkins (CC BY-SA 4.0)"
 feature_row:
-    - image_path: assets/images/feat-image-frost.jpeg
-      image_caption: "Tbmynors (CC BY-SA 2.5)"
-      alt: "Frosty grass"
-      title: "Low temps"
-      excerpt: "*SF Chronicle*, Nov. 28, 2022<br><br>A cold front is bringing colder-than-normal temperatures this week."
-      url: "https://www.sfchronicle.com/weather/article/Here-are-the-Bay-Area-cities-where-it-will-get-17616636.php"
+    - image_path: assets/images/feat-image-ar.jpg
+      image_caption: "NOAA"
+      alt: "Image of a 2019 atmospheric river from NOAA's GOES-17 satellite"
+      title: "Atmospheric rivers"
+      excerpt: "*SF Chronicle*, Dec. 30, 2022<br><br> Rivers in the sky replenish California's water supplies, but also cause widespread flood damage."
+      url: "https://www.sfchronicle.com/projects/2022/atmospheric-river-california/"
       btn_label: "Read More"
       btn_class: "btn--primary"
-    - image_path: assets/images/feat-image-smoke.jpg
-      image_caption: "Christopher Michel (CC BY-SA 4.0)"
-      alt: "Photo of San Francisco with orange skies due to wildfire smoke."
-      title: "Wildfire smoke"
-      excerpt: "*SF Chronicle*, Oct. 17, 2022<br><br>California counties are experiencing far more days with dangerous smoke pollution."
-      url: "https://www.sfchronicle.com/weather/article/Wildfire-smoke-air-quality-17510535.php"
+    - image_path: assets/images/feat-image-jet.jpg
+      image_caption: "Lt. Kevin Doremus / NOAA"
+      alt: "NOAA's Gulfstream IV-SP takes off from Lakeland Linder Regional Airport."
+      title: "Hurricane Hunters"
+      excerpt: "*SF Chronicle*, Dec. 27, 2022<br><br>Recon flights provide atmospheric river data that improves weather models and could transform California's reservoir levels during drought."
+      url: "https://www.sfchronicle.com/weather/article/tracking-california-atmospheric-rivers-17673031.php"
       btn_label: "Read More"
       btn_class: "btn--primary"    
-    - image_path: assets/images/feat-image-lanina.jpg
-      image_caption: "NOAA Climate.gov"
-      alt: "U.S. map"
-      title: "La Niña"
-      excerpt: "*SF Chronicle*, Sept. 22, 2022<br><br>The first “triple-dip” La Niña of the century could have a big influence on Bay Area weather."
-      url: "https://www.sfchronicle.com/weather/article/california-la-nina-17458225.php"
+    - image_path: assets/images/feat-image-swot.jpg
+      image_caption: "USSF 30th Space Wing/Chris Okula"
+      alt: "The Surface Water and Ocean Topography (SWOT) spacecraft is moved into a transport container at Vandenberg Space Force Base."
+      title: "SWOT"
+      excerpt: "*SF Chronicle*, Dec. 12, 2022<br><br>The Surface Water and Ocean Topography satellite could provide an unprecedented view of S.F. Bay Area waters."
+      url: "https://www.sfchronicle.com/weather/article/NASA-satellite-water-17644070.php"
       btn_label: "Read More"
       btn_class: "btn--primary"
 
