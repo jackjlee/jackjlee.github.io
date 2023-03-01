@@ -6,15 +6,23 @@ header:
   image: /assets/images/splash-image-stripes.png
   caption: "Ed Hawkins (CC BY-SA 4.0)"
 feature_row:
-    - image_path: assets/images/feat-image-ar.jpg
-      image_caption: "NOAA"
-      alt: "Image of a 2019 atmospheric river from NOAA's GOES-17 satellite"
-      title: "Atmospheric rivers"
-      excerpt: "*SF Chronicle*, Dec. 30, 2022<br><br> Rivers in the sky replenish California's water supplies, but also cause widespread flood damage."
-      url: "https://www.sfchronicle.com/projects/2022/atmospheric-river-california/"
+    - image_path: assets/images/feat-image-groundwater.jpg
+      image_caption: "Kelly M. Grow/CA DWR"
+      alt: "Gray Lodge Wildlife Area in Gridley has groundwater wells that are pumping water to flood fields and supply water for waterfowl."
+      title: "Groundwater"
+      excerpt: "*SF Chronicle*, Feb. 19, 2022<br><br>Did winter storms replenish California’s depleted groundwater supplies? Here’s what data shows"
+      url: "https://www.sfchronicle.com/weather/article/winter-storms-groundwater-17781830.php"
       btn_label: "Read More"
       btn_class: "btn--primary"
-    - image_path: assets/images/feat-image-jet.jpg
+    - image_path: assets/images/feat-image-flood.jpg
+      image_caption: "Public domain"
+      alt: "Lithograph of K Street in the city of Sacramento, CA during the Great Flood of 1862"
+      title: "Winter storms"
+      excerpt: "*SF Chronicle*, Jan. 13, 2022<br><br>These charts show how December and January rains stacked up to California’s most historic storms"
+      url: "https://www.sfchronicle.com/weather/article/california-historic-rain-storms-17714607.php"
+      btn_label: "Read More"
+      btn_class: "btn--primary"
+    - image_path: assets/images/feat-image-jet2.jpg
       image_caption: "Lt. Kevin Doremus / NOAA"
       alt: "NOAA's Gulfstream IV-SP takes off from Lakeland Linder Regional Airport."
       title: "Hurricane Hunters"
@@ -22,14 +30,6 @@ feature_row:
       url: "https://www.sfchronicle.com/weather/article/tracking-california-atmospheric-rivers-17673031.php"
       btn_label: "Read More"
       btn_class: "btn--primary"    
-    - image_path: assets/images/feat-image-swot.jpg
-      image_caption: "USSF 30th Space Wing/Chris Okula"
-      alt: "The Surface Water and Ocean Topography (SWOT) spacecraft is moved into a transport container at Vandenberg Space Force Base."
-      title: "SWOT"
-      excerpt: "*SF Chronicle*, Dec. 12, 2022<br><br>The Surface Water and Ocean Topography satellite could provide an unprecedented view of S.F. Bay Area waters."
-      url: "https://www.sfchronicle.com/weather/article/NASA-satellite-water-17644070.php"
-      btn_label: "Read More"
-      btn_class: "btn--primary"
 
 ---
 

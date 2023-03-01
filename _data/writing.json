@@ -6,6 +6,108 @@
                 "category-name": "",
                 "stories": [
                     {
+                        "date": "Feb. 28, 2023",
+                        "title": "The epic California snowpack is inching toward record levels",
+                        "url": "https://www.sfchronicle.com/weather/article/california-sierra-snowpack-17808649.php",
+                        "note": ""
+                    },
+                    {
+                        "date": "Feb. 25, 2023",
+                        "title": "Here\u2019s how this week\u2019s winter storms added to California\u2019s booming snowpack",
+                        "url": "https://www.sfchronicle.com/weather/article/california-snow-storm-sierra-17804747.php",
+                        "note": "Shared byline with Claire Hao"
+                    },
+                    {
+                        "date": "Feb. 24, 2023",
+                        "title": "Photos show the Bay Area blanketed in rare snow",
+                        "url": "https://www.sfchronicle.com/weather/article/photos-show-historic-snow-17803841.php",
+                        "note": ""
+                    },
+                    {
+                        "date": "Feb. 23, 2023",
+                        "title": "California's winter storm is bringing snow, hail and graupel. Here's how to tell the difference",
+                        "url": "https://www.sfchronicle.com/weather/article/california-storm-snow-hail-17802445.php",
+                        "note": ""
+                    },
+                    {
+                        "date": "Feb. 23, 2023",
+                        "title": "California weather: Morning commute may be bad as snow, frigid temperatures blanket state",
+                        "url": "https://www.sfchronicle.com/weather/article/california-storm-snow-rain-17799208.php",
+                        "note": "Contributed to live blog with other Chronicle staff"
+                    },
+                    {
+                        "date": "Feb. 22, 2023",
+                        "title": "Winter storm brings snow, hail and freezing weather to the Bay Area \u2014 and it's likely to get worse",
+                        "url": "https://www.sfchronicle.com/weather/article/sf-bay-area-weather-snow-hail-17799749.php",
+                        "note": "Shared byline with Claire Hao"
+                    },
+                    {
+                        "date": "Feb. 22, 2023",
+                        "title": "Here\u2019s where the strongest winds have blown in the Bay Area during the storm",
+                        "url": "https://www.sfchronicle.com/weather/article/bay-area-wind-gusts-17799123.php",
+                        "note": ""
+                    },
+                    {
+                        "date": "Feb. 21, 2023",
+                        "title": "Bay Area set to see very unusual snow event. Will San Francisco see flakes?",
+                        "url": "https://www.sfchronicle.com/weather/article/bay-area-snow-17796883.php",
+                        "note": "Shared byline with Gerry D\u00edaz"
+                    },
+                    {
+                        "date": "Feb. 19, 2023",
+                        "title": "Did winter storms replenish California\u2019s depleted groundwater supplies? Here\u2019s what data shows",
+                        "url": "https://www.sfchronicle.com/weather/article/winter-storms-groundwater-17781830.php",
+                        "note": ""
+                    },
+                    {
+                        "date": "Feb. 18, 2023",
+                        "title": "Before and after images show incredible impact of storms on California reservoirs",
+                        "url": "https://www.sfchronicle.com/california/article/storm-water-reservoir-images-17782241.php",
+                        "note": "Shared byline with Yoohyun Jung"
+                    },
+                    {
+                        "date": "Feb. 15, 2023",
+                        "title": "We were surprised': California\u2019s wildfire risk maps are missing this key info, study finds",
+                        "url": "https://www.sfchronicle.com/weather/article/california-wildfire-risk-inequity-17784387.php",
+                        "note": ""
+                    },
+                    {
+                        "date": "Feb. 12, 2023",
+                        "title": "Why historic storms are 'both a blessing and a curse' for California's fire season",
+                        "url": "https://www.sfchronicle.com/weather/article/how-historic-storms-will-impact-wildfires-17774255.php",
+                        "note": ""
+                    },
+                    {
+                        "date": "Feb. 01, 2023",
+                        "title": "Recent rains are \u2018nowhere near\u2019 what California might see in the future, climate expert says",
+                        "url": "https://www.sfchronicle.com/weather/article/recent-rains-are-nowhere-near-what-17758029.php",
+                        "note": ""
+                    },
+                    {
+                        "date": "Feb. 01, 2023",
+                        "title": "These amazing images show what Mars snow looks like \u2014 it\u2019s nothing like on Earth",
+                        "url": "https://www.sfchronicle.com/weather/article/mars-snow-photos-earth-17755425.php",
+                        "note": ""
+                    },
+                    {
+                        "date": "Jan. 30, 2023",
+                        "title": "California\u2019s snowpack may face an emerging risk that scientists are just discovering",
+                        "url": "https://www.sfchronicle.com/weather/article/california-snowpack-wildfire-17747578.php",
+                        "note": ""
+                    },
+                    {
+                        "date": "Jan. 21, 2023",
+                        "title": "California's recent storms were historic. Here's why they could get much worse",
+                        "url": "https://www.sfchronicle.com/weather/article/california-winter-rain-storms-17731984.php",
+                        "note": ""
+                    },
+                    {
+                        "date": "Jan. 18, 2023",
+                        "title": "California rain totals: Charts show dramatic effect of recent storms",
+                        "url": "https://www.sfchronicle.com/projects/2023/california-rain-totals/",
+                        "note": "Shared byline with Janie Haseman and Andrew Williams"
+                    },
+                    {
                         "date": "Jan. 13, 2023",
                         "title": "These charts show how recent rains stack up to California\u2019s most historic storms",
                         "url": "https://www.sfchronicle.com/weather/article/california-historic-rain-storms-17714607.php",
