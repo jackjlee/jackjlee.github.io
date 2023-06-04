@@ -6,28 +6,28 @@ header:
   image: /assets/images/splash-image-stripes.png
   caption: "Ed Hawkins (CC BY-SA 4.0)"
 feature_row:
-    - image_path: assets/images/feat-image-groundwater.jpg
-      image_caption: "Kelly M. Grow/CA DWR"
-      alt: "Gray Lodge Wildlife Area in Gridley has groundwater wells that are pumping water to flood fields and supply water for waterfowl."
-      title: "Groundwater"
-      excerpt: "*SF Chronicle*, Feb. 19, 2022<br><br>Did winter storms replenish California’s depleted groundwater supplies? Here’s what data shows"
-      url: "https://www.sfchronicle.com/weather/article/winter-storms-groundwater-17781830.php"
+    - image_path: assets/images/feat-image-river.jpg
+      image_caption: "Sequoia and Kings Canyon National Parks"
+      alt: "Photo of a swiftly flowing river from an April 13 Facebook post by Sequoia and Kings Canyon National Parks."
+      title: "Streamflow"
+      excerpt: "*SF Chronicle*, May 29, 2023<br><br>Map shows epic amounts of water gushing through California rivers"
+      url: "https://www.sfchronicle.com/california/article/river-flow-snowpack-water-18119571.php"
       btn_label: "Read More"
       btn_class: "btn--primary"
-    - image_path: assets/images/feat-image-flood.jpg
-      image_caption: "Public domain"
-      alt: "Lithograph of K Street in the city of Sacramento, CA during the Great Flood of 1862"
-      title: "Winter storms"
-      excerpt: "*SF Chronicle*, Jan. 13, 2022<br><br>These charts show how December and January rains stacked up to California’s most historic storms"
-      url: "https://www.sfchronicle.com/weather/article/california-historic-rain-storms-17714607.php"
+    - image_path: assets/images/feat-image-elnino.jpg
+      image_caption: "NOAA Climate.gov"
+      alt: "Graphic showing the typical impact of El Niño on the jet stream and winter weather in the United States."
+      title: "El Niño"
+      excerpt: "*SF Chronicle*, May 21, 2023<br><br>Predicting whether the upcoming winter will bring even more wet weather to California is complicated."
+      url: "https://www.sfchronicle.com/weather/article/california-el-nino-18106597.php"
       btn_label: "Read More"
       btn_class: "btn--primary"
-    - image_path: assets/images/feat-image-jet2.jpg
-      image_caption: "Lt. Kevin Doremus / NOAA"
-      alt: "NOAA's Gulfstream IV-SP takes off from Lakeland Linder Regional Airport."
-      title: "Hurricane Hunters"
-      excerpt: "*SF Chronicle*, Dec. 27, 2022<br><br>Recon flights provide atmospheric river data that improves weather models and could transform California's reservoir levels during drought."
-      url: "https://www.sfchronicle.com/weather/article/tracking-california-atmospheric-rivers-17673031.php"
+    - image_path: assets/images/feat-image-snowpack.jpg
+      image_caption: "NASA's Earth Observatory"
+      alt: "Satellite image of the Sierra snowpack on April 6, 2023."
+      title: "Climate whiplash"
+      excerpt: "*SF Chronicle*, May 04, 2023<br><br>Satellite images show dramatic swings of California’s snowpack."
+      url: "https://www.sfchronicle.com/weather/article/california-snowpack-17918291.php"
       btn_label: "Read More"
       btn_class: "btn--primary"    
 
