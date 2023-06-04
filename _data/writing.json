@@ -6,6 +6,126 @@
                 "category-name": "",
                 "stories": [
                     {
+                        "date": "June 02, 2023",
+                        "title": "Why a majority of Californians are expecting 'weather whiplash' in near future",
+                        "url": "https://www.sfchronicle.com/weather/article/california-climate-poll-18130401.php",
+                        "note": ""
+                    },
+                    {
+                        "date": "May 29, 2023",
+                        "title": "Map shows epic amounts of water gushing through California rivers",
+                        "url": "https://www.sfchronicle.com/california/article/river-flow-snowpack-water-18119571.php",
+                        "note": ""
+                    },
+                    {
+                        "date": "May 24, 2023",
+                        "title": "California is seeing more days of fire weather. Map shows areas with biggest spikes",
+                        "url": "https://www.sfchronicle.com/weather/article/california-wildfire-fire-season-18113388.php",
+                        "note": ""
+                    },
+                    {
+                        "date": "May 21, 2023",
+                        "title": "El Ni\u00f1o to bring record-breaking temperatures. What does that mean for California weather?",
+                        "url": "https://www.sfchronicle.com/weather/article/california-el-nino-18106597.php",
+                        "note": ""
+                    },
+                    {
+                        "date": "May 13, 2023",
+                        "title": "Map of California tornadoes shows where the spikes in wild weather happened",
+                        "url": "https://www.sfchronicle.com/weather/article/california-weather-tornado-18091641.php",
+                        "note": ""
+                    },
+                    {
+                        "date": "May 04, 2023",
+                        "title": "\u2018Climate whiplash\u2019: Satellite images show dramatic swings of California\u2019s snowpack",
+                        "url": "https://www.sfchronicle.com/weather/article/california-snowpack-17918291.php",
+                        "note": ""
+                    },
+                    {
+                        "date": "April 28, 2023",
+                        "title": "California just had its first big wildfire. When will the risk amp up in the Bay Area?",
+                        "url": "https://www.sfchronicle.com/california-wildfires/article/risk-factor-bay-area-17917492.php",
+                        "note": ""
+                    },
+                    {
+                        "date": "April 23, 2023",
+                        "title": "The science behind California superblooms, explained",
+                        "url": "https://www.sfchronicle.com/weather/article/california-superbloom-17905034.php",
+                        "note": ""
+                    },
+                    {
+                        "date": "April 14, 2023",
+                        "title": "Maps show why the Bay Area\u2019s spring weather is like nowhere else in U.S.",
+                        "url": "https://www.sfchronicle.com/projects/2023/when-is-spring-bay-area/",
+                        "note": "Shared byline with Janie Haseman"
+                    },
+                    {
+                        "date": "April 11, 2023",
+                        "title": "\u2018We\u2019re in uncharted territory\u2019: Why California's epic snowpack presents flood concerns",
+                        "url": "https://www.sfchronicle.com/weather/article/california-snowpack-flood-17889599.php",
+                        "note": ""
+                    },
+                    {
+                        "date": "April 05, 2023",
+                        "title": "Here\u2019s where experts say California\u2019s historic snowpack presents the greatest flood risks",
+                        "url": "https://www.sfchronicle.com/weather/article/california-sierra-snow-melt-fastest-17877951.php",
+                        "note": ""
+                    },
+                    {
+                        "date": "March 31, 2023",
+                        "title": "Charts show how San Francisco\u2019s March rain stacks up to the past 170 years",
+                        "url": "https://www.sfchronicle.com/weather/article/san-francisco-march-rainfall-total-17871413.php",
+                        "note": ""
+                    },
+                    {
+                        "date": "March 30, 2023",
+                        "title": "Here\u2019s the science behind the endless storms drenching California this winter",
+                        "url": "https://www.sfchronicle.com/weather/article/california-winter-storms-17867708.php",
+                        "note": ""
+                    },
+                    {
+                        "date": "March 28, 2023",
+                        "title": "San Francisco tied a century-old temperature record. Here's how cold it got",
+                        "url": "https://www.sfchronicle.com/weather/article/sf-cold-temperature-record-17865519.php",
+                        "note": ""
+                    },
+                    {
+                        "date": "March 27, 2023",
+                        "title": "Maps compare California's snowfall this year with past winters",
+                        "url": "https://www.sfchronicle.com/projects/2023/california-snowfall-maps/",
+                        "note": "Shared byline with Vivien Ngo"
+                    },
+                    {
+                        "date": "March 24, 2023",
+                        "title": "Maps show areas of California where rainfall totals have surged above average",
+                        "url": "https://www.sfchronicle.com/weather/article/california-rain-map-data-17854964.php",
+                        "note": ""
+                    },
+                    {
+                        "date": "March 21, 2023",
+                        "title": "Floods have devastated parts of California. Here\u2019s why they\u2019re so hard to forecast",
+                        "url": "https://www.sfchronicle.com/weather/article/california-flood-forecast-17843264.php",
+                        "note": ""
+                    },
+                    {
+                        "date": "March 13, 2023",
+                        "title": "Whole hell of a lot of water up there': This map shows the Sierra snowpack's record levels",
+                        "url": "https://www.sfchronicle.com/weather/article/california-snowpack-record-17836514.php",
+                        "note": ""
+                    },
+                    {
+                        "date": "March 11, 2023",
+                        "title": "Yet another atmospheric river is on its way to California. Here\u2019s what we know so far",
+                        "url": "https://www.sfchronicle.com/weather/article/atmospheric-river-storm-california-17832064.php",
+                        "note": "Shared byline with Gerry D\u00edaz"
+                    },
+                    {
+                        "date": "March 10, 2023",
+                        "title": "California storm: Updates on flooding, road conditions",
+                        "url": "https://www.sfchronicle.com/weather/article/storm-rain-flooding-17830934.php",
+                        "note": "Contributed to live blog with other Chronicle staff"
+                    },
+                    {
                         "date": "March 03, 2023",
                         "title": "Map shows which parts of California exceeded entire year\u2019s worth of rain",
                         "url": "https://www.sfchronicle.com/weather/article/california-total-rainfall-17816076.php",
