@@ -6,6 +6,18 @@
                 "category-name": "",
                 "stories": [
                     {
+                        "date": "June 07, 2023",
+                        "title": "Are New York City's orange skies as bad as the Bay Area in 2020? Here's how they compare",
+                        "url": "https://www.sfchronicle.com/weather/article/california-wildfire-smoke-18140289.php",
+                        "note": ""
+                    },
+                    {
+                        "date": "June 06, 2023",
+                        "title": "Same forces driving insurers out of California have already taken toll on home prices",
+                        "url": "https://www.sfchronicle.com/weather/article/california-wildfire-hazard-risk-18136744.php",
+                        "note": ""
+                    },
+                    {
                         "date": "June 02, 2023",
                         "title": "Why a majority of Californians are expecting 'weather whiplash' in near future",
                         "url": "https://www.sfchronicle.com/weather/article/california-climate-poll-18130401.php",
@@ -124,6 +136,18 @@
                         "title": "California storm: Updates on flooding, road conditions",
                         "url": "https://www.sfchronicle.com/weather/article/storm-rain-flooding-17830934.php",
                         "note": "Contributed to live blog with other Chronicle staff"
+                    },
+                    {
+                        "date": "March 09, 2023",
+                        "title": "Map: These are the areas facing serious flood risks in California storm",
+                        "url": "https://www.sfchronicle.com/weather/article/map-shows-flood-risk-17830177.php",
+                        "note": "Shared byline with Jessica Flores"
+                    },
+                    {
+                        "date": "March 04, 2023",
+                        "title": "California\u2019s storms having unusual effect on S.F. Bay, weather service says",
+                        "url": "https://www.sfchronicle.com/climate/article/california-storms-san-francisco-bay-cold-17818612.php",
+                        "note": "Shared byline with Danielle Echeverria"
                     },
                     {
                         "date": "March 03, 2023",
