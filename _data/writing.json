@@ -3,7 +3,7 @@
         "outlet": "San Francisco Chronicle",
         "categories": [
             {
-                "category-name": "",
+                "category-name": "2023",
                 "stories": [
                     {
                         "date": "June 14, 2023",
@@ -316,7 +316,12 @@
                         "title": "A \u2018bomb cyclone\u2019-fueled storm is headed for California. Here\u2019s a timeline of the impacts",
                         "url": "https://www.sfchronicle.com/weather/article/A-bomb-cyclone-fueled-storm-is-headed-for-17692644.php",
                         "note": "Shared byline with Gerry D\u00edaz"
-                    },
+                    }
+                ]
+            },
+            {
+                "category-name": "2022",
+                "stories": [
                     {
                         "date": "Dec. 30, 2022",
                         "title": "This map shows where it rained hardest in California this week",
@@ -820,6 +825,17 @@
                 ]
             },
             {
+                "category-name": "Press Release",
+                "stories": [
+                    {
+                        "date": "Nov. 12, 2020",
+                        "title": "New studies shine light on bright lightning superbolts",
+                        "url": "https://news.agu.org/press-release/new-studies-shine-light-on-bright-lightning-superbolts/",
+                        "note": ""
+                    }
+                ]
+            },
+            {
                 "category-name": "GeoSpace",
                 "stories": [
                     {
@@ -832,17 +848,6 @@
                         "date": "Dec. 11, 2019",
                         "title": "Scientists use night vision to help save bats' lives",
                         "url": "https://blogs.agu.org/geospace/2019/12/11/scientists-use-night-vision-to-help-save-bats-lives/",
-                        "note": ""
-                    }
-                ]
-            },
-            {
-                "category-name": "Press Release",
-                "stories": [
-                    {
-                        "date": "Nov. 12, 2020",
-                        "title": "New studies shine light on bright lightning superbolts",
-                        "url": "https://news.agu.org/press-release/new-studies-shine-light-on-bright-lightning-superbolts/",
                         "note": ""
                     }
                 ]
