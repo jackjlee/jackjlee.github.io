@@ -6,6 +6,48 @@
                 "category-name": "2023",
                 "stories": [
                     {
+                        "date": "July 21, 2023",
+                        "title": "This is the robot that is scorching California\u2019s fire-prone landscape",
+                        "url": "https://www.sfchronicle.com/weather/article/robot-tech-burn-risk-18189272.php",
+                        "note": ""
+                    },
+                    {
+                        "date": "July 15, 2023",
+                        "title": "Here\u2019s how hot it got Saturday in the Bay Area, and when relief will arrive",
+                        "url": "https://www.sfchronicle.com/weather/article/bay-area-heat-wave-18198176.php",
+                        "note": "Shared byline with Gabe Castro-Root and Anthony Edwards"
+                    },
+                    {
+                        "date": "July 14, 2023",
+                        "title": "California heat wave: Here\u2019s where warnings and advisories are in effect now",
+                        "url": "https://www.sfchronicle.com/weather/article/bay-area-heat-warning-18197907.php",
+                        "note": ""
+                    },
+                    {
+                        "date": "July 05, 2023",
+                        "title": "The planet saw its hottest day ever this week. Here's why the Bay Area stayed cool",
+                        "url": "https://www.sfchronicle.com/weather/article/earth-record-high-temperatures-bay-area-cool-18185831.php",
+                        "note": "Shared byline with Anthony Edwards"
+                    },
+                    {
+                        "date": "June 30, 2023",
+                        "title": "California\u2019s heat wave is creating dangerous conditions for hiking and swimming. How to stay safe",
+                        "url": "https://www.sfchronicle.com/weather/article/california-heat-warning-hiking-18178420.php",
+                        "note": "Shared byline with Sam Whiting; updated version of story published in September 2022."
+                    },
+                    {
+                        "date": "June 27, 2923",
+                        "title": "California\u2019s air quality has been better than normal this year. Here\u2019s why",
+                        "url": "https://www.sfchronicle.com/weather/article/bay-area-air-quality-18171337.php",
+                        "note": ""
+                    },
+                    {
+                        "date": "June 24, 2023",
+                        "title": "What\u2019s behind California\u2019s unusually cold weather \u2014 and what\u2019s coming next",
+                        "url": "https://www.sfchronicle.com/weather/article/california-cold-temperature-june-18163586.php",
+                        "note": "Shared byline with Gerry D\u00edaz"
+                    },
+                    {
                         "date": "June 14, 2023",
                         "title": "El Ni\u00f1o typically means wet California winters. These charts show what might be in store",
                         "url": "https://www.sfchronicle.com/weather/article/el-nino-california-18144779.php",
@@ -229,7 +271,7 @@
                     },
                     {
                         "date": "Feb. 15, 2023",
-                        "title": "We were surprised': California\u2019s wildfire risk maps are missing this key info, study finds",
+                        "title": "'We were surprised': California\u2019s wildfire risk maps are missing this key info, study finds",
                         "url": "https://www.sfchronicle.com/weather/article/california-wildfire-risk-inequity-17784387.php",
                         "note": ""
                     },
