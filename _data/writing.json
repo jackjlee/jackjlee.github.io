@@ -6,6 +6,48 @@
                 "category-name": "2023",
                 "stories": [
                     {
+                        "date": "Sept. 06, 2023",
+                        "title": "Map shows where California's wildfires became more explosive",
+                        "url": "https://www.sfchronicle.com/weather/article/climate-change-weather-map-18343696.php",
+                        "note": ""
+                    },
+                    {
+                        "date": "Aug. 21, 2023",
+                        "title": "California rain totals: Map shows how much rain Tropical Storm Hilary brought",
+                        "url": "https://www.sfchronicle.com/weather/article/tropical-storm-hilary-rain-totals-map-18306774.php",
+                        "note": ""
+                    },
+                    {
+                        "date": "Aug. 18, 2023",
+                        "title": "California is in Hurricane Hilary\u2019s path. Here\u2019s how rare the storm will be",
+                        "url": "https://www.sfchronicle.com/weather/article/hurricane-hilary-storm-california-18301898.php",
+                        "note": "Shared byline with Anthony Edwards"
+                    },
+                    {
+                        "date": "Aug. 16, 2023",
+                        "title": "Hurricane Hilary is heading toward California. Here\u2019s a timeline of impacts",
+                        "url": "https://www.sfchronicle.com/weather/article/tropical-storm-hurricane-18299238.php",
+                        "note": "Shared byline with Anthony Edwards and Gerry D\u00edaz"
+                    },
+                    {
+                        "date": "Aug. 14, 2023",
+                        "title": "Scientists discover new details on weather phenomenon behind some of California\u2019s worst fires",
+                        "url": "https://www.sfchronicle.com/weather/article/dry-lightning-18289858.php",
+                        "note": ""
+                    },
+                    {
+                        "date": "Aug. 03, 2023",
+                        "title": "The jet stream is weakening. Here\u2019s why that\u2019s a warning for California",
+                        "url": "https://www.sfchronicle.com/weather/article/california-heat-climate-change-18265220.php",
+                        "note": ""
+                    },
+                    {
+                        "date": "Aug. 01, 2023",
+                        "title": "Why California waves are swelling to extreme highs",
+                        "url": "https://www.sfchronicle.com/weather/article/california-ocean-waves-18270060.php",
+                        "note": ""
+                    },
+                    {
                         "date": "July 21, 2023",
                         "title": "This is the robot that is scorching California\u2019s fire-prone landscape",
                         "url": "https://www.sfchronicle.com/weather/article/robot-tech-burn-risk-18189272.php",
@@ -36,7 +78,7 @@
                         "note": "Shared byline with Sam Whiting; updated version of story published in September 2022."
                     },
                     {
-                        "date": "June 27, 2923",
+                        "date": "June 27, 2023",
                         "title": "California\u2019s air quality has been better than normal this year. Here\u2019s why",
                         "url": "https://www.sfchronicle.com/weather/article/bay-area-air-quality-18171337.php",
                         "note": ""

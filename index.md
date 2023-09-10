@@ -6,30 +6,30 @@ header:
   image: /assets/images/splash-image-stripes.png
   caption: "Ed Hawkins (CC BY-SA 4.0)"
 feature_row:
-    - image_path: assets/images/feat-image-river.jpg
-      image_caption: "Sequoia and Kings Canyon National Parks"
-      alt: "Photo of a swiftly flowing river from an April 13 Facebook post by Sequoia and Kings Canyon National Parks."
-      title: "Streamflow"
-      excerpt: "*SF Chronicle*, May 29, 2023<br><br>Map shows epic amounts of water gushing through California rivers"
-      url: "https://www.sfchronicle.com/california/article/river-flow-snowpack-water-18119571.php"
+    - image_path: assets/images/feat-image-death-valley.jpg
+      image_caption: "[California Highway Patrol](https://www.nps.gov/media/photo/gallery-item.htm?pg=7589199&id=b5bc2fc2-5744-4a9e-8d83-7d3291025091&gid=0A999AF1-CA8E-4579-918E-722B2EBBD152)"
+      alt: "Rocks, mud and floodwater being cleared from highway 190 after heavy rains hit Death Valley National Park early evening August 20."
+      title: "Unusual rain"
+      excerpt: "*SF Chronicle*, Aug. 21, 2023<br><br>Map shows how much rain Tropical Storm Hilary brought."
+      url: "https://www.sfchronicle.com/weather/article/tropical-storm-hilary-rain-totals-map-18306774.php"
       btn_label: "Read More"
       btn_class: "btn--primary"
-    - image_path: assets/images/feat-image-elnino.jpg
-      image_caption: "NOAA Climate.gov"
-      alt: "Graphic showing the typical impact of El Niño on the jet stream and winter weather in the United States."
-      title: "El Niño"
-      excerpt: "*SF Chronicle*, May 21, 2023<br><br>Predicting whether the upcoming winter will bring even more wet weather to California is complicated."
-      url: "https://www.sfchronicle.com/weather/article/california-el-nino-18106597.php"
-      btn_label: "Read More"
-      btn_class: "btn--primary"
-    - image_path: assets/images/feat-image-snowpack.jpg
-      image_caption: "NASA's Earth Observatory"
-      alt: "Satellite image of the Sierra snowpack on April 6, 2023."
-      title: "Climate whiplash"
-      excerpt: "*SF Chronicle*, May 04, 2023<br><br>Satellite images show dramatic swings of California’s snowpack."
+    - image_path: assets/images/feat-image-lightning.jpg
+      image_caption: "[David Yu (CC BY-NC 2.0)](https://www.flickr.com/photos/davidyuweb/50237557552)"
+      alt: "Photo of San Francisco from the Marin Headlands on August 22, 2022."
+      title: "Dry lightning"
+      excerpt: "*SF Chronicle*, Aug. 14, 2023<br><br>Scientists discover new details on weather phenomenon behind some of California’s worst fires."
       url: "https://www.sfchronicle.com/weather/article/california-snowpack-17918291.php"
       btn_label: "Read More"
       btn_class: "btn--primary"    
+    - image_path: assets/images/feat-image-wave.jpg
+      image_caption: "[Shalom Jacobovitz (CC BY-SA 2.0)](https://en.wikipedia.org/w/index.php?title=File:2010_mavericks_competition.jpg&oldid=521147366)"
+      alt: "Surfer on a wave during the 2010 Mavericks surfing competition."
+      title: "California waves"
+      excerpt: "*SF Chronicle*, Aug. 01, 2023<br><br>Seismic records reveal that waves are swelling to extreme highs."
+      url: "https://www.sfchronicle.com/weather/article/california-ocean-waves-18270060.php"
+      btn_label: "Read More"
+      btn_class: "btn--primary"
 
 ---
 

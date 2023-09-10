@@ -3,7 +3,7 @@
 title: Jack J. Lee | Science Writer
 email: jackjleescience@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Jack J. Lee is a science journalist training in the Science Communcation Program at UC Santa Cruz
+  Jack J. Lee is a weather science data reporter at the San Francisco Chronicle
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jackjlee
@@ -29,7 +29,7 @@ defaults:
 author:
   name     : "Jack J. Lee"
   avatar   : "/assets/images/bio-photo.jpg"
-  bio      : "Science-writer-in-training at UC Santa Cruz"
+  bio      : "Weather science data reporter at the San Francisco Chronicle"
   links:
       - label: "Email"
         icon: "fas fa-envelope"
