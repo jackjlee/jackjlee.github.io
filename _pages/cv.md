@@ -80,4 +80,11 @@ Bayer TS, Hoff KG, Beisel CL, **Lee JJ**, Smolke CD.
 Synthetic control of a fitness tradeoff in yeast nitrogen metabolism.
 _Journal of Biological Engineering_ **3**:1 (2009)  
 [Full Text](https://jbioleng.biomedcentral.com/articles/10.1186/1754-1611-3-1) |
-[Pubmed](https://www.ncbi.nlm.nih.gov/pubmed/19118500)  
+[Pubmed](https://www.ncbi.nlm.nih.gov/pubmed/19118500)
+
+
+## Awards
+
+**2023 Online Journalism Awards**
+<br>[Finalist, Explanatory Reporting, Medium Newsroom](https://awards.journalists.org/entries/explaining-californias-extreme-weather-in-a-changing-climate/)
+<br>Stories with John Blanchard, Gerry Díaz, Hannah Hagemann and Yoohyun Jung
