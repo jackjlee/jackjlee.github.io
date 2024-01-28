@@ -3,6 +3,83 @@
         "outlet": "San Francisco Chronicle",
         "categories": [
             {
+                "category-name": "2024",
+                "stories": [
+                    {
+                        "date": "Jan. 27, 2024",
+                        "title": "Rumors of an \u2018ARkStorm\u2019 are swirling. Here\u2019s what\u2019s really going on with the California forecast",
+                        "url": "https://www.sfchronicle.com/weather/article/california-storm-jet-stream-18627924.php",
+                        "note": ""
+                    },
+                    {
+                        "date": "Jan. 24, 2024",
+                        "title": "49ers vs. Lions: Dramatically different weather on tap for NFC Championship Game",
+                        "url": "https://www.sfchronicle.com/weather-forecast/article/49ers-nfc-championship-18625718.php",
+                        "note": ""
+                    },
+                    {
+                        "date": "Jan. 24, 2024",
+                        "title": "Photos show \u2018amazing\u2019 Bay Area sunrises and sunsets. Here\u2019s why they\u2019ve looked so incredible lately",
+                        "url": "https://www.sfchronicle.com/weather/article/sunrise-sunset-bay-area-18615926.php",
+                        "note": ""
+                    },
+                    {
+                        "date": "Jan. 22, 2024",
+                        "title": "Map shows California rain totals from recent storms",
+                        "url": "https://www.sfchronicle.com/weather/article/california-storm-total-18621444.php",
+                        "note": ""
+                    },
+                    {
+                        "date": "Jan. 19, 2024",
+                        "title": "Several rounds of storms bringing heavy rainfall, flood risk to these parts of California",
+                        "url": "https://www.sfchronicle.com/weather/article/california-flood-risk-weekend-storms-18617250.php",
+                        "note": ""
+                    },
+                    {
+                        "date": "Jan. 18, 2024",
+                        "title": "California could face more atmospheric river \u2018super-sequences,\u2019 study finds",
+                        "url": "https://www.sfchronicle.com/weather/article/california-atmospheric-river-18613123.php",
+                        "note": ""
+                    },
+                    {
+                        "date": "Jan. 16, 2024",
+                        "title": "Map shows how recent storms impacted California\u2019s snowpack",
+                        "url": "https://www.sfchronicle.com/weather/article/california-storm-snowpack-18600659.php",
+                        "note": ""
+                    },
+                    {
+                        "date": "Jan. 14, 2024",
+                        "title": "The planet experienced an astonishing change last year. But California was an outlier",
+                        "url": "https://www.sfchronicle.com/weather/article/earth-record-hottest-year-california-trend-18597077.php",
+                        "note": ""
+                    },
+                    {
+                        "date": "Jan. 12, 2024",
+                        "title": "More snow is coming to the California mountains. Here\u2019s when to expect impacts",
+                        "url": "https://www.sfchronicle.com/weather/article/snow-tahoe-sierra-california-18603110.php",
+                        "note": ""
+                    },
+                    {
+                        "date": "Jan. 11, 2024",
+                        "title": "\u2018Act of God\u2019: Why the deadly Palisades Tahoe avalanche was so unusual",
+                        "url": "https://www.sfchronicle.com/california/article/palisades-tahoe-avalanche-snow-sierra-conditions-18601984.php",
+                        "note": "Shared byline with Nora Mishanec"
+                    },
+                    {
+                        "date": "Jan. 09, 2024",
+                        "title": "Map shows nation\u2019s most extreme weather disasters that hit in 2023",
+                        "url": "https://www.sfchronicle.com/weather/article/billion-dollar-disasters-18598651.php",
+                        "note": ""
+                    },
+                    {
+                        "date": "Jan. 02, 2024",
+                        "title": "California snow: Map shows forecast during winter storms",
+                        "url": "https://www.sfchronicle.com/projects/2024/california-snow/",
+                        "note": "Shared byline with Anthony Edwards"
+                    }
+                ]
+            },
+            {
                 "category-name": "2023",
                 "stories": [
                     {
