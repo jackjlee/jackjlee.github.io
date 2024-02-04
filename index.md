@@ -3,8 +3,8 @@ title: "Home"
 permalink: /
 layout: splash
 header:
-  image: /assets/images/splash-image-stripes.png
-  caption: "Ed Hawkins (CC BY-SA 4.0)"
+  image: /assets/images/splash-image-fog.jpg
+  caption: "Corey Agopian (CC0 1.0 Universal)"
 feature_row:
     - image_path: assets/images/feat-image-satellite.jpg
       image_caption: "[RAMMB / CIRA](https://rammb-slider.cira.colostate.edu/)"
