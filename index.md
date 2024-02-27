@@ -6,12 +6,12 @@ header:
   image: /assets/images/splash-image-fog.jpg
   caption: "Corey Agopian (CC0 1.0 Universal)"
 feature_row:
-    - image_path: assets/images/feat-image-satellite.jpg
-      image_caption: "[RAMMB / CIRA](https://rammb-slider.cira.colostate.edu/)"
-      alt: "Satellite view of storm over the Pacific Ocean on Jan. 31."
-      title: "Spinning storm"
-      excerpt: "*SF Chronicle*, Jan. 31, 2024<br><br>Satellite images show strong California storm spiraling over Pacific Ocean."
-      url: "https://www.sfchronicle.com/weather/article/satellilte-storm-18639791.php"
+    - image_path: assets/images/feat-image-elnino.jpg
+      image_caption: "[Climate.gov](https://www.climate.gov/news-features/featured-images/how-el-ni%C3%B1o-and-la-ni%C3%B1a-affect-winter-jet-stream-and-us-climate)"
+      alt: "Winter El Niño pattern"
+      title: "El Niño"
+      excerpt: "*SF Chronicle*, Feb. 14, 2024<br><br>El Niño is fading — but La Niña may be on way. What it means for California weather."
+      url: "https://www.sfchronicle.com/weather/article/el-nino-la-nina-18656910.php"
       btn_label: "Read More"
       btn_class: "btn--primary"
     - image_path: assets/images/feat-image-sunrise.jpg
