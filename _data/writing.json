@@ -6,6 +6,66 @@
                 "category-name": "2024",
                 "stories": [
                     {
+                        "date": "July 26, 2024",
+                        "title": "Park Fire is one of California\u2019s largest wildfires. Why it burned so fast",
+                        "url": "https://www.sfchronicle.com/weather/article/park-fire-largest-california-history-19599552.php",
+                        "note": ""
+                    },
+                    {
+                        "date": "July 24, 2024",
+                        "title": "California \u2018atmospheric thirst\u2019 is drying out the state. Map shows where flash drought is developing",
+                        "url": "https://www.sfchronicle.com/weather/article/evaporative-demand-wildfire-risk-19592476.php",
+                        "note": ""
+                    },
+                    {
+                        "date": "July 23, 2024",
+                        "title": "The Earth just experienced its two hottest days on record: \u2018Truly uncharted territory\u2019",
+                        "url": "https://www.sfchronicle.com/weather/article/earth-marks-hottest-day-on-record-19591835.php",
+                        "note": ""
+                    },
+                    {
+                        "date": "July 20, 2024",
+                        "title": "California reservoir levels dropped by billions of gallons in July. Here\u2019s why",
+                        "url": "https://www.sfchronicle.com/weather/article/water-reservoir-california-summer-19580459.php",
+                        "note": ""
+                    },
+                    {
+                        "date": "July 11, 2024",
+                        "title": "\u2018A scorching pattern\u2019: California\u2019s intense heat wave shattered temperature records",
+                        "url": "https://www.sfchronicle.com/weather/article/where-heat-wave-broke-temperature-streak-records-19565388.php",
+                        "note": ""
+                    },
+                    {
+                        "date": "July 10, 2024",
+                        "title": "California heat wave: Where excessive heat warnings and advisories are in effect",
+                        "url": "https://www.sfchronicle.com/weather/article/california-excessive-heat-warning-19563501.php",
+                        "note": ""
+                    },
+                    {
+                        "date": "July 09, 2024",
+                        "title": "Map: Where California\u2019s historic heat wave broke temperature records",
+                        "url": "https://www.sfchronicle.com/weather/article/california-heat-records-temperature-19561040.php",
+                        "note": ""
+                    },
+                    {
+                        "date": "July 03, 2024",
+                        "title": "California air quality could get bad this week with historic heat, smoke and fireworks",
+                        "url": "https://www.sfchronicle.com/weather/article/california-heat-air-quality-19550134.php",
+                        "note": ""
+                    },
+                    {
+                        "date": "July 02, 2024",
+                        "title": "California heat wave: Smoke from Thompson Fire to reach Bay Area",
+                        "url": "https://www.sfchronicle.com/weather/article/california-excessive-heat-advisory-warning-19549580.php",
+                        "note": "Contributed to live blog with other Chronicle staff"
+                    },
+                    {
+                        "date": "July 01, 2024",
+                        "title": "California heat risk map: Tracking dangerously hot weather",
+                        "url": "https://www.sfchronicle.com/projects/2024/california-heat-risk-map/",
+                        "note": "Shared byline with Janie Haseman"
+                    },
+                    {
                         "date": "June 28, 2024",
                         "title": "Are S.F.\u2019s summers really the coldest? Here\u2019s how the city ranks nationally",
                         "url": "https://www.sfchronicle.com/weather/article/san-francisco-cold-summer-19541798.php",
