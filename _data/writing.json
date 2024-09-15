@@ -6,6 +6,42 @@
                 "category-name": "2024",
                 "stories": [
                     {
+                        "date": "Aug. 29, 2024",
+                        "title": "Post-wildfire erosion in California threatens water storage and increases flood risk",
+                        "url": "https://www.sfchronicle.com/weather/article/california-wildfire-flood-debris-flows-19728766.php",
+                        "note": ""
+                    },
+                    {
+                        "date": "Aug. 22, 2024",
+                        "title": "New Nvidia AI builds on \u2018game-changing\u2019 models and could make weather forecasts more accurate",
+                        "url": "https://www.sfchronicle.com/weather/article/california-ai-forecasts-19667332.php",
+                        "note": "Shared byline with Greg Porter"
+                    },
+                    {
+                        "date": "Aug. 16, 2024",
+                        "title": "Study: The body ages dramatically at 44 and 60. Nearly 200,000 Bay Area residents fall into those categories",
+                        "url": "https://www.sfchronicle.com/health/article/stanford-study-aging-disease-19658460.php",
+                        "note": ""
+                    },
+                    {
+                        "date": "Aug. 10, 2024",
+                        "title": "Bay Area microclimates can feel completely different. This BART map shows how much",
+                        "url": "https://www.sfchronicle.com/weather/article/bart-temperature-map-19625982.php",
+                        "note": "Shared byline with Sriharsha Devulapalli"
+                    },
+                    {
+                        "date": "Aug. 08, 2024",
+                        "title": "La Ni\u00f1a is arriving in California later than previously forecasted. Here\u2019s why",
+                        "url": "https://www.sfchronicle.com/weather/article/la-nina-california-19625932.php",
+                        "note": ""
+                    },
+                    {
+                        "date": "Aug. 05, 2024",
+                        "title": "California cities could undergo drastic weather changes. Maps show possible climate scenarios",
+                        "url": "https://www.sfchronicle.com/projects/2024/sf-climate-change-california-cities/",
+                        "note": "Shared byline with Janie Haseman"
+                    },
+                    {
                         "date": "July 26, 2024",
                         "title": "Park Fire is one of California\u2019s largest wildfires. Why it burned so fast",
                         "url": "https://www.sfchronicle.com/weather/article/park-fire-largest-california-history-19599552.php",
