@@ -6,28 +6,28 @@ header:
   image: /assets/images/splash-image-fog.jpg
   caption: "Corey Agopian (CC0 1.0 Universal)"
 feature_row:
-    - image_path: assets/images/feat-image-elnino.jpg
-      image_caption: "[Climate.gov](https://www.climate.gov/news-features/featured-images/how-el-ni%C3%B1o-and-la-ni%C3%B1a-affect-winter-jet-stream-and-us-climate)"
-      alt: "Winter El Niño pattern"
-      title: "El Niño"
-      excerpt: "*SF Chronicle*, Feb. 14, 2024<br><br>El Niño is fading — but La Niña may be on way. What it means for California weather."
-      url: "https://www.sfchronicle.com/weather/article/el-nino-la-nina-18656910.php"
+    - image_path: assets/images/feat-image-reservoir.jpg
+      image_caption: "[DWR](https://water.ca.gov/News/News-Releases/2024/Sep-24/California-Prepares-for-Extreme-Weather-Swings-as-New-Water-Year-Approaches)"
+      alt: "Drone photo of Lake Oroville. Photo taken Sept. 5, 2024."
+      title: "Reservoirs"
+      excerpt: "*S.F. Chronicle*, Nov. 26, 2024<br><br>Where California reservoir levels stand after atmospheric river-fueled storm."
+      url: "https://www.sfchronicle.com/weather/article/california-storm-reservoirs-19942329.php"
       btn_label: "Read More"
       btn_class: "btn--primary"
-    - image_path: assets/images/feat-image-sunrise.jpg
-      image_caption: "[Rafael Ramirez (CC BY-SA 4.0)](https://commons.wikimedia.org/wiki/File:San_Francisco-Bay_Bridge_Sunrise.jpg)"
-      alt: "Photo of sunrise at Bay Bridge by the Embarcadero."
-      title: "Stunning skies"
-      excerpt: "*SF Chronicle*, Jan. 24, 2024<br><br>Photos show ‘amazing’ Bay Area sunrises and sunsets. Here’s why they’ve looked so incredible lately."
-      url: "https://www.sfchronicle.com/weather/article/sunrise-sunset-bay-area-18615926.php"
+    - image_path: assets/images/feat-image-lanina.jpg
+      image_caption: "[NOAA Climate.gov](https://www.climate.gov/news-features/featured-images/how-el-ni%C3%B1o-and-la-ni%C3%B1a-affect-winter-jet-stream-and-us-climate)"
+      alt: "Graphic showing typical La Niña winter pattern."
+      title: "La Niña"
+      excerpt: "*S.F. Chronicle*, Nov. 14, 2024<br><br>Will La Niña emerge this year? The forecast is starting to shift."
+      url: "https://www.sfchronicle.com/weather/article/california-la-nina-update-19913315.php"
       btn_label: "Read More"
       btn_class: "btn--primary"    
-    - image_path: assets/images/feat-image-flooding.jpg
-      image_caption: "[Bruce Washburn (CC BY 2.0)](https://commons.wikimedia.org/wiki/File:Flood_at_42nd_St_under_cross_(52601112746).jpg)"
-      alt: "Photograph of flooding under an overpass."
-      title: "Back-to-back storms"
-      excerpt: "*SF Chronicle*, Jan. 18, 2024<br><br>California could face more atmospheric river ‘super-sequences,’ study finds."
-      url: "https://www.sfchronicle.com/weather/article/california-atmospheric-river-18613123.php"
+    - image_path: assets/images/feat-image-aurora.jpg
+      image_caption: "[NWS Bay Area](https://x.com/NWSBayArea/status/1844587279995593112)"
+      alt: "Photograph of northern lights visible from the NWS Bay Area office in October 2024."
+      title: "Aurora"
+      excerpt: "*S.F. Chronicle*, Nov. 10, 2024<br><br>Missed the northern lights? Here’s why Californians may get another chance."
+      url: "https://www.sfchronicle.com/science/article/california-solar-maximum-northern-lights-19894484.php"
       btn_label: "Read More"
       btn_class: "btn--primary"
 
