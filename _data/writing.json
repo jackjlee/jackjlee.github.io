@@ -3,6 +3,53 @@
         "outlet": "San Francisco Chronicle",
         "categories": [
             {
+                "category-name": "2025",
+                "stories": [
+                    {
+                        "date": "Jan. 28, 2025",
+                        "title": "Here\u2019s how much climate change increased the chances of the L.A. fires burning",
+                        "url": "https://www.sfchronicle.com/weather/article/la-fires-climate-change-20058539.php",
+                        "note": ""
+                    },
+                    {
+                        "date": "Jan. 28, 2025",
+                        "title": "Toxic metal levels surge in Elkhorn Slough after battery plant fire",
+                        "url": "https://www.sfchronicle.com/weather/article/moss-landing-fire-heavy-metals-20059353.php",
+                        "note": ""
+                    },
+                    {
+                        "date": "Jan. 23, 2025",
+                        "title": "L.A. fires are bringing ash 100 miles offshore. Here\u2019s how scientists think it could impact oceans",
+                        "url": "https://www.sfchronicle.com/weather/article/los-angeles-fires-ocean-ash-20047932.php",
+                        "note": ""
+                    },
+                    {
+                        "date": "Jan. 16, 2025",
+                        "title": "Southern California faces the most extreme \u2018whiplash\u2019 in the U.S. Here\u2019s what that means",
+                        "url": "https://www.sfchronicle.com/weather/article/hydroclimate-whiplash-wildfire-california-20034331.php",
+                        "note": ""
+                    },
+                    {
+                        "date": "Jan. 09, 2025",
+                        "title": "How drought and Santa Ana winds set the stage for deadly California wildfires",
+                        "url": "https://www.sfchronicle.com/weather/article/california-fires-drought-cause-20024928.php",
+                        "note": "Shared byline with Anthony Edwards"
+                    },
+                    {
+                        "date": "Jan. 09, 2025",
+                        "title": "California weather has been a tale of two extremes as fires rage in L.A. Is La Ni\u00f1a to blame?",
+                        "url": "https://www.sfchronicle.com/weather/article/la-nina-california-fires-20021141.php",
+                        "note": ""
+                    },
+                    {
+                        "date": "Jan. 04, 2025",
+                        "title": "Drought is back in this part of California, increasing wildfire risk",
+                        "url": "https://www.sfchronicle.com/weather/article/drought-water-fire-california-20011706.php",
+                        "note": ""
+                    }
+                ]
+            },
+            {
                 "category-name": "2024",
                 "stories": [
                     {
