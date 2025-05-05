@@ -6,6 +6,48 @@
                 "category-name": "2025",
                 "stories": [
                     {
+                        "date": "April 25, 2025",
+                        "title": "Surprise atmospheric rivers, toxic seafood: How NOAA cuts could impact California",
+                        "url": "https://www.sfchronicle.com/weather/article/noaa-budget-cut-california-20290652.php",
+                        "note": "Shared byline with Anthony Edwards"
+                    },
+                    {
+                        "date": "April 21, 2025",
+                        "title": "How to watch the Lyrid meteor shower in the Bay Area Monday night",
+                        "url": "https://www.sfchronicle.com/weather/article/lyrid-meteor-shower-viewing-bay-area-20286519.php",
+                        "note": ""
+                    },
+                    {
+                        "date": "April 20, 2025",
+                        "title": "Extreme \u2018thirstwaves\u2019 are an emerging risk in California. Here\u2019s why",
+                        "url": "https://www.sfchronicle.com/weather/article/atmosphere-thirstwave-agriculture-wildfire-20279360.php",
+                        "note": ""
+                    },
+                    {
+                        "date": "April 15, 2025",
+                        "title": "Not one but two Bay Area counties lead the nation in this birth statistic",
+                        "url": "https://www.sfchronicle.com/bayarea/article/mother-birth-age-oldest-nationally-20269493.php",
+                        "note": ""
+                    },
+                    {
+                        "date": "April 10, 2025",
+                        "title": "The La Ni\u00f1a that never truly was, is over. Here\u2019s what comes next",
+                        "url": "https://www.sfchronicle.com/weather/article/california-la-nina-climate-20265792.php",
+                        "note": ""
+                    },
+                    {
+                        "date": "April 05, 2025",
+                        "title": "Bay Area patients among first in U.S. to receive life-changing Parkinson\u2019s treatment",
+                        "url": "https://www.sfchronicle.com/health/article/parkinsons-adaptive-deep-brain-stimulation-20235058.php",
+                        "note": ""
+                    },
+                    {
+                        "date": "April 04, 2025",
+                        "title": "This Silicon Valley city has the highest coastal flood risk in California",
+                        "url": "https://www.sfchronicle.com/weather/article/redwood-city-sea-level-flood-20253300.php",
+                        "note": ""
+                    },
+                    {
                         "date": "March 29, 2025",
                         "title": "Attacks on federal science hit Bay Area researchers studying vaccines: \u2018I have to let people go\u2019",
                         "url": "https://www.sfchronicle.com/science/article/federal-grants-vaccine-research-20232506.php",
