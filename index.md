@@ -6,28 +6,28 @@ header:
   image: /assets/images/splash-image-fog.jpg
   caption: "Corey Agopian (CC0 1.0 Universal)"
 feature_row:
-    - image_path: assets/images/feat-image-reservoir.jpg
-      image_caption: "[DWR](https://water.ca.gov/News/News-Releases/2024/Sep-24/California-Prepares-for-Extreme-Weather-Swings-as-New-Water-Year-Approaches)"
-      alt: "Drone photo of Lake Oroville. Photo taken Sept. 5, 2024."
-      title: "Reservoirs"
-      excerpt: "*S.F. Chronicle*, Nov. 26, 2024<br><br>Where California reservoir levels stand after atmospheric river-fueled storm."
-      url: "https://www.sfchronicle.com/weather/article/california-storm-reservoirs-19942329.php"
+    - image_path: assets/images/feat-image-ronan.jpg
+      image_caption: "[Colleen Reichmuth; NOAA/NMFS 23554](https://news.ucsc.edu/2025/05/ronan-sea-lion-beats-humans/)"
+      alt: "Photo of California sea lion Ronan at UC Santa Cruz’s Long Marine Laboratory."
+      title: "Biomusicality"
+      excerpt: "*S.F. Chronicle*, May 01, 2025<br><br>California sea lion can keep a beat as well as humans — if not better."
+      url: "https://www.sfchronicle.com/science/article/california-sea-lion-rhythm-study-viral-video-20300604.php"
       btn_label: "Read More"
       btn_class: "btn--primary"
+    - image_path: assets/images/feat-image-ar.jpg
+      image_caption: "[NOAA/NESDIS](https://www.nesdis.noaa.gov/news/atmospheric-river-soaks-california)"
+      alt: "Imagery of an atmospheric river on Feb. 14, 2019, captured by the GOES West (GOES-17) satellite."
+      title: "NOAA cuts"
+      excerpt: "*S.F. Chronicle*, April 25, 2025<br><br>Surprise atmospheric rivers, toxic seafood: How NOAA cuts could impact California."
+      url: "https://www.sfchronicle.com/weather/article/noaa-budget-cut-california-20290652.php"
+      btn_label: "Read More"
+      btn_class: "btn--primary"    
     - image_path: assets/images/feat-image-lanina.jpg
       image_caption: "[NOAA Climate.gov](https://www.climate.gov/news-features/featured-images/how-el-ni%C3%B1o-and-la-ni%C3%B1a-affect-winter-jet-stream-and-us-climate)"
       alt: "Graphic showing typical La Niña winter pattern."
       title: "La Niña"
-      excerpt: "*S.F. Chronicle*, Nov. 14, 2024<br><br>Will La Niña emerge this year? The forecast is starting to shift."
-      url: "https://www.sfchronicle.com/weather/article/california-la-nina-update-19913315.php"
-      btn_label: "Read More"
-      btn_class: "btn--primary"    
-    - image_path: assets/images/feat-image-aurora.jpg
-      image_caption: "[NWS Bay Area](https://x.com/NWSBayArea/status/1844587279995593112)"
-      alt: "Photograph of northern lights visible from the NWS Bay Area office in October 2024."
-      title: "Aurora"
-      excerpt: "*S.F. Chronicle*, Nov. 10, 2024<br><br>Missed the northern lights? Here’s why Californians may get another chance."
-      url: "https://www.sfchronicle.com/science/article/california-solar-maximum-northern-lights-19894484.php"
+      excerpt: "*S.F. Chronicle*, April 10, 2025<br><br>The La Niña that never truly was, is over. Here’s what comes next."
+      url: "https://www.sfchronicle.com/weather/article/california-la-nina-climate-20265792.php"
       btn_label: "Read More"
       btn_class: "btn--primary"
 
