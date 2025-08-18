@@ -6,30 +6,30 @@ header:
   image: /assets/images/splash-image-fog.jpg
   caption: "Corey Agopian (CC0 1.0 Universal)"
 feature_row:
-    - image_path: assets/images/feat-image-ronan.jpg
-      image_caption: "[Colleen Reichmuth; NOAA/NMFS 23554](https://news.ucsc.edu/2025/05/ronan-sea-lion-beats-humans/)"
-      alt: "Photo of California sea lion Ronan at UC Santa Cruz’s Long Marine Laboratory."
-      title: "Biomusicality"
-      excerpt: "*S.F. Chronicle*, May 01, 2025<br><br>California sea lion can keep a beat as well as humans — if not better."
-      url: "https://www.sfchronicle.com/science/article/california-sea-lion-rhythm-study-viral-video-20300604.php"
-      btn_label: "Read More"
-      btn_class: "btn--primary"
-    - image_path: assets/images/feat-image-ar.jpg
-      image_caption: "[NOAA/NESDIS](https://www.nesdis.noaa.gov/news/atmospheric-river-soaks-california)"
-      alt: "Imagery of an atmospheric river on Feb. 14, 2019, captured by the GOES West (GOES-17) satellite."
-      title: "NOAA cuts"
-      excerpt: "*S.F. Chronicle*, April 25, 2025<br><br>Surprise atmospheric rivers, toxic seafood: How NOAA cuts could impact California."
-      url: "https://www.sfchronicle.com/weather/article/noaa-budget-cut-california-20290652.php"
-      btn_label: "Read More"
-      btn_class: "btn--primary"    
     - image_path: assets/images/feat-image-lanina.jpg
       image_caption: "[NOAA Climate.gov](https://www.climate.gov/news-features/featured-images/how-el-ni%C3%B1o-and-la-ni%C3%B1a-affect-winter-jet-stream-and-us-climate)"
       alt: "Graphic showing typical La Niña winter pattern."
       title: "La Niña"
-      excerpt: "*S.F. Chronicle*, April 10, 2025<br><br>The La Niña that never truly was, is over. Here’s what comes next."
-      url: "https://www.sfchronicle.com/weather/article/california-la-nina-climate-20265792.php"
+      excerpt: "*S.F. Chronicle*, Aug. 14, 2025<br><br>La Niña is brewing. Here’s what it means for California weather."
+      url: "https://www.sfchronicle.com/weather/article/california-la-nina-watch-20814607.php"
       btn_label: "Read More"
       btn_class: "btn--primary"
+    - image_path: assets/images/feat-image-faults.jpg
+      image_caption: "[U.S. Geological Survey](https://www.usgs.gov/media/images/map-known-active-geologic-faults-san-francisco-bay-region)"
+      alt: "Map of known active geologic faults in the San Francisco Bay region."
+      title: "Earthquakes"
+      excerpt: "*S.F. Chronicle*, July 09, 2025<br><br>A Bay Area fault that could produce a major earthquake is not where scientists thought it was."
+      url: "https://www.sfchronicle.com/science/article/concord-fault-bay-area-earthquake-20761414.php"
+      btn_label: "Read More"
+      btn_class: "btn--primary"
+    - image_path: assets/images/feat-image-rubin.jpg
+      image_caption: "[NSF–DOE Vera C. Rubin Observatory](https://rubinobservatory.org/gallery/collections/first-look-gallery/n4kvj0cemd5pbdqgtjdgp2jg2t)"
+      alt: "Combined images showing clouds of gas and dust that comprise the Trifid nebula and the Lagoon nebula."
+      title: "Rubin Observatory"
+      excerpt: "*S.F. Chronicle*, June 23, 2025<br><br>Cutting-edge astronomy facility with Bay Area ties releases incredible space photos."
+      url: "https://www.sfchronicle.com/science/article/rubin-observatory-first-images-20382187.php"
+      btn_label: "Read More"
+      btn_class: "btn--primary"    
 
 ---
 
