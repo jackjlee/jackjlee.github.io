@@ -6,6 +6,60 @@
                 "category-name": "2025",
                 "stories": [
                     {
+                        "date": "Sept. 23, 2025",
+                        "title": "\u2018I wish I was anywhere but work\u2019: San Franciscans revel in hottest day of year",
+                        "url": "https://www.sfchronicle.com/sf/article/weather-heat-21063573.php",
+                        "note": "Shared byline with Lucy Hodgman"
+                    },
+                    {
+                        "date": "Sept. 22, 2025",
+                        "title": "Why some Bay Area residents woke up moments before Monday morning\u2019s earthquake",
+                        "url": "https://www.sfchronicle.com/bayarea/article/berkeley-earthquake-shaking-wake-up-early-21061363.php",
+                        "note": ""
+                    },
+                    {
+                        "date": "Sept. 18, 2025",
+                        "title": "California flood map: See real-time updates",
+                        "url": "https://www.sfchronicle.com/projects/flood-map-california-bay-area/",
+                        "note": "Collaboration with Hearst Devhub"
+                    },
+                    {
+                        "date": "Sept. 18, 2025",
+                        "title": "Wildfire smoke could cause over 70,000 excess deaths per year by 2050s, study finds",
+                        "url": "https://www.sfchronicle.com/california-wildfires/article/wildfire-smoke-deaths-study-stanford-21053446.php",
+                        "note": ""
+                    },
+                    {
+                        "date": "Sept. 17, 2025",
+                        "title": "Yes, wild chimps consume alcohol. Here\u2019s how much \u2014 and what that tells us about humans",
+                        "url": "https://www.sfchronicle.com/science/article/uc-berkeley-chimps-alcohol-21051675.php",
+                        "note": ""
+                    },
+                    {
+                        "date": "Sept. 11, 2025",
+                        "title": "Odds of La Ni\u00f1a developing have increased. Here\u2019s what it means for California weather",
+                        "url": "https://www.sfchronicle.com/weather/article/california-la-nina-forecast-21041331.php",
+                        "note": ""
+                    },
+                    {
+                        "date": "Sept. 10, 2025",
+                        "title": "Twice as many California homes could survive major wildfires by doing this",
+                        "url": "https://www.sfchronicle.com/california-wildfires/article/home-hardening-fire-study-21037458.php",
+                        "note": ""
+                    },
+                    {
+                        "date": "Sept. 03, 2025",
+                        "title": "This low-calorie ingredient could be contributing to cognitive decline, study finds",
+                        "url": "https://www.sfchronicle.com/health/article/sugar-substitute-cognitive-decline-21029114.php",
+                        "note": ""
+                    },
+                    {
+                        "date": "Sept. 02, 2025",
+                        "title": "\u2018Remarkable\u2019 weather system brings flood risk to Southern California",
+                        "url": "https://www.sfchronicle.com/weather/article/thunderstorm-flood-risk-california-21026980.php",
+                        "note": "Shared byline with Anthony Edwards"
+                    },
+                    {
                         "date": "Aug. 30, 2025",
                         "title": "California scientists solved a 1954 quake puzzle. Here\u2019s what it means for the next \u2018Big One\u2019",
                         "url": "https://www.sfchronicle.com/science/article/earthquake-humboldt-california-21017016.php",
@@ -593,7 +647,7 @@
                         "note": ""
                     },
                     {
-                        "date": "Sept. 17, 2924",
+                        "date": "Sept. 17, 2024",
                         "title": "Northern lights appeared over California on Monday. Here\u2019s what to expect tonight",
                         "url": "https://sfchronicle.com/weather/article/northern-lights-aurora-this-week-california-19771517.php",
                         "note": ""
