@@ -33,13 +33,11 @@ feature_row:
 
 ---
 
-Hello! I'm Jack, a [weather science data reporter](https://www.sfchronicle.com/author/jack-lee/) with the San Francisco Chronicle.
+Hello! I'm Jack, a [science reporter](https://www.sfchronicle.com/author/jack-lee/) with the San Francisco Chronicle.
 
-I'm part of the [California Weather Wonks](https://www.sfchronicle.com/weather/article/sf-chronicle-weather-team-17380617.php), a small but mighty team dedicated to explaining the how and why behind weather in the S.F. Bay Area and California.
+My path to science journalism has taken a few twists and turns. I earned a Ph.D. in [molecular biology](https://molbio.princeton.edu/) at Princeton Unversity and worked as a data engineer before completing the [science communication program](https://scicom.ucsc.edu/) at UC Santa Cruz.
 
-My path to science journalism has taken a few twists and turns. I earned a Ph.D. in [molecular biology](https://molbio.princeton.edu/) at Princeton Unversity and worked as a data engineer before completing the [science communication program](https://scicom.ucsc.edu/) at UC Santa Cruz. Since then, I've written about a variety of science topics, from dinosaur eggs to heat waves to cancer prevention, through internships and as a freelancer.
-
-Now, I'm excited to have the opportunity to dive into datasets and talk with scientfic experts, to share the fascinating story of Bay Area weather!
+Now, I'm excited to have the opportunity to share my excitement for science and data!
 
 ## Featured Stories
 {% include feature_row id="feature_row" %}
