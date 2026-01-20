@@ -3,6 +3,29 @@
         "outlet": "San Francisco Chronicle",
         "categories": [
             {
+                "category-name": "2026",
+                "stories": [
+                    {
+                        "date": "Jan. 10, 2026",
+                        "title": "California reaches weather milestone for the first time in 25 years",
+                        "url": "https://www.sfchronicle.com/climate/article/california-drought-water-map-21284425.php",
+                        "note": ""
+                    },
+                    {
+                        "date": "Jan. 07, 2026",
+                        "title": "These California scientists maintain one of the world\u2019s longest-running snow datasets",
+                        "url": "https://www.sfchronicle.com/weather/article/sierra-snow-lab-uc-berkeley-21201502.php",
+                        "note": ""
+                    },
+                    {
+                        "date": "Jan. 07, 2026",
+                        "title": "Map shows where California rainfall is over 300% of average this season",
+                        "url": "https://www.sfchronicle.com/weather/article/california-rain-snow-map-21279797.php",
+                        "note": ""
+                    }
+                ]
+            },
+            {
                 "category-name": "2025",
                 "stories": [
                     {
